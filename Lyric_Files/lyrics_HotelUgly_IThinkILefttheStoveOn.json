@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/8209445",
+ "artist_names": "Hotel Ugly",
+ "full_title": "I Think I left The Stove On by\u00a0Hotel\u00a0Ugly",
+ "header_image_thumbnail_url": "https://images.genius.com/40acb8e52e9ee012f556c8747dc648fc.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/40acb8e52e9ee012f556c8747dc648fc.500x500x1.jpg",
+ "id": 8209445,
+ "instrumental": false,
+ "lyrics_owner_id": 12506581,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1705958852,
+ "path": "/Hotel-ugly-i-think-i-left-the-stove-on-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Hotel-ugly-i-think-i-left-the-stove-on-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 7,
+  "day": 14
+ },
+ "release_date_for_display": "July 14, 2022",
+ "release_date_with_abbreviated_month_for_display": "Jul. 14, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/40acb8e52e9ee012f556c8747dc648fc.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/40acb8e52e9ee012f556c8747dc648fc.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 6096
+ },
+ "title": "I Think I left The Stove On",
+ "title_with_featured": "I Think I left The Stove On",
+ "updated_by_human_at": 1705958853,
+ "url": "https://genius.com/Hotel-ugly-i-think-i-left-the-stove-on-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2275584",
+  "header_image_url": "https://images.genius.com/ffd94cfd3ec51d3c283b73c2c6b92559.994x208x1.jpg",
+  "id": 2275584,
+  "image_url": "https://images.genius.com/8a9d6d914e1af8d60509d8e7c0aea0be.500x500x1.jpg",
+  "index_character": "h",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Hotel Ugly",
+  "slug": "Hotel-ugly",
+  "url": "https://genius.com/artists/Hotel-ugly"
+ },
+ "artist": "Hotel Ugly",
+ "lyrics": "5 ContributorsI Think I left The Stove On Lyrics\nOne, two, three, four\n\nI don't think you know\nYou're the one and only\nWords like sticks and stones\nI guess it's just the way things go\n\nI've been a danger to myself\nI've tried to blame somebody else\nI once remember someone said\n\nWhatever happens to you\nDon't trip, it's all just in your head\nI tried to tell you the truth\nBut I don't think you understand\nI want to walk in your shoes\nSo I can see what's in your head\nWhatever happens to you\nWhatever happens to you\n\nEverything will fall right into place\nAll we do is wait for b\u0435tter days\nWhen I lay me down to sleep\nI pray that it's my lov\u0435 you'll keep\nDon't know what you got until it's gone\nJust tell me if you love me baby\n'Cause I can feel the distance baby\nAnd when you do it drives me crazy\nI just wanna tell you, baby\nI just wanna tell you\nYou might also like\nWhatever happens to you\nDon't trip, it's all just in your head\nI tried to tell you the truth\nBut I don't think you understand\nI want to walk in your shoes\nSo I can see what's in your head\nWhatever happens to you\nWhatever happens to youEmbed"
+}

@@ -1,0 +1,53 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/5013279",
+ "artist_names": "Billie Eilish",
+ "full_title": "\u200beverything i wanted by\u00a0Billie\u00a0Eilish",
+ "header_image_thumbnail_url": "https://images.genius.com/1c02cb407997ac92aa935c165a5d09c6.300x300x1.png",
+ "header_image_url": "https://images.genius.com/1c02cb407997ac92aa935c165a5d09c6.1000x1000x1.png",
+ "id": 5013279,
+ "instrumental": false,
+ "lyrics_owner_id": 1599419,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1701535364,
+ "path": "/Billie-eilish-everything-i-wanted-lyrics",
+ "pyongs_count": 304,
+ "relationships_index_url": "https://genius.com/Billie-eilish-everything-i-wanted-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 11,
+  "day": 13
+ },
+ "release_date_for_display": "November 13, 2019",
+ "release_date_with_abbreviated_month_for_display": "Nov. 13, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1c02cb407997ac92aa935c165a5d09c6.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/1c02cb407997ac92aa935c165a5d09c6.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 3507772
+ },
+ "title": "\u200beverything i wanted",
+ "title_with_featured": "\u200beverything i wanted",
+ "updated_by_human_at": 1710803708,
+ "url": "https://genius.com/Billie-eilish-everything-i-wanted-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/615550",
+  "header_image_url": "https://images.genius.com/a3ed3b2ef89f2e09aff8dce8a3a5471d.1000x429x1.jpg",
+  "id": 615550,
+  "image_url": "https://images.genius.com/14244102ea0faddd8a667833085357c3.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Billie Eilish",
+  "slug": "Billie-eilish",
+  "url": "https://genius.com/artists/Billie-eilish",
+  "iq": 8514
+ },
+ "artist": "Billie Eilish",
+ "lyrics": "302 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Rom\u00e2n\u0103Portugu\u00easPolskiNorsk (bokm\u00e5l / riksm\u00e5l)ItalianoBahasa IndonesiaMagyarDeutschFran\u00e7ais\u0641\u0627\u0631\u0633\u06ccNederlandsChinese TraditionalShqip\u0627\u0644\u0639\u0631\u0628\u064a\u0629Portugu\u00easDansk\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u200beverything i wanted Lyrics\nI had a dream\nI got everything I wanted\nNot what you'd think\nAnd if I'm bein' honest\nIt\u2005might've\u2005been a nightmare\nTo\u2005anyone who might care\nThought I could\u2005fly (Fly)\nSo I stepped off the Golden, mm\nNobody cried (Cried, cried, cried, cried)\nNobody even noticed\nI saw them standing right there\nKinda thought they might care (Might care, might care)\n\nI had a dream\nI got everything I wanted\nBut when I wake up, I see\nYou with me\n\nAnd you say, \"As long as I'm here, no one can hurt you\nDon't wanna lie here, but you can learn to\nIf I could change the way that you see yourself\nYou wouldn't wonder why you hear\n'They don't deserve you'\"\nYou might also like\nI tried to scream\nBut my head was underwater\nThey called me weak\nLike I'm not just somebody's daughter\nCoulda been a nightmare\nBut it felt like they were right there\nAnd it feels like yesterday was a year ago\nBut I don't wanna let anybody know\n'Cause everybody wants something from me now\nAnd I don't wanna let 'em down\n\nI had a dream\nI got everything I wanted\nBut when I wake up, I see\nYou with me\n\nAnd you say, \"As long as I'm here, no one can hurt you\nDon't wanna lie here, but you can learn to\nIf I could change the way that you see yourself\nYou wouldn't wonder why you hear\n'They don't deserve you'\"\n\nIf I knew it all then, would I do it again?\nWould I do it again?\nIf they knew what they said would go straight to my head\nWhat would they say instead?\nIf I knew it all then, would I do it again?\nWould I do it again?\nIf they knew what they said would go straight to my head\nWhat would they say instead?304Embed"
+}

@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 21,
+ "api_path": "/songs/136447",
+ "artist_names": "Pink Floyd",
+ "full_title": "Pigs (Three Different Ones) by\u00a0Pink\u00a0Floyd",
+ "header_image_thumbnail_url": "https://images.genius.com/e11f96e5d1392e886c221ad94baece10.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e11f96e5d1392e886c221ad94baece10.1000x1000x1.jpg",
+ "id": 136447,
+ "instrumental": false,
+ "lyrics_owner_id": 16,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1707911305,
+ "path": "/Pink-floyd-pigs-three-different-ones-lyrics",
+ "pyongs_count": 39,
+ "relationships_index_url": "https://genius.com/Pink-floyd-pigs-three-different-ones-sample",
+ "release_date_components": {
+  "year": 1977,
+  "month": 1,
+  "day": 23
+ },
+ "release_date_for_display": "January 23, 1977",
+ "release_date_with_abbreviated_month_for_display": "Jan. 23, 1977",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e11f96e5d1392e886c221ad94baece10.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e11f96e5d1392e886c221ad94baece10.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 14,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 328043
+ },
+ "title": "Pigs (Three Different Ones)",
+ "title_with_featured": "Pigs (Three Different Ones)",
+ "updated_by_human_at": 1707911305,
+ "url": "https://genius.com/Pink-floyd-pigs-three-different-ones-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/694",
+  "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+  "id": 694,
+  "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Pink Floyd",
+  "slug": "Pink-floyd",
+  "url": "https://genius.com/artists/Pink-floyd"
+ },
+ "artist": "Pink Floyd",
+ "lyrics": "115 ContributorsTranslationsEspa\u00f1olNederlandsPigs (Three Different Ones) Lyrics\n*Pig snorts*\n\nBig man, pig man, haha, charade you are, wooh!\nYou well-heeled big wheel, haha, charade you are\nAnd when your hand is on your heart\nYou're nearly a good laugh, almost a joker\nWith your head down in the pig bin saying, \u201cKeep on digging\u201d\nPig stain on your fat chin, what do you hope to find\nDown in the pig mine?\n\nYou're nearly a laugh\nYou're nearly a laugh, but you're really a cry\n\nBus stop rat bag, haha, charade you are\nYou fucked up old hag, haha, charade you are\nYou radiate cold shafts of broken glass\nYou're nearly a good laugh almost worth a quick grin\nYou like the feel of steel you're hot stuff with a hatpin\nAnd good fun with a handgun\n\nYou're nearly a laugh\nYou're nearly a laugh, but you're really a cry\nYou might also like\n\nHey you, Whitehouse, haha, charade you are\nYou house-proud town mouse, haha, charade you are\nYou're trying to keep our feelings off the street\nYou're nearly a real treat, all tight lips and cold feet\nAnd do you feel abused? \u2026! \u2026! \u2026! \u2026! \u2026! \u2026! \u2026! you!\nGotta stem the evil tide and keep it all on the inside\n\nMary, you're nearly a treat\nMary, you're nearly a treat, but you're really a cry\n\n39Embed"
+}

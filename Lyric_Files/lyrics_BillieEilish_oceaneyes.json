@@ -1,0 +1,53 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/2403346",
+ "artist_names": "Billie Eilish",
+ "full_title": "\u200b\u200bocean eyes by\u00a0Billie\u00a0Eilish",
+ "header_image_thumbnail_url": "https://images.genius.com/a1cfc10cdbf77cae1fabefe86b5caa81.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a1cfc10cdbf77cae1fabefe86b5caa81.1000x1000x1.jpg",
+ "id": 2403346,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1602193244,
+ "path": "/Billie-eilish-ocean-eyes-lyrics",
+ "pyongs_count": 205,
+ "relationships_index_url": "https://genius.com/Billie-eilish-ocean-eyes-sample",
+ "release_date_components": {
+  "year": 2015,
+  "month": 11,
+  "day": 19
+ },
+ "release_date_for_display": "November 19, 2015",
+ "release_date_with_abbreviated_month_for_display": "Nov. 19, 2015",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a0bd571a819d6c15f450632192dac147.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a0bd571a819d6c15f450632192dac147.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 1720748
+ },
+ "title": "\u200b\u200bocean eyes",
+ "title_with_featured": "\u200b\u200bocean eyes",
+ "updated_by_human_at": 1709562908,
+ "url": "https://genius.com/Billie-eilish-ocean-eyes-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/615550",
+  "header_image_url": "https://images.genius.com/a3ed3b2ef89f2e09aff8dce8a3a5471d.1000x429x1.jpg",
+  "id": 615550,
+  "image_url": "https://images.genius.com/14244102ea0faddd8a667833085357c3.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Billie Eilish",
+  "slug": "Billie-eilish",
+  "url": "https://genius.com/artists/Billie-eilish",
+  "iq": 8514
+ },
+ "artist": "Billie Eilish",
+ "lyrics": "147 ContributorsTranslationsDanskDeutschFran\u00e7aisNederlandsPortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439\u200b\u200bocean eyes Lyrics\nI've been watchin' you for some time\nCan't stop starin' at those ocean eyes\nBurning cities and napalm skies\nFifteen flares inside those ocean eyes\nYour ocean eyes\n\nNo fair\nYou really know how to make me cry\nWhen you give me those ocean eyes\nI'm scared\nI've never fallen from quite this high\nFallin' into your ocean eyes\nThose ocean eyes\n\nI've been walkin' through a world gone blind\nCan't stop thinkin' of your diamond mind\nCareful creature made friends with time\nHe left her lonely with a diamond mind\nAnd those ocean eyes\n\nNo fair (No fair)\nYou really know how to make me cry\nWhen you give me those ocean eyes (Those ocean eyes)\nI'm scared (I'm scared)\nI've never fallen from quite this high\nFallin' into your ocean eyes\nThose ocean eyes\nYou might also like\n(Seye naeco esoht)\n(Seye naeco ruoy otni 'nillaf)\nDa-da-da-da-da, da-da-da-da-da (Hgih siht etiuq morf nellaf reven ev'I)\n(Deracs m'I) Da-da-da-da-da-da\nDa-da-da (Seye naeco esoht em evig uoy nehw)\nMmm (Yrc em ekam ot woh wonk yllaer uoy)\nMmm (Riaf on)\n\nNo fair\nYou really know how to make me cry\nWhen you give me those ocean eyes\nI'm scared\nI've never fallen from quite this high\nFallin' into your ocean eyes\nThose ocean eyes205Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/10193986",
+ "artist_names": "Henrik",
+ "full_title": "Rich by\u00a0Henrik",
+ "header_image_thumbnail_url": "https://images.genius.com/55b65b835963f0c667b214c065234e66.300x300x1.png",
+ "header_image_url": "https://images.genius.com/55b65b835963f0c667b214c065234e66.1000x1000x1.png",
+ "id": 10193986,
+ "instrumental": false,
+ "lyrics_owner_id": 12276234,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1711144014,
+ "path": "/Henrik-rich-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Henrik-rich-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 3,
+  "day": 22
+ },
+ "release_date_for_display": "March 22, 2024",
+ "release_date_with_abbreviated_month_for_display": "Mar. 22, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/55b65b835963f0c667b214c065234e66.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/55b65b835963f0c667b214c065234e66.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Rich",
+ "title_with_featured": "Rich",
+ "updated_by_human_at": 1711144014,
+ "url": "https://genius.com/Henrik-rich-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2409317",
+  "header_image_url": "https://images.genius.com/1fec14c4be52b685f2a46ddf681530ff.750x1000x1.jpg",
+  "id": 2409317,
+  "image_url": "https://images.genius.com/9a7fbe647ded1083293c84554c6a929b.1000x1000x1.jpg",
+  "index_character": "h",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Henrik",
+  "slug": "Henrik",
+  "url": "https://genius.com/artists/Henrik",
+  "iq": 307
+ },
+ "artist": "Henrik",
+ "lyrics": "2 ContributorsRich Lyrics\nHere we go\n\nShe didn't go to college, works at a mom n' pop, and\nShe's got holes in her sweater from the Good Will, right\nShe don't care much for rubies, wears flowers for jewelry\nIt's like finding a treasure when you hear her laugh\n\nI know we don't have much, but when I stare at the sunset\nWith her fingers in mine\nI think if that's it, then, boy, are we rich\nBoy, are we rich\n\n\nWhen I look in her eyes, ain't got me no need for diamonds\nThese things we got are priceless, yeah, I can name a few\nFresh leaves, hello, goodbyes, cool breeze, laughter in our lungs\nDon't leave, darlin', 'cause I love being broke with you\n\nI know we don't have much, but when I stare at the sunset (Ooh)\nWith her fingers in mine\nI think if that's it, then, boy, are we rich\nBoy, are we rich\nYou might also like\nAh (Boy, are we rich)\nAh (Boy, are we rich)\nAh (So much money)\nAh (Yeah)\nAh (Oh-oh, oh-oh-oh-oh, oh-oh, oh-oh-oh-oh, hey)\nAh (Oh-oh, oh-oh-oh-oh, oh-oh, oh, oh, oh, hey)\nAh (Oh-oh, oh-oh-oh-oh, oh-oh, oh-oh-oh-oh, hey)\nAh (Oh-oh, oh-oh-oh-oh, rich)\n\nNiceEmbed"
+}

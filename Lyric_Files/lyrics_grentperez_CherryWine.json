@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/7183183",
+ "artist_names": "\u200bgrentperez",
+ "full_title": "Cherry Wine by\u00a0\u200bgrentperez",
+ "header_image_thumbnail_url": "https://images.genius.com/831567f49d009cb794b3ffff8331a65d.300x300x1.png",
+ "header_image_url": "https://images.genius.com/831567f49d009cb794b3ffff8331a65d.640x640x1.png",
+ "id": 7183183,
+ "instrumental": false,
+ "lyrics_owner_id": 12814910,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1682107768,
+ "path": "/Grentperez-cherry-wine-lyrics",
+ "pyongs_count": 9,
+ "relationships_index_url": "https://genius.com/Grentperez-cherry-wine-sample",
+ "release_date_components": {
+  "year": 2021,
+  "month": 9,
+  "day": 10
+ },
+ "release_date_for_display": "September 10, 2021",
+ "release_date_with_abbreviated_month_for_display": "Sep. 10, 2021",
+ "song_art_image_thumbnail_url": "https://images.genius.com/831567f49d009cb794b3ffff8331a65d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/831567f49d009cb794b3ffff8331a65d.640x640x1.png",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 100841
+ },
+ "title": "Cherry Wine",
+ "title_with_featured": "Cherry Wine",
+ "updated_by_human_at": 1695705338,
+ "url": "https://genius.com/Grentperez-cherry-wine-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2104871",
+  "header_image_url": "https://images.genius.com/d66f939e31f54dcd64f1639221291cc6.1000x333x1.jpg",
+  "id": 2104871,
+  "image_url": "https://images.genius.com/ef3b50f18199044ae11fcd2ad64cec09.400x400x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "\u200bgrentperez",
+  "slug": "Grentperez",
+  "url": "https://genius.com/artists/Grentperez"
+ },
+ "artist": "\u200bgrentperez",
+ "lyrics": "24 ContributorsCherry Wine Lyrics\nWhy you standin' all by yourself?\nThose shoes were made for dancin' with someone else\nWhy don't we move over to that empty space?\nI'll bet you twenty bucks I'll put a smile on your face\n\nI know a place where we can\n\nDance the night away\nBaby, we can try to\nMake the world spin slower\nWe can take our time\nAnd get to know each other over cherry wine\n\nWell, it's too soon to give up on tonight, oh\nI haven't had the chance to show you my moves and I\nI think you'd like to see why they would call me Mr. Dynamite\n\nI can show you while we dance the night away\nBaby, we can try to\nMake the world spin slower\nWe can take our time\nAnd get to know each other over cherry wine\nI've been waitin' on this dance floor\nMade for two\nWon't you show me just what you can do?\nI don't wanna waste your time\nSo please just have me for tonight?\nDance\nYou might also like\n\nYeah, I said, \"Let's dance the night away\"\nBaby, we can try to\nMake the world spin slower\nWe can take our time\nAnd get to know each other over cherry wine\nOh, I, dance the night away\nBaby, we can try to\nMake the world spin slower\nWe can take our time\n\nI know it's too soon to say, \"You're mine\"\nBut let's have a little drink tonight\nAnd get to know each other over cherry wine9Embed"
+}

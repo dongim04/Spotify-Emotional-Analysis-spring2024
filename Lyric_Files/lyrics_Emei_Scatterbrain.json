@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/8750411",
+ "artist_names": "Emei",
+ "full_title": "Scatterbrain by\u00a0Emei",
+ "header_image_thumbnail_url": "https://images.genius.com/55522507d4bdc40dda11523a1091a2e5.300x300x1.png",
+ "header_image_url": "https://images.genius.com/55522507d4bdc40dda11523a1091a2e5.1000x1000x1.png",
+ "id": 8750411,
+ "instrumental": false,
+ "lyrics_owner_id": 6228729,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1703021918,
+ "path": "/Emei-scatterbrain-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Emei-scatterbrain-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 2,
+  "day": 3
+ },
+ "release_date_for_display": "February 3, 2023",
+ "release_date_with_abbreviated_month_for_display": "Feb. 3, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/55522507d4bdc40dda11523a1091a2e5.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/55522507d4bdc40dda11523a1091a2e5.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 7079
+ },
+ "title": "Scatterbrain",
+ "title_with_featured": "Scatterbrain",
+ "updated_by_human_at": 1703021918,
+ "url": "https://genius.com/Emei-scatterbrain-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2917362",
+  "header_image_url": "https://images.genius.com/f44da0954269274c1b764925ca7a6f06.1000x1000x1.jpg",
+  "id": 2917362,
+  "image_url": "https://images.genius.com/f44da0954269274c1b764925ca7a6f06.1000x1000x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Emei",
+  "slug": "Emei",
+  "url": "https://genius.com/artists/Emei",
+  "iq": 100
+ },
+ "artist": "Emei",
+ "lyrics": "9 ContributorsTranslationsPortugu\u00easScatterbrain Lyrics\nDun, dun-dun, dun, dun-dun\nAlright\n\nGot a lot of friends that I can't escape\nSleepin' in my head like a Motel 6\nHold it all together with a little duct-tape\nIt bends, it breaks\nGot a lot of dreams, but I let them die\nPing pong, drip-drop, oh-my-my\nThe TV's on, but the noise is white\n(What am I doing now?)\n\nGod, can I catch my breath\nNot even for a second?\nChasin' Santa Ana Winds\nAnd I obsess, I slow dance with the tension\nCan you taste it on my lips?\n\nI'm so scatterbrain\nBut when you touch me, it all goes away\nScatterbrain\nFor a second, I don't feel insane\nCome medicate me\nYou might also like\nI don't sleep at all, yeah, I've been countin' sheep\nI look perfect on the surface, but a nightmare underneath\nI got anger problems, I say things that I don't mean\nSome people pay for therapy, I find it in the sheets\n\nCatch my breath\nNot even for a second\nChasin' Santa Ana Winds\n\nI'm so scatterbrain\nBut when you touch me, it all goes away\nScatterbrain\nFor a second I don't feel insane\nCome medicate me\n\n(Scatterbrain)\nI need you baby (Goes away)\nI need it daily (Scatterbrain)\nI need you baby (Feel insane)\nCome medicate me\n\n(Got a lot of friends that I can't escape, can't escape, can't escape)\n(Sleepin' in my head like a Motel 6, Motel 6)\nCome medicate meEmbed"
+}

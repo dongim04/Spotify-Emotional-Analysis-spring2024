@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/8117150",
+ "artist_names": "Djo",
+ "full_title": "End of Beginning by\u00a0Djo",
+ "header_image_thumbnail_url": "https://images.genius.com/88e8889f383f8a9437060157c8d9bdf6.300x300x1.png",
+ "header_image_url": "https://images.genius.com/88e8889f383f8a9437060157c8d9bdf6.881x881x1.png",
+ "id": 8117150,
+ "instrumental": false,
+ "lyrics_owner_id": 7172905,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1710689128,
+ "path": "/Djo-end-of-beginning-lyrics",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Djo-end-of-beginning-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 9,
+  "day": 16
+ },
+ "release_date_for_display": "September 16, 2022",
+ "release_date_with_abbreviated_month_for_display": "Sep. 16, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/88e8889f383f8a9437060157c8d9bdf6.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/88e8889f383f8a9437060157c8d9bdf6.881x881x1.png",
+ "stats": {
+  "unreviewed_annotations": 13,
+  "concurrents": 5,
+  "hot": false,
+  "pageviews": 160645
+ },
+ "title": "End of Beginning",
+ "title_with_featured": "End of Beginning",
+ "updated_by_human_at": 1711307498,
+ "url": "https://genius.com/Djo-end-of-beginning-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/180747",
+  "header_image_url": "https://images.genius.com/b90716c9b87b03ea1d78a24ef7fcddcf.1000x333x1.png",
+  "id": 180747,
+  "image_url": "https://images.genius.com/576ba97b935116e0f6b61b329096d643.1000x1000x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Djo",
+  "slug": "Djo",
+  "url": "https://genius.com/artists/Djo"
+ },
+ "artist": "Djo",
+ "lyrics": "28 ContributorsTranslationsPortugu\u00easEspa\u00f1olItalianoDeutschEnd of Beginning Lyrics\nJust one more tear to cry, one teardrop from my eye\nYou better save it for\nThe middle of the night when things aren't black and white\nEnter, Troubadour\n\"Remember twenty-four?\"\n\nAnd when I'm back in Chicago, I feel it\nAnother version of me, I was in it\nI wave goodbye to the end of beginning\n\nThis song has started now, and you're just finding out\nNow isn't that a laugh?\nA major sacrifice, but clueless at the time\nEnter, Caroline\n\"Just trust me, you'll be fine\"\n\nAnd when I'm back in Chicago, I feel it\nAnother version of me, I was in it\nI wave goodbye to the end of beginning\n(Goodbye, goodbye, goodbye, goodbye)\n\nYou take the man out of the city, not the city out the man\nYou take the man out of the city, not the city out the man\nYou take the man out of the city, not the city out the man\nYou take the man out of the\u2014\nYou might also like\nAnd when I'm back in Chicago, I feel it\nAnother version of me, I was in it\nOh, I wave goodbye to the end of beginning\n(Goodbye, goodbye)3Embed"
+}

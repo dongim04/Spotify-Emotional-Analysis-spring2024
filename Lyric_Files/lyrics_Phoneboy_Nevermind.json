@@ -1,0 +1,65 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/6627032",
+ "artist_names": "Phoneboy (Ft. Justin Magnaye)",
+ "full_title": "Nevermind by\u00a0Phoneboy (Ft.\u00a0Justin\u00a0Magnaye)",
+ "header_image_thumbnail_url": "https://images.genius.com/986dad5d36e53126898103d9467136bb.300x300x1.webp",
+ "header_image_url": "https://images.genius.com/986dad5d36e53126898103d9467136bb.600x600x1.webp",
+ "id": 6627032,
+ "instrumental": false,
+ "lyrics_owner_id": 13213113,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1698196449,
+ "path": "/Phoneboy-nevermind-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Phoneboy-nevermind-sample",
+ "release_date_components": {
+  "year": 2021,
+  "month": 3,
+  "day": 18
+ },
+ "release_date_for_display": "March 18, 2021",
+ "release_date_with_abbreviated_month_for_display": "Mar. 18, 2021",
+ "song_art_image_thumbnail_url": "https://images.genius.com/986dad5d36e53126898103d9467136bb.300x300x1.webp",
+ "song_art_image_url": "https://images.genius.com/986dad5d36e53126898103d9467136bb.600x600x1.webp",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false
+ },
+ "title": "Nevermind",
+ "title_with_featured": "Nevermind (Ft.\u00a0Justin\u00a0Magnaye)",
+ "updated_by_human_at": 1698196449,
+ "url": "https://genius.com/Phoneboy-nevermind-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1676275",
+   "header_image_url": "https://images.genius.com/caa8d01456ccbed3eb5ebb8ea2772f19.750x1000x1.jpg",
+   "id": 1676275,
+   "image_url": "https://images.genius.com/2fcc59b6e8281e00c8ddcacb3a60bc55.1000x1000x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Justin Magnaye",
+   "slug": "Justin-magnaye",
+   "url": "https://genius.com/artists/Justin-magnaye",
+   "iq": 4181
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1992788",
+  "header_image_url": "https://images.genius.com/eb81e0bd6f90ed4db7cf1f07569e6fef.674x275x1.jpg",
+  "id": 1992788,
+  "image_url": "https://images.genius.com/f0349cdd2d5cc9332b35bf08f0a34389.400x400x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Phoneboy",
+  "slug": "Phoneboy",
+  "url": "https://genius.com/artists/Phoneboy"
+ },
+ "artist": "Phoneboy",
+ "lyrics": "11 ContributorsNevermind Lyrics\nYou got me shakin' at my bed posts\nWest coast\nDevil in a red dress\nX O\nAnd I know you'll never be mine\nThe cycle callin' my line\n\nSlippin' on your gray vans\nOld soles\nTinted with a spray tan\nOh no\nAnd I know I'll have to decline\nA cycle broke in my mind\n\nShe keeps me comin'\nAll the time\nI pulled this trigger\nAnd hit your line\nShe keeps me comin'\nAll the time\nI want Nirvana\nBut Nevermind\nYou might also like\nDrunk texts keep me sober\nHope it's not all over\n\nIt's lookin' like a dead night\nLets go\nRunnin' through the red lights\nHell no\nAnd I know you're not worth my time\nA cycle broke in my mind\n\nShe keeps me comin'\nAll the time\nI pulled this trigger\nAnd hit your line\nShe keeps me comin'\nAll the time\nI want Nirvana\nBut Nevermi-\n\nYou say that you miss me but\nI text and I call and you won't pick up\nIt sent and delivered like what the fuck\nDon't leave me on read like a solo cup\nYou say that you miss me but I'm still gone\nYou text and you call but my phone's not on\nI need CPR please call 911\nDefibrillate all of my faded flaws\nOh-oh\nDrunk texts keep me sober\nHope it's not all over\nRipping out the throttle\nSipping empty bottles\nDrunk texts keep me sober\nHope it's not all over\nNow\nNow\n\nShe keeps me comin'\nAll the time\nI pulled this trigger\nAnd hit your line\nShe keeps me comin'\nAll the time\nI want Nirvana\nBut Nevermind\n\nDrunk texts keep me sober\nHope it's not all over\nNowEmbed"
+}

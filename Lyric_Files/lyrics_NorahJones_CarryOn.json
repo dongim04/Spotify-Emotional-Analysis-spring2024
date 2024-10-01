@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/2832259",
+ "artist_names": "Norah Jones",
+ "full_title": "Carry On by\u00a0Norah\u00a0Jones",
+ "header_image_thumbnail_url": "https://images.genius.com/aab4da2aa3a477075c9aa4a10ebffea5.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/aab4da2aa3a477075c9aa4a10ebffea5.1000x1000x1.jpg",
+ "id": 2832259,
+ "instrumental": false,
+ "lyrics_owner_id": 672397,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1600667122,
+ "path": "/Norah-jones-carry-on-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Norah-jones-carry-on-sample",
+ "release_date_components": {
+  "year": 2016,
+  "month": 8,
+  "day": 5
+ },
+ "release_date_for_display": "August 5, 2016",
+ "release_date_with_abbreviated_month_for_display": "Aug. 5, 2016",
+ "song_art_image_thumbnail_url": "https://images.genius.com/44f04606e92af8c7f3c1c3016962f78d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/44f04606e92af8c7f3c1c3016962f78d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 22895
+ },
+ "title": "Carry On",
+ "title_with_featured": "Carry On",
+ "updated_by_human_at": 1600667122,
+ "url": "https://genius.com/Norah-jones-carry-on-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1447",
+  "header_image_url": "https://images.genius.com/09dd8d430d8cd258eca8cf333fa5a45f.1000x304x1.jpg",
+  "id": 1447,
+  "image_url": "https://images.genius.com/5baa0047bd1c0d12b3b2b53abc698f48.600x600x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Norah Jones",
+  "slug": "Norah-jones",
+  "url": "https://genius.com/artists/Norah-jones"
+ },
+ "artist": "Norah Jones",
+ "lyrics": "12 ContributorsCarry On Lyrics\nAnd after all's been said and done\nWho said it best, were you the one?\nLet's just forget, leave it behind\nAnd carry on\n\nIf you should find the time to speak\nThen speak to me, I'd never keep\nYou from your final destiny\nSo carry on\n\nInto the quiet I am bound\nWhat you have lost, I've never found\nI lost my nerve, yet peace surrounds\nSo carry on\n\n\nInto the quiet I am bound\nWhat you have lost, I've never found\nI lost my nerve, yet peace surrounds\nSo carry on\nSee Norah Jones LiveGet tickets as low as $26You might also like\nAnd now that all's been said and done\nWho said it best, were you the one?\nLet's just forget, leave it behind\nAnd carry on\n\nLet's just forget, leave it behind\nAnd carry on1Embed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/9601339",
+ "artist_names": "Amigo the Devil",
+ "full_title": "Stray Dog by\u00a0Amigo\u00a0the Devil",
+ "header_image_thumbnail_url": "https://images.genius.com/c7cf120b799427553afdc316a98f0638.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c7cf120b799427553afdc316a98f0638.999x999x1.jpg",
+ "id": 9601339,
+ "instrumental": false,
+ "lyrics_owner_id": 12808535,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708733919,
+ "path": "/Amigo-the-devil-stray-dog-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Amigo-the-devil-stray-dog-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 2,
+  "day": 23
+ },
+ "release_date_for_display": "February 23, 2024",
+ "release_date_with_abbreviated_month_for_display": "Feb. 23, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c7cf120b799427553afdc316a98f0638.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c7cf120b799427553afdc316a98f0638.999x999x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false
+ },
+ "title": "Stray Dog",
+ "title_with_featured": "Stray Dog",
+ "updated_by_human_at": 1708733919,
+ "url": "https://genius.com/Amigo-the-devil-stray-dog-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1190680",
+  "header_image_url": "https://images.genius.com/766551e8934908b6046af34d08d0244f.1000x408x1.png",
+  "id": 1190680,
+  "image_url": "https://images.genius.com/9afb7bf117e08b7df32076e94181d0f9.1000x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Amigo the Devil",
+  "slug": "Amigo-the-devil",
+  "url": "https://genius.com/artists/Amigo-the-devil"
+ },
+ "artist": "Amigo the Devil",
+ "lyrics": "2 ContributorsStray Dog Lyrics\nOh, you treat me like a stray dog\nTrying to find its way home\nOh, you feed me like an animal too wounded\nTo eat on its own\nYou touch my body like it\u2019s dressed in disease\nAnd you\u2019re the only savior I need\n\nBut you don\u2019t know that while I watch you\nTry to fix me, I let you\nCause I\u2019m only trying to give you the purpose you need\nBut someday you\u2019ll see that I\u2019m the one who\u2019s free\nAnd maybe you\u2019ll be a stray dog with me\n\nThen we can run around the country\nAnd chase the postal trucks down\nWe can look at the sky and wonder what it\u2019s like\nTo be up there instead of the ground\nAt the end of the day, a bird can fly away\nBut I\u2019d rather have a reason I should stay\n\nAnd you don\u2019t know that while I watch you\nTry to fix me, I let you\nCause I\u2019m only trying to show you the good that I see\nWe both know it's true, my dog days aren\u2019t through\nBut I\u2019d rather be a stray dog with you\nYou might also like\nWith you\nMah ooh ooh ooh ooh ooh\nMah ooh ooh ooh ooh ooh\nAh ooh ooh ooh ooh ooh\nAh ooh ooh ooh ooh ooh\n\nOh, you treat me like a stray dog\nTrying to find its way home\nOh, you treat me like a stray dog\nTrying to find its way home\nOh, you treat me like a stray dog\nOh, you treat me like a stray dog\nTrying to find its way home\nOh, you treat me like a stray dog\nTrying to find its way homeEmbed"
+}

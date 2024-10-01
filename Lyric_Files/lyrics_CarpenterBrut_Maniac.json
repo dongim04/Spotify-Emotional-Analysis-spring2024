@@ -1,0 +1,65 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/5736741",
+ "artist_names": "Carpenter Brut (Ft. Yann Ligner)",
+ "full_title": "Maniac by\u00a0Carpenter\u00a0Brut (Ft.\u00a0Yann\u00a0Ligner)",
+ "header_image_thumbnail_url": "https://images.genius.com/b1e78dfd5d5bb4d0b8fc14ef27f17b42.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b1e78dfd5d5bb4d0b8fc14ef27f17b42.1000x1000x1.jpg",
+ "id": 5736741,
+ "instrumental": false,
+ "lyrics_owner_id": 4334165,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1593932152,
+ "path": "/Carpenter-brut-maniac-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Carpenter-brut-maniac-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 5,
+  "day": 14
+ },
+ "release_date_for_display": "May 14, 2020",
+ "release_date_with_abbreviated_month_for_display": "May. 14, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b1e78dfd5d5bb4d0b8fc14ef27f17b42.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b1e78dfd5d5bb4d0b8fc14ef27f17b42.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 11439
+ },
+ "title": "Maniac",
+ "title_with_featured": "Maniac (Ft.\u00a0Yann\u00a0Ligner)",
+ "updated_by_human_at": 1620762575,
+ "url": "https://genius.com/Carpenter-brut-maniac-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/2309403",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1711554191",
+   "id": 2309403,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1711554191",
+   "index_character": "y",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Yann Ligner",
+   "slug": "Yann-ligner",
+   "url": "https://genius.com/artists/Yann-ligner"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/483546",
+  "header_image_url": "https://images.genius.com/a61390f9479577146dc97fdb02c1c0e6.1000x371x1.jpg",
+  "id": 483546,
+  "image_url": "https://images.genius.com/a6a21b91df13c85dd905de0fb160bd78.1000x1000x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Carpenter Brut",
+  "slug": "Carpenter-brut",
+  "url": "https://genius.com/artists/Carpenter-brut"
+ },
+ "artist": "Carpenter Brut",
+ "lyrics": "5 ContributorsManiac Lyrics\nJust a steel town girl on a Saturday night\nLookin' for the fight of her life\nIn\u2005the\u2005real-time world no\u2005one sees her at all\nThey all\u2005say she's crazy\nLocking rhythms to the beat of her heart\nChanging woman into life\nShe has danced into the danger zone\nWhen a dancer becomes a dance\n\nIt can cut you like a knife, if the gift becomes the fire\nOn a wire between will and what will be\n\nShe's a maniac, maniac on the floor\nAnd she's dancing like she's never danced before\nShe's a maniac, maniac on the floor\nAnd she's dancing like she's never danced before\n\nOn the ice-thin little line of insanity\nIs a place most never see\nIt's a hard-won place of mystery\nTouch it, but can't hold it\nYou work all your life for that moment in time\nIt could come or pass you by\nIt's a push of the world, but there's always a chance\nIf the hunger stays the night\nThere's a cold kinetic heat\nStruggling, stretching for defeat\nNever stopping with her head against the wind\nYou might also like\nShe's a maniac, maniac, I sure know\nAnd she's dancing like she's never danced before\nShe's a maniac, maniac, I sure know\nAnd she's dancing like she's never danced before\n\n\nIt can cut you like a knife, if the gift becomes the fire\nOn a wire between will and what will be\n\nShe's a maniac, maniac, I sure know\nAnd she's dancing like she's never danced before\nShe's a maniac, maniac, I sure know\nAnd she's dancing like she's never danced before\n\nManiac, maniac, I sure know\nAnd she's dancing like she's never danced before\nShe's a maniac, maniac, I sure know\nAnd she's dancing like she's never danced before1Embed"
+}

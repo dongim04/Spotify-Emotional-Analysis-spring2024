@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/7229619",
+ "artist_names": "Gracie Abrams",
+ "full_title": "Feels Like by\u00a0Gracie\u00a0Abrams",
+ "header_image_thumbnail_url": "https://images.genius.com/d1c98375ddbf1812c6dfcc766465af0d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d1c98375ddbf1812c6dfcc766465af0d.1000x1000x1.jpg",
+ "id": 7229619,
+ "instrumental": false,
+ "lyrics_owner_id": 6062825,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1705707001,
+ "path": "/Gracie-abrams-feels-like-lyrics",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Gracie-abrams-feels-like-sample",
+ "release_date_components": {
+  "year": 2021,
+  "month": 10,
+  "day": 1
+ },
+ "release_date_for_display": "October 1, 2021",
+ "release_date_with_abbreviated_month_for_display": "Oct. 1, 2021",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e1ccf29dfd3bb2238373022f4faa4229.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e1ccf29dfd3bb2238373022f4faa4229.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 89596
+ },
+ "title": "Feels Like",
+ "title_with_featured": "Feels Like",
+ "updated_by_human_at": 1705707001,
+ "url": "https://genius.com/Gracie-abrams-feels-like-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/631746",
+  "header_image_url": "https://images.genius.com/4668fc1a6550a375d2e31178047f2aca.1000x1000x1.png",
+  "id": 631746,
+  "image_url": "https://images.genius.com/47d61ef4d65e1b9d46ddfaf239fae8f0.577x577x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Gracie Abrams",
+  "slug": "Gracie-abrams",
+  "url": "https://genius.com/artists/Gracie-abrams"
+ },
+ "artist": "Gracie Abrams",
+ "lyrics": "24 ContributorsTranslationsEspa\u00f1olT\u00fcrk\u00e7eFeels Like Lyrics\nOh, we almost got away, we've cut it close\nThe city's getting loud\nIf I choke, it's only 'cause I'm scared to be alone\nBeen trying to work it out, you should know\n\nI would do whatever you wanted\nWe don't have to leave the apartment (Ah)\nMet you at the right time (Ah)\nThis is what it feels like\nLiving in a movie I've watched and\nFunny, 'cause you couldn't have called it (Ah)\nMet you at the right time (Ah)\nThis is what it feels like\n\nOh, the train was cold, we left Connecticut\nWe stayed a couple hours\nOur clothes matched enough to throw me off a bit\nYour phone was playing \"Towers\" and I\n\nI would do whatever you wanted\nWe don't have to leave the apartment (Ah)\nMet you at the right time (Ah)\nThis is what it feels like\nLiving in a movie I've watched and\nFunny, 'cause you couldn't have called it (Ah)\nMet you at the right time (Ah)\nThis is what it feels like\nYou might also like\nAnd I need you sometimes\nWe'll be alright (Ah)\nMet you at the right time (Ah)\nThis is what it feels like\nAnd I miss you some nights\nWe'll be alright (Ah)\nMet you at the right time (Ah)\nThis is what it feels like\n\nI would do whatever you wanted\nWe don't have to leave the apartment\nMet you at the right time\nThis is what it feels like3Embed"
+}

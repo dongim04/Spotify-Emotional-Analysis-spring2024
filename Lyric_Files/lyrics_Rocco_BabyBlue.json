@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/10036392",
+ "artist_names": "Rocco (Pop)",
+ "full_title": "Baby Blue by\u00a0Rocco\u00a0(Pop)",
+ "header_image_thumbnail_url": "https://images.genius.com/52f66b47a247265ec3fe31a95b40fca4.300x302x1.png",
+ "header_image_url": "https://images.genius.com/52f66b47a247265ec3fe31a95b40fca4.995x1000x1.png",
+ "id": 10036392,
+ "instrumental": false,
+ "lyrics_owner_id": 16734497,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708157613,
+ "path": "/Rocco-pop-baby-blue-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Rocco-pop-baby-blue-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 2,
+  "day": 9
+ },
+ "release_date_for_display": "February 9, 2024",
+ "release_date_with_abbreviated_month_for_display": "Feb. 9, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/52f66b47a247265ec3fe31a95b40fca4.300x302x1.png",
+ "song_art_image_url": "https://images.genius.com/52f66b47a247265ec3fe31a95b40fca4.995x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 10653
+ },
+ "title": "Baby Blue",
+ "title_with_featured": "Baby Blue",
+ "updated_by_human_at": 1708157613,
+ "url": "https://genius.com/Rocco-pop-baby-blue-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3269435",
+  "header_image_url": "https://images.genius.com/385dc732993dcf3a0aa777c9be497a11.300x300x1.png",
+  "id": 3269435,
+  "image_url": "https://images.genius.com/934cae1d0f97a9df7ce048ba8166c2b1.538x538x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Rocco (Pop)",
+  "slug": "Rocco-pop",
+  "url": "https://genius.com/artists/Rocco-pop"
+ },
+ "artist": "Rocco (Pop)",
+ "lyrics": "3 ContributorsBaby Blue Lyrics\nSomewhere, someplace in the distance\nTranscending time and space\nThere's this thing they call love\nAnd I feel you got my touch\nI never thought that I could feel this way\n\nBut when your lips press\u205fon\u205fmine\nThere's\u205fnot much that'll\u205fchange my mind\nIt's\u205fyou that I'm looking for, all my life\nUnder the sheets, we'll intertwine\nI'll say it once, oh, I'll say it twice\nI love you, my baby blue\nBah, bah, bah, bah\nMy baby blue (My baby)\n\nLove can do all kinds of things\nIt will eat you up and spit you out\nBut still, you'll come back around for more\nI know this game's not for the weak\nIt will build you up, but break you down\nIt'll tear you at th\u0435 seams\n\nBut when your lips press on min\u0435\nThere's not much that'll change my mind\nIt's you that I'm looking for, all my life\nUnder the sheets, we'll intertwine\nI'll say it once, oh, I'll say it twice\nI love you, my baby blue\nBah, bah, bah, bah\nMy baby blue (My baby blue)\nYou might also likeEmbed"
+}

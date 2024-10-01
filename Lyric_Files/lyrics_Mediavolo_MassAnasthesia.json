@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/9859601",
+ "artist_names": "Mediavolo",
+ "full_title": "Mass Anasthesia by\u00a0Mediavolo",
+ "header_image_thumbnail_url": "https://images.genius.com/962d442a80edb393b2632900a631ff3e.300x225x1.jpg",
+ "header_image_url": "https://images.genius.com/962d442a80edb393b2632900a631ff3e.480x360x1.jpg",
+ "id": 9859601,
+ "instrumental": false,
+ "lyrics_owner_id": 21369354,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1710477530,
+ "path": "/Mediavolo-mass-anasthesia-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Mediavolo-mass-anasthesia-sample",
+ "release_date_components": {
+  "year": 2006,
+  "month": 10,
+  "day": 27
+ },
+ "release_date_for_display": "October 27, 2006",
+ "release_date_with_abbreviated_month_for_display": "Oct. 27, 2006",
+ "song_art_image_thumbnail_url": "https://images.genius.com/962d442a80edb393b2632900a631ff3e.300x225x1.jpg",
+ "song_art_image_url": "https://images.genius.com/962d442a80edb393b2632900a631ff3e.480x360x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 38465
+ },
+ "title": "Mass Anasthesia",
+ "title_with_featured": "Mass Anasthesia",
+ "updated_by_human_at": 1710477530,
+ "url": "https://genius.com/Mediavolo-mass-anasthesia-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3776684",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1711554191",
+  "id": 3776684,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1711554191",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Mediavolo",
+  "slug": "Mediavolo",
+  "url": "https://genius.com/artists/Mediavolo"
+ },
+ "artist": "Mediavolo",
+ "lyrics": "7 ContributorsMass Anasthesia Lyrics\nSo many cars, queuing in lines\nSuch a sight just fills my heart with awe\nSilent sadness fills my heart\nIn vapors of gas\nHours slowly pass\nYet, people don\u2019t seem to care at all\nSuch a sight just fills my heart with awe\nThey just heed the highway call\n\nWho shall call this off?\nSuch a sight just fills my heart with awe\nSuch a sight just fills my heart with awe\nIt\u2019s some mysterious mass anesthesia\n\nPeople in marts, queuing in lines\nSuch a sight just fills my heart with awe\nSuch a sight just fills my heart with awe\nSilent sadness fills my heart\nBuy all you can buy\nGet yourself a life\nWell, people don\u2019t realize at all\nThey just heed their boredom call\nYou might also like\nWho shall call us off?\nSuch a sight just fills my heart with awe\nSuch a sight just fills my heart with awe\nIt\u2019s some mysterious mass anesthesia\n\nWho shall call us off?\nSuch a sight just fills my heart with awe\nSuch a sight just fills my heart with awe\nIt\u2019s some mysterious mass anesthesia\n\nIt\u2019s some mysterious mass anesthesia\nIt\u2019s some mysterious mass anesthesia2Embed"
+}

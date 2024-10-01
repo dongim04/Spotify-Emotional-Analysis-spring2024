@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/4924620",
+ "artist_names": "Ben Platt",
+ "full_title": "Vienna by\u00a0Ben\u00a0Platt",
+ "header_image_thumbnail_url": "https://images.genius.com/c33c1cca7d61eea9ade7f90cb2f98ca7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c33c1cca7d61eea9ade7f90cb2f98ca7.1000x1000x1.jpg",
+ "id": 4924620,
+ "instrumental": false,
+ "lyrics_owner_id": 8396129,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1606360305,
+ "path": "/Ben-platt-vienna-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Ben-platt-vienna-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 10,
+  "day": 22
+ },
+ "release_date_for_display": "October 22, 2019",
+ "release_date_with_abbreviated_month_for_display": "Oct. 22, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c33c1cca7d61eea9ade7f90cb2f98ca7.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c33c1cca7d61eea9ade7f90cb2f98ca7.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 21685
+ },
+ "title": "Vienna",
+ "title_with_featured": "Vienna",
+ "updated_by_human_at": 1606360305,
+ "url": "https://genius.com/Ben-platt-vienna-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/666954",
+  "header_image_url": "https://images.genius.com/1c747382bd204c882c0dc290b8a13371.1000x370x1.jpg",
+  "id": 666954,
+  "image_url": "https://images.genius.com/a3aa95b2d2ea5d49682655d33a6c04a1.1000x999x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Ben Platt",
+  "slug": "Ben-platt",
+  "url": "https://genius.com/artists/Ben-platt",
+  "iq": 100
+ },
+ "artist": "Ben Platt",
+ "lyrics": "5 ContributorsVienna Lyrics\nSlow down, you crazy child\nYou're so ambitious for a juvenile\nBut then if you're so smart,\u2005then\u2005tell me\nWhy are\u2005you still so afraid, hmm?\nWhere's the\u2005fire, what's the hurry about?\nYou'd better cool it off before you burn it out\nYou've got so much to do and only so many hours in a day-ay\n\nBut you know that when the truth is told\nThat you can get what you want or you could just get old\nYou're gonna kick off before you even get halfway through, ooh\nWhen will you realize, Vienna waits for you?\n\nSlow down, you're doing fine\nYou can't be everything you want to be before your time\nAlthough it's so romantic on the borderline tonight\nTonight\nToo bad but it's the life you lead\nYou're so ahead of yourself that you forgot what you need\nThough you can see when you're wrong\nYou know you can't always see when you're right\nYou're right\nSee Ben Platt LiveGet tickets as low as $61You might also like\nYou've got your passion, you've got your pride\nBut don't you know that only fools are satisfied?\nDream on, but don't imagine they'll all come true, ooh\nWhen will you realize, Vienna waits for you?\n\n\nSlow down, you crazy child\nTake the phone off the hook and disappear for awhile\nIt's all right, you can afford to lose a day or two, ooh\nWhen will you realize, Vienna waits for you?\n\nAnd you know that when the truth is told\nThat you can get what you want or you could just get old\nYou're gonna kick off before you even get halfway through, ooh\nWhy don't you realize, Vienna waits for you?\nWhen will you realize, Vienna waits for you?Embed"
+}

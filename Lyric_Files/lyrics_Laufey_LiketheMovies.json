@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/6766038",
+ "artist_names": "Laufey",
+ "full_title": "Like The Movies by\u00a0Laufey",
+ "header_image_thumbnail_url": "https://images.genius.com/bf9a9ea5ee1c64e321fcb5f3fc10ded2.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bf9a9ea5ee1c64e321fcb5f3fc10ded2.640x640x1.jpg",
+ "id": 6766038,
+ "instrumental": false,
+ "lyrics_owner_id": 7514808,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1695570938,
+ "path": "/Laufey-like-the-movies-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Laufey-like-the-movies-sample",
+ "release_date_components": {
+  "year": 2021,
+  "month": 4,
+  "day": 30
+ },
+ "release_date_for_display": "April 30, 2021",
+ "release_date_with_abbreviated_month_for_display": "Apr. 30, 2021",
+ "song_art_image_thumbnail_url": "https://images.genius.com/bf9a9ea5ee1c64e321fcb5f3fc10ded2.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/bf9a9ea5ee1c64e321fcb5f3fc10ded2.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 28333
+ },
+ "title": "Like The Movies",
+ "title_with_featured": "Like The Movies",
+ "updated_by_human_at": 1709540225,
+ "url": "https://genius.com/Laufey-like-the-movies-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2195472",
+  "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+  "id": 2195472,
+  "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Laufey",
+  "slug": "Laufey",
+  "url": "https://genius.com/artists/Laufey",
+  "iq": 1287
+ },
+ "artist": "Laufey",
+ "lyrics": "11 ContributorsLike The Movies Lyrics\nMaybe one day I'll fall in a bookstore\nInto the arms of a guy\nWe'll sneak into bars\nAnd gaze at the stars\nSurrounded by fireflies\n\nOh, I'd like to sleep in 'til two on a Sunday\nAnd listen to the bluebirds sigh\nGet soaked in the rain\nAnd smile through the pain\nSlow dance under stormy skies\n\nMaybe I'm just old fashioned\nRead too many fairytales\nIt's no wonder I've had no luck\nNo one's ever good enough\nI want a love like I've seen in the movies\nThat's why I'll never fall in love\n\nOh, maybe I'm just old fashion\u0435d\nRead too many fairytales\nIt's no wonder I'v\u0435 had no luck\nNo one's ever good enough\nI want a love like I've seen in the movies\nThat's why I'll never fall in loveSee Laufey LiveGet tickets as low as $36You might also like2Embed"
+}

@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/5719352",
+ "artist_names": "Caye",
+ "full_title": "Someone Like by\u00a0Caye",
+ "header_image_thumbnail_url": "https://images.genius.com/9f817f9faaf83f8d3bae926f4bf93a3f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/9f817f9faaf83f8d3bae926f4bf93a3f.1000x1000x1.jpg",
+ "id": 5719352,
+ "instrumental": false,
+ "lyrics_owner_id": 6382422,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1593437283,
+ "path": "/Caye-someone-like-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Caye-someone-like-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 6,
+  "day": 29
+ },
+ "release_date_for_display": "June 29, 2020",
+ "release_date_with_abbreviated_month_for_display": "Jun. 29, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9f817f9faaf83f8d3bae926f4bf93a3f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9f817f9faaf83f8d3bae926f4bf93a3f.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 6246
+ },
+ "title": "Someone Like",
+ "title_with_featured": "Someone Like",
+ "updated_by_human_at": 1667024286,
+ "url": "https://genius.com/Caye-someone-like-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/461112",
+  "header_image_url": "https://images.genius.com/1be489e98e0ae5c299b48221d910d613.1000x679x1.jpg",
+  "id": 461112,
+  "image_url": "https://images.genius.com/57f3ee401a417100875feb742dd29b23.1000x1000x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Caye",
+  "slug": "Caye",
+  "url": "https://genius.com/artists/Caye",
+  "iq": 2135
+ },
+ "artist": "Caye",
+ "lyrics": "1 ContributorSomeone Like Lyrics(woo)\nYou give me feelings that I haven\u2019t felt in a minute and I can\u2019t explain\nI\u2005get\u2005the feeling that\u2005we got a future, I\u2019m hoping\u2005you feeling same\nBout me, do you?\nBout me, do you?\nI\u2019m not\u205fafraid,\u205fbut\u205flemme be honest,\u205fI don\u2019t got\u205fexperience with love\nI gotta say, girl you are different, I promise I don\u2019t do this much\nBut you, you\n(yep)\nYou, you\nI want\nSomeone to hug\nSomeone to hold\nSomeone to trust\nSomeone to call\nWhen I\u2019m alone\nI want\nSomeone to touch\nSomeone to cuff\nI want\nSomeone to love\n(someone to love)\nYou might also likeSomeone like you\nOoh, ooh, ooh, ooo\nSomeone like you\nOoh, ooh, ooh, ooo\n(woo)\nI gotta tell you a secret, but you gotta promise to keep it low key\nI haven\u2019t felt like this ever, I think that I\u2019m falling in L-O-V-E\nWith you, you\nWith you, you\nLately when I\u2019m in my room by myself I don\u2019t really feel like I\u2019m at home\nI don\u2019t know what else to do, you make me better and baby it shows\nOh you, you\nYeah, yeah\nI want\nSomeone to hug\nSomeone to hold\nSomeone to trust\nSomeone to call\nWhen I\u2019m alone\nI want\nSomeone to touch\nSomeone to cuff\nI want\nSomeone to love\n(someone to love)\nSomeone like you\nOoh, ooh, ooh, ooo\nSomeone like you\nOoh, ooh, ooh, ooo\nSomeone like you yeah\nSomeone like you yeah\nSomeone like\nSomeone like you, someone like you\nSomeone like, like youEmbed"
+}

@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/6282",
+ "artist_names": "Fleetwood Mac",
+ "full_title": "Landslide by\u00a0Fleetwood\u00a0Mac",
+ "header_image_thumbnail_url": "https://images.genius.com/bb1ba55eeb00c02b336cb9bcf042b24f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bb1ba55eeb00c02b336cb9bcf042b24f.1000x1000x1.jpg",
+ "id": 6282,
+ "instrumental": false,
+ "lyrics_owner_id": 7,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1698584675,
+ "path": "/Fleetwood-mac-landslide-lyrics",
+ "pyongs_count": 57,
+ "relationships_index_url": "https://genius.com/Fleetwood-mac-landslide-sample",
+ "release_date_components": {
+  "year": 1975,
+  "month": 7,
+  "day": 11
+ },
+ "release_date_for_display": "July 11, 1975",
+ "release_date_with_abbreviated_month_for_display": "Jul. 11, 1975",
+ "song_art_image_thumbnail_url": "https://images.genius.com/fa8fe8f663e9aa0ce9a141b5bedcc8ed.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/fa8fe8f663e9aa0ce9a141b5bedcc8ed.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 918264
+ },
+ "title": "Landslide",
+ "title_with_featured": "Landslide",
+ "updated_by_human_at": 1698584675,
+ "url": "https://genius.com/Fleetwood-mac-landslide-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2579",
+  "header_image_url": "https://images.genius.com/6dcd4c55b9cf587cf67bad110991e51a.1000x417x1.jpg",
+  "id": 2579,
+  "image_url": "https://images.genius.com/f690bcbc11396e71cb549597043edfd1.923x923x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Fleetwood Mac",
+  "slug": "Fleetwood-mac",
+  "url": "https://genius.com/artists/Fleetwood-mac"
+ },
+ "artist": "Fleetwood Mac",
+ "lyrics": "73 ContributorsLandslide Lyrics\nI took my love, took it down\nI climbed a mountain and I turned around\nAnd I saw my reflection in the snow-covered hills\n'Til the landslide brought me down\n\nOh, mirror in the sky\nWhat is love?\nCan the child within my heart rise above?\nCan I sail through the changin' ocean tides?\nCan I handle the seasons of my life?\nHmm-hmm, hmm-hmm\n\nWell, I've been afraid of changin'\n'Cause I've built my life around you\nBut time makes you bolder\nEven children get older\nAnd I'm getting older too\n\n\nWell, I've been afraid of changin'\n'Cause I've built my life around you\nBut time makes you bolder\nEven children get older\nAnd I'm getting older too\nOh, I'm getting older too\nYou might also like\nOh-oh, take my love, take it down\nOh-oh, climb a mountain and turn around\nAnd if you see my reflection in the snow-covered hills\nWell, the landslide bring it down\n\nAnd if you see my reflection in the snow-covered hills\nWell, the landslide will bring it down\nOh-ohh, the landslide bring it down57Embed"
+}

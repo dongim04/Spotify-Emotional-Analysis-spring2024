@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/76842",
+ "artist_names": "The Strokes",
+ "full_title": "You Only Live Once by\u00a0The\u00a0Strokes",
+ "header_image_thumbnail_url": "https://images.genius.com/d5a71257aabaa7f131daaad7f6f8dc74.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d5a71257aabaa7f131daaad7f6f8dc74.1000x1000x1.jpg",
+ "id": 76842,
+ "instrumental": false,
+ "lyrics_owner_id": 48951,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1701358224,
+ "path": "/The-strokes-you-only-live-once-lyrics",
+ "pyongs_count": 57,
+ "relationships_index_url": "https://genius.com/The-strokes-you-only-live-once-sample",
+ "release_date_components": {
+  "year": 2006,
+  "month": 7,
+  "day": 24
+ },
+ "release_date_for_display": "July 24, 2006",
+ "release_date_with_abbreviated_month_for_display": "Jul. 24, 2006",
+ "song_art_image_thumbnail_url": "https://images.genius.com/48c1d3e8e9ff2e575fd7fd1538b82893.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/48c1d3e8e9ff2e575fd7fd1538b82893.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 220095
+ },
+ "title": "You Only Live Once",
+ "title_with_featured": "You Only Live Once",
+ "updated_by_human_at": 1701358224,
+ "url": "https://genius.com/The-strokes-you-only-live-once-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12524",
+  "header_image_url": "https://images.genius.com/382ae86addc1e06ae4bebad904b69c2b.640x348x1.jpg",
+  "id": 12524,
+  "image_url": "https://images.genius.com/b5237c13de1a05f92ca6327d854cbfc8.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "The Strokes",
+  "slug": "The-strokes",
+  "url": "https://genius.com/artists/The-strokes",
+  "iq": 105
+ },
+ "artist": "The Strokes",
+ "lyrics": "56 ContributorsYou Only Live Once Lyrics\nSome people think they're always right\nOthers are quiet and uptight\nOthers, they seem so very nice-nice-nice-nice, oh\nInside they might feel sad and wrong, oh no\nTwenty-nine different attributes\nOnly seven that you like, oh\nTwenty ways to see the world, oh\nAnd twenty ways to start a fight, oh\n\nOh, don't, don't, don't get up!\nI can't see the sunshine\nI'll be waiting for you, baby\n'Cause I'm through\nSit me down!\nShut me up\nI'll calm down\nAnd I'll get along with you\n\nOh, men don't notice what they got\nOh, women think of that a lot\nOne thousand ways to please your man, oh\nNot even one requires a plan, I know\nAnd countless odd religions too\nIt doesn't matter which you choose, oh no\nOne stubborn way to turn your back, oh\nThis I've tried and now refuse, oh\nYou might also like\nOh, don't, don't, don't get up!\nI can't see the sunshine\nWhoa, I'll be waiting for you, baby\n'Cause I'm through\nSit me down!\nShut me up\nI'll calm down\nAnd I'll get along with you, alright\n\nShut me up\nShut me up\nAnd I'll get along with you57Embed"
+}

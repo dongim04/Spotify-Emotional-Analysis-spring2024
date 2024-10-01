@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/100386",
+ "artist_names": "P!nk",
+ "full_title": "Try by\u00a0P!nk",
+ "header_image_thumbnail_url": "https://images.genius.com/98ff79b0147689df3a3dc8b4d6a67dbe.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/98ff79b0147689df3a3dc8b4d6a67dbe.1000x1000x1.jpg",
+ "id": 100386,
+ "instrumental": false,
+ "lyrics_owner_id": 162554,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1653624118,
+ "path": "/P-nk-try-lyrics",
+ "pyongs_count": 33,
+ "relationships_index_url": "https://genius.com/P-nk-try-sample",
+ "release_date_components": {
+  "year": 2012,
+  "month": 10,
+  "day": 19
+ },
+ "release_date_for_display": "October 19, 2012",
+ "release_date_with_abbreviated_month_for_display": "Oct. 19, 2012",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f9d24ffa963c37a56d3731a38430fc8a.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f9d24ffa963c37a56d3731a38430fc8a.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 235255
+ },
+ "title": "Try",
+ "title_with_featured": "Try",
+ "updated_by_human_at": 1706218512,
+ "url": "https://genius.com/P-nk-try-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/345",
+  "header_image_url": "https://images.genius.com/11facbd75b31914d4fce4d11a67612ed.1000x333x1.jpg",
+  "id": 345,
+  "image_url": "https://images.genius.com/8e9d7b2c7e977c8009872f1b28d369c0.474x474x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "P!nk",
+  "slug": "P-nk",
+  "url": "https://genius.com/artists/P-nk"
+ },
+ "artist": "P!nk",
+ "lyrics": "36 ContributorsTranslations\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acTry Lyrics\nEver wonder about what he's doing\nHow it all turned to lies?\nSometimes I think\ufeff that it's better\nTo never ask why\n\nWhere there is desire, there is gonna be a flame\nWhere there is a flame, someone's bound to get burned\nBut just because it burns doesn't mean you're gonna die\nYou've gotta get up and try, try, try\nGotta get up and try, try, try\nYou gotta get up and try, try, try\n\nEh, eh, eh\n\nFunny how the heart can be deceiving\nMore than just a couple times\nWhy do we fall in love so easy?\nEven when it's not right\n\nWhere there is desire, there is gonna be a flame\nWhere there is a flame, someone's bound to get burned\nBut just because it burns doesn't mean you're gonna die\nYou've gotta get up and try, try, try\nGotta get up and try, try, try\nYou gotta get up and try, try, try\nSee P!nk LiveGet tickets as low as $60You might also like\nEver worried that it might be ruined\nAnd does it make you wanna cry?\nWhen you're out there doing what you're doing\nAre you just getting by?\nTell me, are you just getting by, by, by?\n\nWhere there is desire, there is gonna be a flame\nWhere there is a flame, someone's bound to get burned\nBut just because it burns doesn't mean you're gonna die\nYou've gotta get up and try, try, try\nGotta get up and try, try, try\nYou gotta get up and try, try, try\nGotta get up and try, try, try\nGotta get up and try, try, try\nYou gotta get up and try, try, try\nGotta get up and try, try, try\n\nYou gotta get up and try, try, try\nGotta get up and try, try, try33Embed"
+}

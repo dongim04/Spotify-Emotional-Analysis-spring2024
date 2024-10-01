@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/1473901",
+ "artist_names": "The Dear Hunter",
+ "full_title": "Whisper by\u00a0The\u00a0Dear Hunter",
+ "header_image_thumbnail_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.300x301x1.jpg",
+ "header_image_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.600x601x1.jpg",
+ "id": 1473901,
+ "instrumental": false,
+ "lyrics_owner_id": 8521179,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1704517203,
+ "path": "/The-dear-hunter-whisper-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/The-dear-hunter-whisper-sample",
+ "release_date_components": {
+  "year": 2013,
+  "month": 2,
+  "day": 20
+ },
+ "release_date_for_display": "February 20, 2013",
+ "release_date_with_abbreviated_month_for_display": "Feb. 20, 2013",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.300x301x1.jpg",
+ "song_art_image_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.600x601x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 10400
+ },
+ "title": "Whisper",
+ "title_with_featured": "Whisper",
+ "updated_by_human_at": 1704517203,
+ "url": "https://genius.com/The-dear-hunter-whisper-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/109536",
+  "header_image_url": "https://images.genius.com/9ade412e21cabe3606d9cf7066c998c3.475x278x1.jpg",
+  "id": 109536,
+  "image_url": "https://images.genius.com/9ade412e21cabe3606d9cf7066c998c3.475x278x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "The Dear Hunter",
+  "slug": "The-dear-hunter",
+  "url": "https://genius.com/artists/The-dear-hunter",
+  "iq": 100
+ },
+ "artist": "The Dear Hunter",
+ "lyrics": "11 ContributorsWhisper Lyrics\nThere's shadows on the walls\nOf moments far too troubling to recall\nAll the settings and the scenes that signaled suffering\nImpassioned pleas that ended in a whisper\nAnd all the lessons learned\nWere they worth the ash from all the bridges burned?\nStanding, stomping in the damage and the ruins of\nA slip of tongue with tragic consequences\n\nBut I think that we've all made our gravest mistakes\nOn the greatest intentions that we're too stubborn to let go\nWith this little time before I go\nI'll open up my mouth and scream it out\nTo cast my voice into the crowd\n\nNow that you're alone\nIs it really so impossible to know?\nAll the actions and reactions pinned against each other\nNever really end just how you wanted\n\nBut I think that we've all made our gravest mistakes\nOn the greatest intentions that we're too stubborn to let go\nAnd with this little time before I go\nI'll open up my mouth and scream it out\nTo cast my voice into the crowd\nYou might also like\nAnd I know (I know) that all of this will come and go\nSo open up your mouth and scream it out\nTo cast your voice into the crowd\n(Don't let the world, don't let the world beat you down)\n(And don't let the world, don't let the world beat you down)\n\nSo open up your mouth and scream it out\nTo cast your voice into the crowd\n(Don't let the world, don't let the world beat you down)\nSo open up your mouth and scream it out\nTo cast your voice into the crowd\n(Don't let the world, don't let the world beat you down)\nSo open up your mouth and scream it out\nTo cast your voice into the crowd1Embed"
+}

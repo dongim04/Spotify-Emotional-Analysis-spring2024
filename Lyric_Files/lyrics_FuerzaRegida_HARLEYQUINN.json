@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/9642245",
+ "artist_names": "Fuerza Regida & Marshmello",
+ "full_title": "HARLEY QUINN by\u00a0Fuerza\u00a0Regida & Marshmello",
+ "header_image_thumbnail_url": "https://images.genius.com/d2a25ca53c897792e42ee96b50092cdb.300x300x1.png",
+ "header_image_url": "https://images.genius.com/d2a25ca53c897792e42ee96b50092cdb.1000x1000x1.png",
+ "id": 9642245,
+ "instrumental": false,
+ "lyrics_owner_id": 13324426,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1705358761,
+ "path": "/Fuerza-regida-and-marshmello-harley-quinn-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Fuerza-regida-and-marshmello-harley-quinn-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 10,
+  "day": 20
+ },
+ "release_date_for_display": "October 20, 2023",
+ "release_date_with_abbreviated_month_for_display": "Oct. 20, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/5cef3dbc9932f5a3c17235cbaf1dd5d4.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/5cef3dbc9932f5a3c17235cbaf1dd5d4.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 35788
+ },
+ "title": "HARLEY QUINN",
+ "title_with_featured": "HARLEY QUINN",
+ "updated_by_human_at": 1705358761,
+ "url": "https://genius.com/Fuerza-regida-and-marshmello-harley-quinn-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3706394",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1710963199",
+  "id": 3706394,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1710963199",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Fuerza Regida & Marshmello",
+  "slug": "Fuerza-regida-and-marshmello",
+  "url": "https://genius.com/artists/Fuerza-regida-and-marshmello"
+ },
+ "artist": "Fuerza Regida & Marshmello",
+ "lyrics": "12 ContributorsTranslationsEnglishHARLEY QUINN Lyrics\n\nBaby, b\u00e9same la boca\nAunque te sepa a vodka\nEse polvo rosa que te aloca me provoca\nAh\u00ed 't\u00e1n los escoltas, vida peligrosa\nLa corta en la bolsa\nNi\u00f1a, claro que se nota\n\nEn el antro bien coco\nY me pongo bien loco (Loco)\nCon las luces en rojo\nY tu vato no sabe que yo te provoco\nPatrullando en lo' monstruo'\nBien tapados los rostros\nB\u00e9lico peligroso, tu culo redondo\n\n\u00a1Otro pedo!\nFuerza Regida, viejo\nCompa Marshmello\n\nFancy, ella es una fresa\nMueve su cadera, todos la desean\nCrazy, la plebe est\u00e1 bu\u0435na\nMe cuida la merca con mis metrall\u0435tas\nSe arma la loquera, Harley Quinn lista pa' guerra\nYou might also like\nEn el antro bien coco\nY me pongo bien loco (Loco)\nCon las luces en rojo\nY tu vato no sabe que yo te provoco\nPatrullando en lo' monstruo'\nBien tapados los rostros\nB\u00e9lico peligroso, tu culo redondo\n\n\u00a1Mafia!\n(Babies, babies en el antro\nMe siguen bailando\nQuiere que la ponga en cuatro si ando maniaco\nEn el antro bien coco\nY me pongo bien loco\nCon las luces en rojo\nY tu vato no sabe que yo te provoco\nJaja, jajaja, ja)\n\n(Baby)\nCompa Marshmello\nEstamos a la orden, viejoEmbed"
+}

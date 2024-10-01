@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/9647005",
+ "artist_names": "The Vanished People",
+ "full_title": "Castaway by\u00a0The\u00a0Vanished People",
+ "header_image_thumbnail_url": "https://images.genius.com/e3ef67054b22b353c19e0e66663fcb4b.300x300x1.png",
+ "header_image_url": "https://images.genius.com/e3ef67054b22b353c19e0e66663fcb4b.710x710x1.png",
+ "id": 9647005,
+ "instrumental": false,
+ "lyrics_owner_id": 20695366,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1701815659,
+ "path": "/The-vanished-people-castaway-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-vanished-people-castaway-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 10,
+  "day": 20
+ },
+ "release_date_for_display": "October 20, 2023",
+ "release_date_with_abbreviated_month_for_display": "Oct. 20, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e3ef67054b22b353c19e0e66663fcb4b.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/e3ef67054b22b353c19e0e66663fcb4b.710x710x1.png",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 17615
+ },
+ "title": "Castaway",
+ "title_with_featured": "Castaway",
+ "updated_by_human_at": 1710582300,
+ "url": "https://genius.com/The-vanished-people-castaway-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3025842",
+  "header_image_url": "https://images.genius.com/6d8648aeff31563ee957187b3edf5187.1000x1000x1.jpg",
+  "id": 3025842,
+  "image_url": "https://images.genius.com/6d8648aeff31563ee957187b3edf5187.1000x1000x1.jpg",
+  "index_character": "v",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Vanished People",
+  "slug": "The-vanished-people",
+  "url": "https://genius.com/artists/The-vanished-people"
+ },
+ "artist": "The Vanished People",
+ "lyrics": "4 ContributorsCastaway Lyrics{Verse 1]\nHelp it happened again\nA shining spectre comes to haunt me every now and then\nI tried to talk to him instead\nBut it always ends up with me dying while the moon turns red\nThen I wake up\nAnd there's no blood\nJust me and my\nAlarm that went off again\nI ain't got time\nTo think 'bout why\nMy nightlife\nKeeps on fucking my brain\n\nHelp me! No, drown me!\nOh I just can't decide\nAm I truly holding the reins of my mind?\nHere in this deep endless river I'm just a castaway\nBut If I could change it\nI'd keep living this way\n\nSomething dripping on me\nBut th\u0435re are no clouds in the sky as far as I can see\nIs this th\u0435 right way to live\nI'm holding on to someone I am getting tired to be\nYou might also likeThis routine might\nKeep me alive\nBut is it right\nTo pretend I'm ok?\nI ain't got time\nTo think 'bout why\nMy nightlife\nKeeps on fucking my brain\n\nHelp me! No, drown me!\nOh I just can't decide\nAm I truly holding the reins of my mind?\nHere in this deep endless river I'm just a castaway\nBut If I could change it\nI'd keep living this way\n\nHelp me! No, drown me!\nOh I just can't decide\nAm I truly holding the reins of my mind?\nHere in this deep endless river I'm just a castaway\nBut If I could change it\nI'd keep living this way\n\nHelp me! No, drown me!\nOh I just can't decide\nAm I truly holding the reins of my mind?\nYou think a shore will wait for you\nAt the end of this whole trip\nBut you'll end up staying afloat in the boundless seaEmbed"
+}

@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/7101067",
+ "artist_names": "Laufey (Ft. Philharmonia Orchestra)",
+ "full_title": "Let You Break My Heart Again by\u00a0Laufey (Ft.\u00a0Philharmonia\u00a0Orchestra)",
+ "header_image_thumbnail_url": "https://images.genius.com/3df60e3536af1ea4273af3526762caaa.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3df60e3536af1ea4273af3526762caaa.1000x1000x1.jpg",
+ "id": 7101067,
+ "instrumental": false,
+ "lyrics_owner_id": 10648818,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1711413846,
+ "path": "/Laufey-let-you-break-my-heart-again-lyrics",
+ "pyongs_count": 15,
+ "relationships_index_url": "https://genius.com/Laufey-let-you-break-my-heart-again-sample",
+ "release_date_components": {
+  "year": 2021,
+  "month": 8,
+  "day": 13
+ },
+ "release_date_for_display": "August 13, 2021",
+ "release_date_with_abbreviated_month_for_display": "Aug. 13, 2021",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3df60e3536af1ea4273af3526762caaa.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3df60e3536af1ea4273af3526762caaa.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 113160
+ },
+ "title": "Let You Break My Heart Again",
+ "title_with_featured": "Let You Break My Heart Again (Ft.\u00a0Philharmonia\u00a0Orchestra)",
+ "updated_by_human_at": 1711413846,
+ "url": "https://genius.com/Laufey-let-you-break-my-heart-again-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/522321",
+   "header_image_url": "https://images.genius.com/1bc80b813cb5edbda0578fa1d001e134.176x176x1.jpg",
+   "id": 522321,
+   "image_url": "https://images.genius.com/1bc80b813cb5edbda0578fa1d001e134.176x176x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Philharmonia Orchestra",
+   "slug": "Philharmonia-orchestra",
+   "url": "https://genius.com/artists/Philharmonia-orchestra"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2195472",
+  "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+  "id": 2195472,
+  "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Laufey",
+  "slug": "Laufey",
+  "url": "https://genius.com/artists/Laufey",
+  "iq": 1287
+ },
+ "artist": "Laufey",
+ "lyrics": "24 ContributorsTranslationsEspa\u00f1olLet You Break My Heart Again Lyrics\nFeeling kind of sick tonight\nAll I've had is coffee and leftover pie\nIt's no wonder why\nStill you take up all my mind\nI don't even think that you care like I do\nI should stop\nHeaven knows I've tried\n\nOne day\nI will stop falling in love with you\nSome day\nSomeone will like me like I like you\nUntil then I'll drink my coffee\nEat my pie\nPretend that we are more than friends\nThen of course I'll let you break my heart again\n\nI'm just tryna understand\nWhat I am to you\nMore than songs we've exchanged\nMidnight calls\nSunset views\nPromise I don't mean to cry\nBut I get overwhelmed and confused\nIf only you knew\nWhat I felt like\nSee Laufey LiveGet tickets as low as $36You might also like\nOne day\nI will stop falling in love with you\nSome day\nSomeone will like me like I like you\nUntil then I'll drink my coffee\nEat my pie\nPretend that we are more than friends\nThen of course I'll let you break my heart again\n\nSome day\nOne day\nI will stop falling in love with you\nUntil I do\nI'll be thinking of you\nLet you break my heart again15Embed"
+}

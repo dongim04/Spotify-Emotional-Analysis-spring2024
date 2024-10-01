@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/8518166",
+ "artist_names": "SAULT",
+ "full_title": "Higher by\u00a0SAULT",
+ "header_image_thumbnail_url": "https://images.genius.com/558a3de4ee7c80078fca5664628a0b9b.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/558a3de4ee7c80078fca5664628a0b9b.1000x1000x1.jpg",
+ "id": 8518166,
+ "instrumental": false,
+ "lyrics_owner_id": 7267352,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1667321659,
+ "path": "/Sault-higher-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Sault-higher-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 11,
+  "day": 1
+ },
+ "release_date_for_display": "November 1, 2022",
+ "release_date_with_abbreviated_month_for_display": "Nov. 1, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/558a3de4ee7c80078fca5664628a0b9b.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/558a3de4ee7c80078fca5664628a0b9b.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Higher",
+ "title_with_featured": "Higher",
+ "updated_by_human_at": 1704902015,
+ "url": "https://genius.com/Sault-higher-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1760695",
+  "header_image_url": "https://images.genius.com/a40b09bdbd979fe38c4f0e7e1ff73338.1000x1000x1.jpg",
+  "id": 1760695,
+  "image_url": "https://images.genius.com/bd7345a340f0e3ef7c60b25dbee97025.999x999x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "SAULT",
+  "slug": "Sault",
+  "url": "https://genius.com/artists/Sault"
+ },
+ "artist": "SAULT",
+ "lyrics": "3 ContributorsHigher Lyrics\nHigher\nYou take me higher\nAnd when I'm feeling low, don't know what\nYou take me higher\nHigher\nYou take me higher\nHigher\nAnd when I'm feeling low, don't know what\nYou take me higher\nHigher\nAnd when I'm feeling low\nAnd I feel it, you take me higher\nHigher\nHigher\nAnd I never know what I'd do without you\n\nHigher\nYou take me higher\nAnd when I'm feeling low, don't know what\nYou take me higher\nYou take me higher\nHigher\nHigher\nAnd if I'm feeling low, don't know what\nYou take me higher\nYou take me higher\nHigher\nHigher (I love you very much)\nHigher (I'm thankful for your love)\nI need you in the world (I love you very much)\n(Love, love, love, love, love)\n(Love, love, love, love, love)\nThank you for your love\nAnd I love you very much\n(I love you very much)\n(And I'm thankful for your love)You might also like1Embed"
+}

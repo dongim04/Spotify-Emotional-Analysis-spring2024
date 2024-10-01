@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/8959595",
+ "artist_names": "Jungle (Ft. Erick the Architect)",
+ "full_title": "Candle Flame by\u00a0Jungle (Ft.\u00a0Erick\u00a0the Architect)",
+ "header_image_thumbnail_url": "https://images.genius.com/17f8926da45d6e97bce3411a5d777f1b.300x300x1.png",
+ "header_image_url": "https://images.genius.com/17f8926da45d6e97bce3411a5d777f1b.999x999x1.png",
+ "id": 8959595,
+ "instrumental": false,
+ "lyrics_owner_id": 11654903,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1709592753,
+ "path": "/Jungle-candle-flame-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Jungle-candle-flame-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 3,
+  "day": 27
+ },
+ "release_date_for_display": "March 27, 2023",
+ "release_date_with_abbreviated_month_for_display": "Mar. 27, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/17f8926da45d6e97bce3411a5d777f1b.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/17f8926da45d6e97bce3411a5d777f1b.999x999x1.png",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 19239
+ },
+ "title": "Candle Flame",
+ "title_with_featured": "Candle Flame (Ft.\u00a0Erick\u00a0the Architect)",
+ "updated_by_human_at": 1709592753,
+ "url": "https://genius.com/Jungle-candle-flame-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/17102",
+   "header_image_url": "https://images.genius.com/72428869c092d6753b997639ac5b3517.400x400x1.jpg",
+   "id": 17102,
+   "image_url": "https://images.genius.com/72428869c092d6753b997639ac5b3517.400x400x1.jpg",
+   "index_character": "e",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Erick the Architect",
+   "slug": "Erick-the-architect",
+   "url": "https://genius.com/artists/Erick-the-architect"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/301799",
+  "header_image_url": "https://images.genius.com/6063fbe3f66f11e8ab27f14d34841eea.1000x165x1.jpg",
+  "id": 301799,
+  "image_url": "https://images.genius.com/6786e3a2b99dc62603aa3b0de29349ba.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Jungle",
+  "slug": "Jungle",
+  "url": "https://genius.com/artists/Jungle",
+  "iq": 161
+ },
+ "artist": "Jungle",
+ "lyrics": "15 ContributorsCandle Flame Lyrics\nI want you there\nI want you there\nI want you there\nI want you there\n\nYou got me burning like a candle flame\nYou're gonna hurt because you never change\nTake me from the darkness tryna heal my pain\nHear my prayer, hear my prayer\n(Let's go)\nYou (Yes I did it for)\nYou (Yes I did it for)\nYou (Yes I did it for)\nYou (Yes I did it for)\n\nFeels like the first time I made time in a minute\nRock with it, I'm in attendance\nHow can we put these feelings aside\nI gotta match the fires to the flame\nThe feelings just got attached\nI got the days for the stray far away\nSmoulder waves, we started dancing\nKnow we had to take you back home\nTime movin' slow, we fast forward\nSee Jungle LiveGet tickets as low as $54You might also like\nYou got me burning like a candle flame\nYou're gonna hurt because you never change\nTake me from the darkness tryna heal my pain\nHear my prayer, hear my prayer\n\nButterflies in her belly is sign it's angelic\nI ride the mic steady the most to try get it\nLover without limits, the message is all with it\nRound and round with me, but baby don't mind spinning, word\nPut in work and then we twirl, shawty could be my girl\nLook at this little girl, she precious like little pearls, hair straighter than curls\nBeautiful cause you earned it, making this thing worth it\n\nYou got me burning like a candle flame\nYou're gonna hurt because you never change\nTake me from the darkness tryna heal my pain\nHear my prayer, hear my prayer\n\nI want you there\nI want you there\nI want you there\nI want you there\nYou got me burning like a candle flame\nYou're gonna hurt because you never change\nTake me from the darkness tryna heal my pain\nHear my prayer, hear my prayerEmbed"
+}

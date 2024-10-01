@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/3010401",
+ "artist_names": "Lake Street Dive",
+ "full_title": "What I'm Doing Here by\u00a0Lake\u00a0Street Dive",
+ "header_image_thumbnail_url": "https://images.genius.com/3cf53f0c37b8d6ea0566acb8ea379581.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3cf53f0c37b8d6ea0566acb8ea379581.1000x1000x1.jpg",
+ "id": 3010401,
+ "instrumental": false,
+ "lyrics_owner_id": 4355603,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1565753643,
+ "path": "/Lake-street-dive-what-im-doing-here-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Lake-street-dive-what-im-doing-here-sample",
+ "release_date_components": {
+  "year": 2014,
+  "month": 6,
+  "day": 9
+ },
+ "release_date_for_display": "June 9, 2014",
+ "release_date_with_abbreviated_month_for_display": "Jun. 9, 2014",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3cf53f0c37b8d6ea0566acb8ea379581.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3cf53f0c37b8d6ea0566acb8ea379581.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 18909
+ },
+ "title": "What I\u2019m Doing Here",
+ "title_with_featured": "What I'm Doing Here",
+ "updated_by_human_at": 1565753643,
+ "url": "https://genius.com/Lake-street-dive-what-im-doing-here-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/143765",
+  "header_image_url": "https://images.genius.com/99e19d25a076a044d9b5a93272a6e73f.909x209x1.png",
+  "id": 143765,
+  "image_url": "https://images.genius.com/06669be708cb6085f6b803a9a8d6642b.1000x1000x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lake Street Dive",
+  "slug": "Lake-street-dive",
+  "url": "https://genius.com/artists/Lake-street-dive"
+ },
+ "artist": "Lake Street Dive",
+ "lyrics": "3 ContributorsWhat I\u2019m Doing Here LyricsNobody knows what I'm doing here\nAnd I ain't got a clue\nMessing around with these other fools\nWhen I'm not with you\nThere's been so many nights\nWhen I've longed for your touch\nThere's been so many days\nWhen our love was not enough\nOh, leave me\nJust leave me, leave me\nCan't you see me?\nSee me-\nNobody knows what I'm doing here\nAnd I ain't got a clue\nMessing around with these other fools\nWhen I'm not with you\nThere's been so many nights\nWhen I've longed for your touch\nThere's been so many days\nWhen our love was not enough\nOh, leave me\nJust leave me, leave me\nCan't you see me?\nSee me-\nSee Lake Street Dive LiveGet tickets as low as $40You might also likeNobody knows what I'm doing here\nAnd I ain't got a clue\nMessing around with these other fools\nWhen I'm not-\nWhen I'm not-\nWhen I'm not, oh\nNobody knows what I'm doing here\nAnd I, I ain't got a clue\nMessing around with these other fools\nWhen I'm not with you\nWhen I'm not with youEmbed"
+}

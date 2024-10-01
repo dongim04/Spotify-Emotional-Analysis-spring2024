@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/7250803",
+ "artist_names": "AJ Mitchell",
+ "full_title": "Lovers On The Moon by\u00a0AJ\u00a0Mitchell",
+ "header_image_thumbnail_url": "https://images.genius.com/ff28adf28b39e5c5f96ce333652bcb32.300x300x1.png",
+ "header_image_url": "https://images.genius.com/ff28adf28b39e5c5f96ce333652bcb32.1000x1000x1.png",
+ "id": 7250803,
+ "instrumental": false,
+ "lyrics_owner_id": 498964,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1638089809,
+ "path": "/Aj-mitchell-lovers-on-the-moon-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Aj-mitchell-lovers-on-the-moon-sample",
+ "release_date_components": {
+  "year": 2021,
+  "month": 10,
+  "day": 8
+ },
+ "release_date_for_display": "October 8, 2021",
+ "release_date_with_abbreviated_month_for_display": "Oct. 8, 2021",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ff28adf28b39e5c5f96ce333652bcb32.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/ff28adf28b39e5c5f96ce333652bcb32.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Lovers On The Moon",
+ "title_with_featured": "Lovers On The Moon",
+ "updated_by_human_at": 1638089809,
+ "url": "https://genius.com/Aj-mitchell-lovers-on-the-moon-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1157786",
+  "header_image_url": "https://images.genius.com/43614f7d4f6a5874726606be9d2ee1a6.1000x210x1.png",
+  "id": 1157786,
+  "image_url": "https://images.genius.com/ed618badef029dd743c8e938c65f6384.1000x1000x1.png",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "AJ Mitchell",
+  "slug": "Aj-mitchell",
+  "url": "https://genius.com/artists/Aj-mitchell",
+  "iq": 449
+ },
+ "artist": "AJ Mitchell",
+ "lyrics": "7 ContributorsTranslationsItalianoLovers On The Moon Lyrics\nOoh, baby, baby\nThe way you shinin' lately\nIs brighter than the stars in the sky\nElevated\nIs it too soon to say that\nI'm yours if you're along for the ride?\n\nI feel so high in this place\nIn your eyes, I been floatin'\nFeels just like outer space\nNo one else, just me and you\n\nI wanna love you 'til your feet don't touch the ground\nI wanna know you where the air don't make a sound\nI feel so high when I'm with you, ooh\nWe could be lovers on the moon\nI never knew that I could feel like this, oh no\nI never knew until my heart crashed into yours\nI feel so high when I'm with you, ooh\nWe could be lovers on the moon\n\nWe could be lovers on the moon\nSo high\nYou might also like\nOoh, baby, baby\nThe way that you've been tastin'\nI could eat it up all night\nAnd when it's over, if I lose my composure\nIt's only 'cause you're blowin' my mind\n\nI feel so high in this place\nFeels just like I've been floating in your eyes\nOuter space, no one else, just me and you\n\nI wanna love you 'til your feet don't touch the ground\nI wanna know you where the air don't make a sound\nI feel so high when I'm with you, ooh\nWe could be lovers on the moon\nI never knew that I could feel like this, oh no\nI never knew until my heart crashed into yours\nI feel so high when I'm with you, ooh\nWe could be lovers on the moon\n\nWe could be lovers on the moon\nSo high\nWe could be lovers on the moon\nSo high\nOoh, la-la, la-la, la-la, la-la, la-la, I la-la-la like it\nOoh, la-la, la-la, la-la, la-la, la-la, I la-la-la like it\n\nI wanna love you 'til your feet don't touch the ground\nI wanna know you where the air don't make a sound\nI feel so high when I'm with you, ooh\nWe could be lovers on the moon\n\nWe could be lovers on the moon\nSo high\nWe could be lovers on the moon\nSo highEmbed"
+}

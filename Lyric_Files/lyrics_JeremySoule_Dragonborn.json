@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/136751",
+ "artist_names": "Jeremy Soule",
+ "full_title": "Dragonborn by\u00a0Jeremy\u00a0Soule",
+ "header_image_thumbnail_url": "https://images.genius.com/6b692c672851abc445f57f0be6998837.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6b692c672851abc445f57f0be6998837.1000x1000x1.jpg",
+ "id": 136751,
+ "instrumental": false,
+ "lyrics_owner_id": 19602,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1618949584,
+ "path": "/Jeremy-soule-dragonborn-lyrics",
+ "pyongs_count": 13,
+ "relationships_index_url": "https://genius.com/Jeremy-soule-dragonborn-sample",
+ "release_date_components": {
+  "year": 2011,
+  "month": 12,
+  "day": 23
+ },
+ "release_date_for_display": "December 23, 2011",
+ "release_date_with_abbreviated_month_for_display": "Dec. 23, 2011",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6b692c672851abc445f57f0be6998837.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6b692c672851abc445f57f0be6998837.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 180021
+ },
+ "title": "Dragonborn",
+ "title_with_featured": "Dragonborn",
+ "updated_by_human_at": 1708464010,
+ "url": "https://genius.com/Jeremy-soule-dragonborn-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/44867",
+  "header_image_url": "https://images.genius.com/0171c7ee7ab6a82905ddef41636177bd.960x960x1.jpg",
+  "id": 44867,
+  "image_url": "https://images.genius.com/0171c7ee7ab6a82905ddef41636177bd.960x960x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jeremy Soule",
+  "slug": "Jeremy-soule",
+  "url": "https://genius.com/artists/Jeremy-soule"
+ },
+ "artist": "Jeremy Soule",
+ "lyrics": "26 ContributorsDragonborn LyricsDovahkiin, Dovahkiin, naal ok zin los vahriin\nWah dein vokul mahfaeraak ahst vaal!\nAhrk fin norok paal graan fod nust hon zindro zaan\nDovahkiin, fah hin kogaan mu draal!\nHuzrah nu, kul do od, wah aan bok lingrah vod\nAhrk fin tey, boziik fun, do fin gein!\nWo lost fron wah ney dov, ahrk fin reyliik do jul\nVoth aan suleyk wah ronit faal krein\nAhrk fin zul, rok drey kod, nau tol morokei frod\nRul lot Taazokaan motaad voth kein!\nSahrot Thu'um, med aan tuz, vey zeim hokoron pah\nOl fin Dovahkiin komeyt ok rein!\nDovahkiin, Dovahkiin, naal ok zin los vahriin\nWah dein vokul mahfaeraak ahst vaal!\nAhrk fin norok paal graan fod nust hon zindro zaan\nDovahkiin, fah hin kogaan mu draal!\nAhrk fin Kel lost prodah, do ved viing ko fin krah\nTol fod zeymah win kein meyz fundein!\nAlduin, feyn do jun, kruziik vokun staadnau\nVoth aan bahlok wah diivon fin lein!\nNuz aan sul, fent alok, fod fin vul dovah nok\nFen kos nahlot mahfaeraak ahrk ruz!\nPaaz Keizaal fen kos stin nol bein Alduin jot\nDovahkiin kos fin saviik do muz!\nYou might also likeDovahkiin, Dovahkiin, naal ok zin los vahriin\nWah dein vokul mahfaeraak ahst vaal!\nAhrk fin norok paal graan fod nust hon zindro zaan\nDovahkiin, fah hin kogaan mu draal!13Embed"
+}

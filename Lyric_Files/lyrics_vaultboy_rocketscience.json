@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/7380270",
+ "artist_names": "\u200bvaultboy",
+ "full_title": "\u200brocket science by\u00a0\u200bvaultboy",
+ "header_image_thumbnail_url": "https://images.genius.com/6d6d5067846464829062362e54d2f0c2.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6d6d5067846464829062362e54d2f0c2.640x640x1.jpg",
+ "id": 7380270,
+ "instrumental": false,
+ "lyrics_owner_id": 13622532,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1636709874,
+ "path": "/Vaultboy-rocket-science-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Vaultboy-rocket-science-sample",
+ "release_date_components": {
+  "year": 2021,
+  "month": 11,
+  "day": 9
+ },
+ "release_date_for_display": "November 9, 2021",
+ "release_date_with_abbreviated_month_for_display": "Nov. 9, 2021",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1698bbbaf7a8bf0ce23a3c76f9f40a8c.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1698bbbaf7a8bf0ce23a3c76f9f40a8c.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "\u200brocket science",
+ "title_with_featured": "\u200brocket science",
+ "updated_by_human_at": 1689017520,
+ "url": "https://genius.com/Vaultboy-rocket-science-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2583617",
+  "header_image_url": "https://images.genius.com/bbdd8c857d6cb3543fdd042f51a32085.1000x562x1.jpg",
+  "id": 2583617,
+  "image_url": "https://images.genius.com/b7c837d2585fe4665ff741a58a04a79a.1000x1000x1.jpg",
+  "index_character": "v",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "\u200bvaultboy",
+  "slug": "Vaultboy",
+  "url": "https://genius.com/artists/Vaultboy",
+  "iq": 106
+ },
+ "artist": "\u200bvaultboy",
+ "lyrics": "8 Contributors\u200brocket science Lyrics\nIt's three in the morning, where'd the time go?\nI wanna know, I wanna know\nIf you wanna go to bed now or if you don't\nI wanna know, I wanna know\n\nIf you've been hatin', hesitatin'\nThis is somethin' different\n\nBaby, it isn't rocket science\nWhy are we complicatin' it?\nWe got a chemistry I'm likin'\nI'm feelin' good 'bout, giving it\n'Cause baby, it isn't rocket science\nEven when it feels like it is\nI know your heart's beatin' like mine is\nYou don't gotta hide it\nBaby, it's not rocket science\n\nYou're tellin' me secrets nobody else knows\n'Cause I wanna know, I wanna know\nWhere you might see yourself way down the road\nI wanna know, 'cause I wanna go\nSee \u200bvaultboy LiveGet tickets as low as $132You might also like\nIf you've been hatin', hesitatin'\nThis is, somethin' different\n\nBaby, it isn't rocket science\nWhy are we complicatin' it?\nWe got a chemistry I'm likin'\nI'm feelin' good 'bout, giving it\n'Cause baby, it isn't rocket science\nEven when it feels like it is\nI know your heart's beatin' like mine is\nYou don't gotta hide it\nBaby, it's not rocket science\n\nEven when it feels like it is (It's not rocket science)\nYou don't gotta hide it\nBaby, it's not rocket science\nBaby, it's not rocket scienceEmbed"
+}

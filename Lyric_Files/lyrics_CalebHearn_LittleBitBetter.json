@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/10089985",
+ "artist_names": "Caleb Hearn & ROSIE",
+ "full_title": "Little Bit Better by\u00a0Caleb\u00a0Hearn & ROSIE",
+ "header_image_thumbnail_url": "https://images.genius.com/291fa54b3ee0de6bf080f040ab373dbf.300x300x1.png",
+ "header_image_url": "https://images.genius.com/291fa54b3ee0de6bf080f040ab373dbf.1000x1000x1.png",
+ "id": 10089985,
+ "instrumental": false,
+ "lyrics_owner_id": 10665984,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1710703087,
+ "path": "/Caleb-hearn-and-rosie-little-bit-better-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Caleb-hearn-and-rosie-little-bit-better-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 2,
+  "day": 23
+ },
+ "release_date_for_display": "February 23, 2024",
+ "release_date_with_abbreviated_month_for_display": "Feb. 23, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/291fa54b3ee0de6bf080f040ab373dbf.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/291fa54b3ee0de6bf080f040ab373dbf.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Little Bit Better",
+ "title_with_featured": "Little Bit Better",
+ "updated_by_human_at": 1710703087,
+ "url": "https://genius.com/Caleb-hearn-and-rosie-little-bit-better-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3853336",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1711554191",
+  "id": 3853336,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1711554191",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Caleb Hearn & ROSIE",
+  "slug": "Caleb-hearn-and-rosie",
+  "url": "https://genius.com/artists/Caleb-hearn-and-rosie"
+ },
+ "artist": "Caleb Hearn & ROSIE",
+ "lyrics": "3 ContributorsLittle Bit Better Lyrics\nThree, four\n\nI met somebody, selfless and kind\nShe's got a smile even when she isn't fine\nShe can be hurting, but she's got enough love to fill up Tennessee\nI met somebody, stays up at night\nI see her worry and she sees all of mine\nI met somebody, she really loves me, says I'm all she needs\n\nAnd I\nGrew up thinking I would have to\nFight\nAll of this alone\n\nBut now you hold me in the darkness\nHold me 'til it hurts less, you\nTell me that I'm alright\nShow me where the light shines through\nPlease stay, love me through the weather\nPlease say this will be forever\nHold me in the darkness\nEven when it's hard with you\nIt's a little bit, little bit better\nYou might also like\nI met somebody, gentle and smart\nHe underestimates the size of his heart\nHe can be laughing, but he's got enough pain to fill up New York City\nI met somebody so full of scars\nThe world's on his shoulders, but he won't fall apart\nI met somebody, he really loves me, says I'm all he needs\n\nAnd I\nGrew up thinking I would have to\nFight\nAll of this alone\n\nBut now you hold me in the darkness\nHold me 'til it hurts less, you\nTell me that I'm alright\nShow me where the light shines through\nPlease stay, love me through the weather\nPlease say this will be forever\nHold me in the darkness\nEven when it's hard with you\nIt's a little bit, little bit better\n\nOh-oh-ooh, oh-oh-oh-oh, oh-oh, oh-oh, a little bit better\nOh-oh-ooh, oh-oh-oh-oh, oh-oh, oh-oh\nAnd I\nGrew up thinking I would have to\nFight\nAll of this alone\n\nBut now you hold me in the darkness\nHold me 'til it hurts less, you\nTell me that I'm alright\nShow me where the light shines through\nPlease stay, love me through the weather\nPlease say this will be forever\nHold me in the darkness\nEven when it's hard with you\nIt's a little bit, little bit betterEmbed"
+}

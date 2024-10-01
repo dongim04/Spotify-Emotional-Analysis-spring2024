@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 12,
+ "api_path": "/songs/2996381",
+ "artist_names": "Steve Lacy",
+ "full_title": "Dark Red by\u00a0Steve\u00a0Lacy",
+ "header_image_thumbnail_url": "https://images.genius.com/8890e3035ae21c3ae01b033bce8d64ce.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/8890e3035ae21c3ae01b033bce8d64ce.561x561x1.jpg",
+ "id": 2996381,
+ "instrumental": false,
+ "lyrics_owner_id": 2433385,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1704816244,
+ "path": "/Steve-lacy-dark-red-lyrics",
+ "pyongs_count": 79,
+ "relationships_index_url": "https://genius.com/Steve-lacy-dark-red-sample",
+ "release_date_components": {
+  "year": 2017,
+  "month": 2,
+  "day": 20
+ },
+ "release_date_for_display": "February 20, 2017",
+ "release_date_with_abbreviated_month_for_display": "Feb. 20, 2017",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ff639ad008af9756ead5e7c203135a26.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ff639ad008af9756ead5e7c203135a26.497x497x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 556358
+ },
+ "title": "Dark Red",
+ "title_with_featured": "Dark Red",
+ "updated_by_human_at": 1704816244,
+ "url": "https://genius.com/Steve-lacy-dark-red-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/512850",
+  "header_image_url": "https://images.genius.com/d4afb166e5c0fca19baba97332b3e998.998x1000x1.jpg",
+  "id": 512850,
+  "image_url": "https://images.genius.com/e146f80eb0d14fb1035523a096871e91.998x998x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Steve Lacy",
+  "slug": "Steve-lacy",
+  "url": "https://genius.com/artists/Steve-lacy"
+ },
+ "artist": "Steve Lacy",
+ "lyrics": "100 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439Dark Red Lyrics\nSomething bad is 'bout to happen to me\nI don't know what, but I feel it coming\nMight be so sad, might leave my nose running\nI just hope she don't wanna leave me (Babe)\n\nDon't you give me up, please don't give up\nOn me, I belong, with you, and only you, babe\nOnly you, my girl, only you, babe\nOnly you, darling, only you, babe\nOnly you, my girl, only you, babe\nOnly you, darling, only you\n\nSomething bad is 'bout to happen to me\nWhy I feel this way? I don't know, maybe\nI think of her so much, it drives me crazy\nI just don't want her to leave me (Babe)\n\nDon't you give me up, please don't give up\nOn me, I belong with you, and only you, babe\nOnly you, my girl, only you, babe\nOnly you, darling, only you, babe\nOnly you, my girl, only you, babe\nOnly you, darling, only you\nYou might also like\nWhat if she's fine?\nIt's my mind that's wrong\nAnd I just let bad thoughts\nLinger for far too long\nWhat if (If) she\u2019s fine? (Fine)\nIt\u2019s my mind that\u2019s wrong\nAnd I just (Just) let bad thoughts (Thoughts)\nLinger for far too long\n\nDon't you give me up, please don't give up\nOn me, I belong, with you, only you, babe\nOnly you, my girl, only you, babe\nOnly you, darling, only you, babe\nOnly you, my girl, only you, babe\nOnly you, darling, only you79Embed"
+}

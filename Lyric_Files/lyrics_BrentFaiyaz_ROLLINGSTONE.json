@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/8114231",
+ "artist_names": "Brent Faiyaz",
+ "full_title": "ROLLING STONE by\u00a0Brent\u00a0Faiyaz",
+ "header_image_thumbnail_url": "https://images.genius.com/72495da0e1a25a89a23c56ba823e5b1d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/72495da0e1a25a89a23c56ba823e5b1d.1000x1000x1.jpg",
+ "id": 8114231,
+ "instrumental": false,
+ "lyrics_owner_id": 16190290,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1711214833,
+ "path": "/Brent-faiyaz-rolling-stone-lyrics",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/Brent-faiyaz-rolling-stone-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 7,
+  "day": 8
+ },
+ "release_date_for_display": "July 8, 2022",
+ "release_date_with_abbreviated_month_for_display": "Jul. 8, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/72495da0e1a25a89a23c56ba823e5b1d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/72495da0e1a25a89a23c56ba823e5b1d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 89434
+ },
+ "title": "ROLLING STONE",
+ "title_with_featured": "ROLLING STONE",
+ "updated_by_human_at": 1711214833,
+ "url": "https://genius.com/Brent-faiyaz-rolling-stone-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/332612",
+  "header_image_url": "https://images.genius.com/69e88936f57222bfe053bac1e8d77625.1000x1000x1.jpg",
+  "id": 332612,
+  "image_url": "https://images.genius.com/d26c85db34600b384cba88fe02a1c587.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Brent Faiyaz",
+  "slug": "Brent-faiyaz",
+  "url": "https://genius.com/artists/Brent-faiyaz",
+  "iq": 1663
+ },
+ "artist": "Brent Faiyaz",
+ "lyrics": "33 ContributorsTranslationsEspa\u00f1olPortugu\u00easROLLING STONE Lyrics\n(Ayy, somebody got a J I could light in this bitch?)\n\nI'm a rolling stone (Stone)\nI'm too wild for you to own\nIn a whip that's meant to speed (Phew, phew, phew)\nIf I hurt you, would you leave?\nI learned the game from some heavyweights\nCatching buses, makin' change from another play (Change)\nI still got demons from my younger days\nI wish I could shake 'em, but they follow me\nI wish I could take it easy, but these fans watch\nAsk my mama, I been hustlin' since the sandbox\nI'm a rolling stone\n\nI'm sorry in advance if I let you down\nI'm sorry in advance if I let you down\n\nBitch, you just spilled Louis 13 on my McQueens\n(Damn, back the fuck up)\nI got all this pimp shit up in my genes, oh\n\nBlame that on my moth\u0435r\nI can't go nowhere that's less than m\u0435\nAsk my lovers, I'm troubled\nFirst I'm exciting then I'm gaslighting, make up your mind\nI'm rich as fuck and I ain't nothing at the same time\nPeople hate me and they love me at the same time (Damn, damn, damn)\nI guess I'm everything and nothing at the same time\nYou might also like\nI'm sorry in advance if I let you down (I'm a rolling stone)\nI'm sorry in advance if I let you down5Embed"
+}

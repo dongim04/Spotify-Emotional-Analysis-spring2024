@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/8214748",
+ "artist_names": "DPR IAN",
+ "full_title": "Ballroom Extravaganza by\u00a0DPR\u00a0IAN",
+ "header_image_thumbnail_url": "https://images.genius.com/327a73bc214cb68eadf7bb538a107076.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/327a73bc214cb68eadf7bb538a107076.1000x1000x1.jpg",
+ "id": 8214748,
+ "instrumental": false,
+ "lyrics_owner_id": 13484456,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708458683,
+ "path": "/Dpr-ian-ballroom-extravaganza-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Dpr-ian-ballroom-extravaganza-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 7,
+  "day": 26
+ },
+ "release_date_for_display": "July 26, 2022",
+ "release_date_with_abbreviated_month_for_display": "Jul. 26, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/327a73bc214cb68eadf7bb538a107076.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/327a73bc214cb68eadf7bb538a107076.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 34648
+ },
+ "title": "Ballroom Extravaganza",
+ "title_with_featured": "Ballroom Extravaganza",
+ "updated_by_human_at": 1708458683,
+ "url": "https://genius.com/Dpr-ian-ballroom-extravaganza-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1158210",
+  "header_image_url": "https://images.genius.com/6fb7158cc79e67c6ac63a31f56f25702.1000x563x1.jpg",
+  "id": 1158210,
+  "image_url": "https://images.genius.com/e175cd542f0877666f6ef3339a7c95ba.640x640x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "DPR IAN",
+  "slug": "Dpr-ian",
+  "url": "https://genius.com/artists/Dpr-ian"
+ },
+ "artist": "DPR IAN",
+ "lyrics": "13 ContributorsTranslationsPortugu\u00easBallroom Extravaganza Lyrics\nThe crowd has come to a halt\nThe birds won't sing for you anymore (Shh)\nNot like before\n\nWhen the trees are all burning\nAll the stars will keep on turning\nAnd I know I won't stop searching\nFor the moment when the world\n\nStopped for you\nIt stopped for you\nThen the world came crashing down\nAnd it's pulling you in now\n\nYou know all the words to the play\nBut all I wanted was you to stay\nYour time is running thin\n'Cause I'm falling through the cracks under your floor\n\nHow does it feel to be alive again?\nStop holding on with your dear breath\nYou're one step closer to me\nYou might also like\nOn the ballroom extravaganza\nI know you won't find me anymore\nI tri\u0435d to reach for you once more\nBut th\u0435 world came crashing to the ground\n\nWhen the story comes to an end\nWill it be the same again?\nWhen all the king's horsemen and all the king's men\nThey couldn't put you back together again\nOh, when the story comes to an end\nWill it be the same again to you?\nTo you\nWhen the story comes to an end\nWill you be the same again at all?\nAt all\n\nOh-oh-oh\nAt all\nOh, yeah\nOh-oh2Embed"
+}

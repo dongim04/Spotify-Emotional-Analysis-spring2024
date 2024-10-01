@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 15,
+ "api_path": "/songs/216032",
+ "artist_names": "The Cure",
+ "full_title": "Just Like Heaven by\u00a0The\u00a0Cure",
+ "header_image_thumbnail_url": "https://images.genius.com/e0a37af3b320a14a02c64c81ababb4f1.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e0a37af3b320a14a02c64c81ababb4f1.600x600x1.jpg",
+ "id": 216032,
+ "instrumental": false,
+ "lyrics_owner_id": 273784,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1709937102,
+ "path": "/The-cure-just-like-heaven-lyrics",
+ "pyongs_count": 53,
+ "relationships_index_url": "https://genius.com/The-cure-just-like-heaven-sample",
+ "release_date_components": {
+  "year": 1987,
+  "month": 10,
+  "day": 5
+ },
+ "release_date_for_display": "October 5, 1987",
+ "release_date_with_abbreviated_month_for_display": "Oct. 5, 1987",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e0a37af3b320a14a02c64c81ababb4f1.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e0a37af3b320a14a02c64c81ababb4f1.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false,
+  "pageviews": 473022
+ },
+ "title": "Just Like Heaven",
+ "title_with_featured": "Just Like Heaven",
+ "updated_by_human_at": 1709937102,
+ "url": "https://genius.com/The-cure-just-like-heaven-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/15758",
+  "header_image_url": "https://images.genius.com/cd329cd267a717821150770e9f47e920.1000x600x1.jpg",
+  "id": 15758,
+  "image_url": "https://images.genius.com/a0eeac26e313b49cc558102ed0a5622b.640x640x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Cure",
+  "slug": "The-cure",
+  "url": "https://genius.com/artists/The-cure"
+ },
+ "artist": "The Cure",
+ "lyrics": "66 ContributorsJust Like Heaven Lyrics\n\"Show me, show me, show me how you do that trick\nThe one that makes me scream\", she said\n\"The one that makes me laugh\", she said\nAnd threw her arms around my neck\n\"Show me how you do it, and I promise you\nI promise that I'll run away with you\nI'll run away with you\"\n\nSpinning on that dizzy edge\nKissed her face and kissed her head\nDreamed of all the different ways I had to make her glow\n\"Why are you so far away?\", she said\n\"Why won't you ever know that I'm in love with you?\nThat I'm in love with you?\"\n\nYou, soft and only\nYou, lost and lonely\nYou, strange as angels\nDancing in the deepest oceans\nTwisting in the water\nYou're just like a dream\nYou're just like a dream\nYou might also like\nDaylight licked me into shape\nI must have been asleep for days\nAnd moving lips to breathe her name\nI opened up my eyes\nAnd found myself alone, alone\nAlone above a raging sea\nThat stole the only girl I loved\nAnd drowned her deep inside of me\n\nYou, soft and only\nYou, lost and lonely\nYou, just like heaven53Embed"
+}

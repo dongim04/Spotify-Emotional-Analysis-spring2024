@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/3484874",
+ "artist_names": "Billie Eilish",
+ "full_title": "\u200bwhen the party's over by\u00a0Billie\u00a0Eilish",
+ "header_image_thumbnail_url": "https://images.genius.com/a469c6e6d7363c50b051b94df17b2d8e.300x300x1.png",
+ "header_image_url": "https://images.genius.com/a469c6e6d7363c50b051b94df17b2d8e.1000x1000x1.png",
+ "id": 3484874,
+ "instrumental": false,
+ "lyrics_owner_id": 5614516,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1666387600,
+ "path": "/Billie-eilish-when-the-partys-over-lyrics",
+ "pyongs_count": 464,
+ "relationships_index_url": "https://genius.com/Billie-eilish-when-the-partys-over-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 10,
+  "day": 17
+ },
+ "release_date_for_display": "October 17, 2018",
+ "release_date_with_abbreviated_month_for_display": "Oct. 17, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a469c6e6d7363c50b051b94df17b2d8e.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/a469c6e6d7363c50b051b94df17b2d8e.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 3871500
+ },
+ "title": "\u200bwhen the party\u2019s over",
+ "title_with_featured": "\u200bwhen the party's over",
+ "updated_by_human_at": 1709563104,
+ "url": "https://genius.com/Billie-eilish-when-the-partys-over-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/615550",
+  "header_image_url": "https://images.genius.com/a3ed3b2ef89f2e09aff8dce8a3a5471d.1000x429x1.jpg",
+  "id": 615550,
+  "image_url": "https://images.genius.com/14244102ea0faddd8a667833085357c3.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Billie Eilish",
+  "slug": "Billie-eilish",
+  "url": "https://genius.com/artists/Billie-eilish",
+  "iq": 8514
+ },
+ "artist": "Billie Eilish",
+ "lyrics": "322 ContributorsTranslationsNorsk (bokm\u00e5l / riksm\u00e5l)AkanaSvenskaEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439Rom\u00e2n\u0103Portugu\u00easItalianoHebrewDeutschFran\u00e7ais\u0641\u0627\u0631\u0633\u06ccNederlandsDanskChinese Traditional\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200bwhen the party\u2019s over Lyrics\nDon't you know I'm no good for you?\nI've learned to lose you, can't afford to\nTore my shirt to stop you bleedin'\nBut nothin' ever stops you leavin'\n\nQuiet when I'm coming home and I'm on my own\nI could lie, say I like it like that, like it like that\nI could lie, say I like it like that, like it like that\n\nDon't you know too much already?\nI'll only hurt you if you let me\nCall me friend, but keep me closer (Call me back)\nAnd I'll call you when the party's over\n\nQuiet when I'm coming home and I'm on my own\nAnd I could lie, say I like it like that, like it like that\nYeah, I could lie, say I like it like that, like it like that\n\nBut nothin' is better sometimes\nOnce we've both said our goodbyes\nLet's just let it go\nLet me let you go\nYou might also like\nQuiet when I'm coming home and I'm on my own\nI could lie, say I like it like that, like it like that\nI could lie, say I like it like that, like it like that464Embed"
+}

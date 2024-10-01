@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/118904",
+ "artist_names": "\u200ba-ha",
+ "full_title": "Take On Me by\u00a0\u200ba-ha",
+ "header_image_thumbnail_url": "https://images.genius.com/0028b4450e5f6fa15dc4cc9985bd9302.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/0028b4450e5f6fa15dc4cc9985bd9302.1000x1000x1.jpg",
+ "id": 118904,
+ "instrumental": false,
+ "lyrics_owner_id": 171,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1709247372,
+ "path": "/A-ha-take-on-me-lyrics",
+ "pyongs_count": 97,
+ "relationships_index_url": "https://genius.com/A-ha-take-on-me-sample",
+ "release_date_components": {
+  "year": 1985,
+  "month": 4,
+  "day": 5
+ },
+ "release_date_for_display": "April 5, 1985",
+ "release_date_with_abbreviated_month_for_display": "Apr. 5, 1985",
+ "song_art_image_thumbnail_url": "https://images.genius.com/166e23f65880aa49c32292e645fe1e79.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/166e23f65880aa49c32292e645fe1e79.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 1494384
+ },
+ "title": "Take On Me",
+ "title_with_featured": "Take On Me",
+ "updated_by_human_at": 1711467079,
+ "url": "https://genius.com/A-ha-take-on-me-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/38586",
+  "header_image_url": "https://images.genius.com/c3954d8f5010f6dfad19547f3400e4eb.480x360x124.gif",
+  "id": 38586,
+  "image_url": "https://images.genius.com/746c7f55a3160b55b7c7596e9f6fbc54.640x640x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "\u200ba-ha",
+  "slug": "A-ha",
+  "url": "https://genius.com/artists/A-ha"
+ },
+ "artist": "\u200ba-ha",
+ "lyrics": "135 ContributorsTranslationsPortugu\u00easDeutschTake On Me Lyrics\nWe're talkin' away\nI don't know what I'm to say\nI'll say it anyway\nToday's another day to find you\nShyin' away\nI'll be comin' for your love, okay?\n\nTake on me (Take on me)\nTake me on (Take on me)\nI'll be gone\nIn a day or two\n\nSo needless to say\nI'm odds and ends\nBut I'll be stumblin' away\nSlowly learnin' that life is okay\nSay after me\n\"It's no better to be safe than sorry\"\n\nTake on me (Take on me)\nTake me on (Take on me)\nI'll be gone\nIn a day or two\nYou might also like\n\nAll the things that you say\nYeah, is it life or just to play\nMy worries away?\nYou're all the things I've got to remember\nYou're shying away\nI'll be comin' for you anyway\n\nTake on me (Take on me)\nTake me on (Take on me)\nI'll be gone\nIn a day\n\n(Take on me) (Take on me)\n(Take me on) (Take on me)\nI'll be gone (Take on me) (Take on me)\nIn a day (Take me on) (Take on me)\n(Take on me) (Take on me)\n(Take me on) (Take on me)\n(Take on me)97Embed"
+}

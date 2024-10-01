@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/2376451",
+ "artist_names": "Alex G",
+ "full_title": "Sarah by\u00a0Alex\u00a0G",
+ "header_image_thumbnail_url": "https://images.genius.com/541a3623040f01c6b92957982535ca15.300x300x1.png",
+ "header_image_url": "https://images.genius.com/541a3623040f01c6b92957982535ca15.1000x1000x1.png",
+ "id": 2376451,
+ "instrumental": false,
+ "lyrics_owner_id": 450545,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1706048916,
+ "path": "/Alex-g-sarah-lyrics",
+ "pyongs_count": 11,
+ "relationships_index_url": "https://genius.com/Alex-g-sarah-sample",
+ "release_date_components": {
+  "year": 2015,
+  "month": 3,
+  "day": 24
+ },
+ "release_date_for_display": "March 24, 2015",
+ "release_date_with_abbreviated_month_for_display": "Mar. 24, 2015",
+ "song_art_image_thumbnail_url": "https://images.genius.com/541a3623040f01c6b92957982535ca15.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/541a3623040f01c6b92957982535ca15.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 14,
+  "hot": false,
+  "pageviews": 182499
+ },
+ "title": "Sarah",
+ "title_with_featured": "Sarah",
+ "updated_by_human_at": 1706048916,
+ "url": "https://genius.com/Alex-g-sarah-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/226412",
+  "header_image_url": "https://images.genius.com/d0f06279a6e3cb182db398650af5e14f.1000x667x1.jpg",
+  "id": 226412,
+  "image_url": "https://images.genius.com/492d91282b43e9fabdac81acabe251c7.999x999x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Alex G",
+  "slug": "Alex-g",
+  "url": "https://genius.com/artists/Alex-g"
+ },
+ "artist": "Alex G",
+ "lyrics": "42 ContributorsSarah LyricsSarah runs to feel the burning in her lungs\nAnd clear her head\nDo you know what Sarah meant\nWhen she said, \"You be my guest\"?\nAnd keep the pace to save your face\nYou'll never make the place\nWhy do you even run the race?\nI can't be what you need\nI am stuck in a dream\nI am stuck in a dream\nDon't you know\nShe's been here all along in a dream?\nShe belongs in a dream\nEvery day I'll make promises that plague Sarah's heart\nSo I can watch her fall apart\n'Cause I know when I break her down\nWe'll spit on all the happy clowns\nThat live around this sunny town\nShe loves me like a dog (Doo-doo)\nAnd when we mess around (Doo-doo)\nI'll let her know the truth I found (Doo-doo, doo-doo)\nIn my own hopeless hate (Doo-doo)\nAnd every time I wake (Doo-doo)\nI second guess the game I played (Doo-doo)\nDid I make a mistake?You might also like11Embed"
+}

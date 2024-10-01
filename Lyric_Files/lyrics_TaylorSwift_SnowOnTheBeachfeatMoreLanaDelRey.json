@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/9157481",
+ "artist_names": "Taylor Swift (Ft. Lana Del Rey)",
+ "full_title": "Snow On The Beach (feat. More Lana Del Rey) by\u00a0Taylor\u00a0Swift (Ft.\u00a0Lana\u00a0Del Rey)",
+ "header_image_thumbnail_url": "https://images.genius.com/9dc8daa62f94e5ecb8f514efe27c66c4.300x300x1.png",
+ "header_image_url": "https://images.genius.com/9dc8daa62f94e5ecb8f514efe27c66c4.1000x1000x1.png",
+ "id": 9157481,
+ "instrumental": false,
+ "lyrics_owner_id": 3524332,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708493938,
+ "path": "/Taylor-swift-snow-on-the-beach-feat-more-lana-del-rey-lyrics",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Taylor-swift-snow-on-the-beach-feat-more-lana-del-rey-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 5,
+  "day": 26
+ },
+ "release_date_for_display": "May 26, 2023",
+ "release_date_with_abbreviated_month_for_display": "May. 26, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9dc8daa62f94e5ecb8f514efe27c66c4.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/9dc8daa62f94e5ecb8f514efe27c66c4.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 97884
+ },
+ "title": "Snow On The Beach (feat. More Lana Del Rey)",
+ "title_with_featured": "Snow On The Beach (feat. More Lana Del Rey) (Ft.\u00a0Lana\u00a0Del Rey)",
+ "updated_by_human_at": 1708493938,
+ "url": "https://genius.com/Taylor-swift-snow-on-the-beach-feat-more-lana-del-rey-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/15740",
+   "header_image_url": "https://images.genius.com/42b98fc534f5a6667a6b74ba9ef91509.1000x500x1.png",
+   "id": 15740,
+   "image_url": "https://images.genius.com/544331f5696b8b70813a9523b7467cb4.736x736x1.jpg",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Lana Del Rey",
+   "slug": "Lana-del-rey",
+   "url": "https://genius.com/artists/Lana-del-rey"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1177",
+  "header_image_url": "https://images.genius.com/5c2c1c282f5e80f4db678e685a007a34.1000x333x1.jpg",
+  "id": 1177,
+  "image_url": "https://images.genius.com/81985fb62e4b6edca0f659281b8faa2e.400x400x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Taylor Swift",
+  "slug": "Taylor-swift",
+  "url": "https://genius.com/artists/Taylor-swift",
+  "iq": 1544
+ },
+ "artist": "Taylor Swift",
+ "lyrics": "43 ContributorsTranslationsPortugu\u00easFran\u00e7aisItalianoEspa\u00f1ol\u0421\u0440\u043f\u0441\u043a\u0438\u0420\u0443\u0441\u0441\u043a\u0438\u0439NederlandsT\u00fcrk\u00e7eSnow On The Beach (feat. More Lana Del Rey) Lyrics\nOne night, a few moons ago\nI saw flecks of what could've been lights\nBut it might just have been you\nPassing by unbeknownst to me\nLife is emotionally abusive\nAnd time can't stop me quite like you did\nAnd my flight was awful, thanks for asking\nI'm unglued, thanks to you\n\nAnd it's like snow at the beach\nWeird, but fuckin' beautiful\nFlying in a dream\nStars by the pocketful\nYou wanting me\nTonight feels impossible\nBut it's comin' down\nNo sound, it's all around\n\nLike snow on the beach\nLike snow on the beach\nLike snow on the beach\nLike snow, ah, ah\nSee Taylor Swift LiveGet tickets as low as $375You might also like\nThis scene feels like what I once saw on a screen\nI searched \"aurora borealis green\"\nI've never seen someone lit from within\nBlurring out my periphery\nMy smile is like I won a contest\nAnd to hide that would be so dishonest\nAnd it's fine to fake it 'til you make it\n'Til you do, 'til it's true\n\nNow, it's like snow at the beach\nWeird, but fuckin' beautiful\nFlying in a dream\nStars by the pocketful\nYou wanting me\nTonight feels impossible\nBut it's comin' down\nNo sound, it's all around\n\nLike snow on the beach (Mmm)\nLike snow on the beach\nLike snow on the beach (Mmm)\nLike snow, ah, ah\nI (I) can't (Can't) speak, afraid to jinx it\nI (I) don't (Don't) even dare to wish it\nBut your eyes are flying saucers from another planet\nNow, I'm all for you like Janet\nCan this be a real thing? Can it?\n\nAre we falling like snow at the beach? (Snow at the beach)\nWeird, but fuckin' beautiful\nFlying in a dream (Flying in a dream)\nStars by the pocketful\nYou wanting me (You wanting me)\nTonight feels impossible\nBut it's comin' down\nNo sound, it's all around\n\nLike snow on the beach (Snow on the beach; Mmm)\nLike snow on the beach (Flying in a dream)\nLike snow on the beach (You wanting me; Mmm)\nLike snow, ah\nBut it's comin' down\nNo sound, it's all around\n\nLike snow on the beach\nLike snow, like snow, uh-huh, yeah4Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/9311769",
+ "artist_names": "Emei",
+ "full_title": "Cynical by\u00a0Emei",
+ "header_image_thumbnail_url": "https://images.genius.com/c2990ef925f63efbaa97625382fccc04.300x300x1.png",
+ "header_image_url": "https://images.genius.com/c2990ef925f63efbaa97625382fccc04.1000x1000x1.png",
+ "id": 9311769,
+ "instrumental": false,
+ "lyrics_owner_id": 17955726,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1698681181,
+ "path": "/Emei-cynical-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Emei-cynical-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 7,
+  "day": 14
+ },
+ "release_date_for_display": "July 14, 2023",
+ "release_date_with_abbreviated_month_for_display": "Jul. 14, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c2990ef925f63efbaa97625382fccc04.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/c2990ef925f63efbaa97625382fccc04.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Cynical",
+ "title_with_featured": "Cynical",
+ "updated_by_human_at": 1692145650,
+ "url": "https://genius.com/Emei-cynical-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2917362",
+  "header_image_url": "https://images.genius.com/f44da0954269274c1b764925ca7a6f06.1000x1000x1.jpg",
+  "id": 2917362,
+  "image_url": "https://images.genius.com/f44da0954269274c1b764925ca7a6f06.1000x1000x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Emei",
+  "slug": "Emei",
+  "url": "https://genius.com/artists/Emei",
+  "iq": 100
+ },
+ "artist": "Emei",
+ "lyrics": "1 ContributorTranslationsEspa\u00f1olCynical Lyrics\nLa, la-la-la-la, la-la\n\nSleeping really well without anyone else\nI've been making good decisions\nCooked the perfect egg, I opened up my shell\nI've been on a new religion\nThings are in their place, all kept in a row\nSoon as they feel safe, I get bored\n\nWhy do I have to be so cynical?\nCan't get me off my feet, that's typical\nWhy do I feel at peace when it's difficult?\nWhy do I have to be so cynical?\n\nLa, la-la-la-la, la-la\nCynical\nLa, la-la-la-la, la-la\nThe pressure's really on\n\nSeries of events\nUnfortunate, and then suddenly my life's in ruins\nMy smile never ends when my heart beats out my chest\nAnd I question what the hell I'm doin'\nYou might also like\nWhy do I have to be so cynical?\nCan't get me off my feet, that's typical\nWhy do I feel at peace when it's difficult?\nWhy do I have to be so cynical?\n\nLa, la-la-la-la, la-la\nLa, la-la-la-la, la-la\nLa, la-la-la-la, la-la\nLa, la-la-la-la, la-la\n\nOverthinking, overdoing, over it all\nI'm unhappy ever after, and destined for disaster\nOverthinking, overdoing, over it all\nI'm unhappy ever after, and destined for disaster\n(Cynical)Embed"
+}

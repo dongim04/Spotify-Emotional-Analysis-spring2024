@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/5941465",
+ "artist_names": "Spotify",
+ "full_title": "This Is Travis Scott by\u00a0Spotify",
+ "header_image_thumbnail_url": "https://images.genius.com/e14c9e9c05a14cbf73d972080497e55a.300x298x1.png",
+ "header_image_url": "https://images.genius.com/e14c9e9c05a14cbf73d972080497e55a.533x529x1.png",
+ "id": 5941465,
+ "instrumental": false,
+ "lyrics_owner_id": 10208752,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1619772556,
+ "path": "/Spotify-this-is-travis-scott-annotated",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Spotify-this-is-travis-scott-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 10,
+  "day": 8
+ },
+ "release_date_for_display": "October 8, 2020",
+ "release_date_with_abbreviated_month_for_display": "Oct. 8, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e14c9e9c05a14cbf73d972080497e55a.300x298x1.png",
+ "song_art_image_url": "https://images.genius.com/e14c9e9c05a14cbf73d972080497e55a.533x529x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "This Is Travis Scott",
+ "title_with_featured": "This Is Travis Scott",
+ "updated_by_human_at": 1705417571,
+ "url": "https://genius.com/Spotify-this-is-travis-scott-annotated",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/69342",
+  "header_image_url": "https://images.genius.com/c42dcc86def76a719ea2c42d79ef2cf3.1000x562x1.jpg",
+  "id": 69342,
+  "image_url": "https://images.genius.com/9d64547b9882a338979f848fc9f11c6c.900x900x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Spotify",
+  "slug": "Spotify",
+  "url": "https://genius.com/artists/Spotify"
+ },
+ "artist": "Spotify",
+ "lyrics": "7 ContributorsThis Is Travis Scott Lyrics1. Travis Scott- FRANCHISE (feat. Future, Young Thug & M.I.A.) \n2. Travis Scott- The Plan (From the Motion Picture ''TENET'')\n3. THE SCOTTS, Travis Scott & Kid Cudi- THE SCOTTS\n4. Travis Scott- HIGHEST IN THE ROOM\n5. Travis Scott- SICKO MODE\n6. Travis Scott- BUTTERFLY EFFECT\n7. Travis Scott- goosebumps\n8. Travis Scott- STARGAZING\n9. Travis Scott- CAN'T SAY\n10. Travis Scott- Antidote\n11. Travis Scott- HOUSTONFORNICATION\n12. Travis Scott- NO BYSTANDERS\n13. Travis Scott- R.I.P. SCREW (feat. Swae Lee)\n14. Travis Scott-  STOP TRYING TO BE GOD\n15. Travis Scott- YOSEMITE\n16. Travis Scott- 5% TINT\n17. Travis Scott- wonderful\n18. Travis Scott- through the late night\n19. Travis Scott- WAKE UP\n20. Travis Scott- SKELETONS\n21. Travis Scott- CAROUSEL\n22. Travis Scott- beibs in the trap\n23. Travis Scott- ASTROTHUNDER\n24. NAV- Champion (feat. Travis Scott)\n25. Travis Scott- WHO? WHAT!\n26. Travis Scott- 90210 (feat. Kacy Hill)\n27. Travis Scott- way back\n28. Young Thug & Travis Scott- pick up the phone\n29. Travis Scott- A-Team\n30. Travis Scott- NC-17\n31. Travis Scott- Oh My Dis Side (feat. Quavo)\n32. Travis Scott- Mamacita (feat. Rich Homie Quan & Young Thug)\n33. Travis Scott- Watch (feat. Lil Uzi Vert & Kanye West)\n34. Travis Scott- 3500 (feat. 2 Chainz & Future)\n35. Drake- Portland (feat. Travis Scott & Quavo)\n36. Trippie Redd- Dark Knight Dummo (feat. Travis Scott)\n37. Kendrick Lamar & Travis Scott- Big Shot\n38. Migos- Kelly Price (feat. Travis Scott)\n39. 2 Chainz- 4 AM (feat. Travis Scott)\n40. Huncho Jack, Travis Scott & Quavo- Saint\n41. Miguel- Sky Walker (feat. Travis Scott)\n42. Huncho Jack, Travis Scott & Quavo- Motorcycle Patches\n43. 21 Savage, Offset & Metro Boomin- Ghostface Killers (feat. Travis Scott)\n44. SZA- Love Galore (feat. Travis Scott)\n45. Travis Scott- Nightcrawler (feat. Chief Keef & Swae Lee)\n46. Travis Scott- COFFEE BEAN\n47. Playboi Carti- Love Hurts (feat. Travis Scott)\n48. Rae Sremmurd, Swae Lee & Slim Jxmmi- CLOSE (feat. Travis Scott) \n49. Huncho Jack, Travis Scott & Quavo- Black Chinese\n50. Big Sean & Metro Boomin- Go Legend (feat. Travis Scott)\n51. Migos- White Sand (feat. Travis Scott, Ty Dolla $ign & Big Sean)\n52. Major Lazer- Know No Better (feat. Travis Scott, Camila Cabello & Quavo)\n53. Future- First Off (feat. Travis Scott)\n54. Future- Solitaires (feat. Travis Scott)\n55. NAV & Gunna- Turks (feat. Travis Scott)\n56. Gunna- TOP FLOOR (feat. Travis Scott)Embed"
+}

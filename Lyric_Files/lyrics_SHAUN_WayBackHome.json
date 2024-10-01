@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/3882141",
+ "artist_names": "SHAUN",
+ "full_title": "Way Back Home by\u00a0SHAUN",
+ "header_image_thumbnail_url": "https://images.genius.com/2711d36edbec4b0cd30a95874f2f28d9.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/2711d36edbec4b0cd30a95874f2f28d9.600x600x1.jpg",
+ "id": 3882141,
+ "instrumental": false,
+ "lyrics_owner_id": 3898943,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1543294898,
+ "path": "/Shaun-way-back-home-lyrics",
+ "pyongs_count": 12,
+ "relationships_index_url": "https://genius.com/Shaun-way-back-home-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 6,
+  "day": 27
+ },
+ "release_date_for_display": "June 27, 2018",
+ "release_date_with_abbreviated_month_for_display": "Jun. 27, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/2711d36edbec4b0cd30a95874f2f28d9.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/2711d36edbec4b0cd30a95874f2f28d9.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 29868
+ },
+ "title": "Way Back Home",
+ "title_with_featured": "Way Back Home",
+ "updated_by_human_at": 1646242572,
+ "url": "https://genius.com/Shaun-way-back-home-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/315197",
+  "header_image_url": "https://images.genius.com/7f6bd36dda2ef8e669c5b8414b99c959.600x600x1.jpg",
+  "id": 315197,
+  "image_url": "https://images.genius.com/7f6bd36dda2ef8e669c5b8414b99c959.600x600x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "SHAUN",
+  "slug": "Shaun",
+  "url": "https://genius.com/artists/Shaun"
+ },
+ "artist": "SHAUN",
+ "lyrics": "10 ContributorsTranslationsRomanizationEnglishWay Back Home Lyrics\n\uba48\ucd98 \uc2dc\uac04 \uc18d \uc7a0\ub4e0 \ub108\ub97c \ucc3e\uc544\uac00\n\uc544\ubb34\ub9ac \ub9c9\uc544\ub3c4 \uacb0\uad6d \ub108\uc758 \uacc1\uc778 \uac78\n\uae38\uace0 \uae34 \uc5ec\ud589\uc744 \ub05d\ub0b4 \uc774\uc820 \ub3cc\uc544\uac00\n\ub108\ub77c\ub294 \uc9d1\uc73c\ub85c \uc9c0\uae08 \ub2e4\uc2dc way back home\n\n\uc544\ubb34\ub9ac \ud798\uaecf \ub2eb\uc544\ub3c4 \ub2e4\uc2dc \uc5f4\ub9b0 \uc11c\ub78d \uac19\uc544\n\ud558\ub298\ub85c \ub192\uc774 \ub0a0\ub9b0 \ub10c \uc790\uafb8 \ub0b4\uac8c \ub418\ub3cc\uc544\uc640\n\ud798\ub4e4\uac8c \uc0bc\ud0a8 \uc774\ubcc4\ub3c4 \ub2e4 \uadf8\ub300\ub85c\uc778 \uac78\n\uc218\uc5c6\uc774 \ub5a0\ub09c \uae38 \uc704\uc5d0\uc11c \ub09c \ub108\ub97c \ubc1c\uacac\ud558\uace0\n\ube44\uc6b0\ub824 \ud588\ub358 \ub9d8\uc740 \ub610 \uc774\ub807\uac8c \ub108\ub85c \ucc28\uc62c\ub77c\n\ubc1c\uac78\uc74c\uc758 \ub05d\uc5d0 \ub298 \ub124\uac00 \ubd80\ub52a\ud600\n\uadf8\ub9cc \uadf8\ub9cc\n\n\uba48\ucd98 \uc2dc\uac04 \uc18d \uc7a0\ub4e0 \ub108\ub97c \ucc3e\uc544\uac00\n\uc544\ubb34\ub9ac \ub9c9\uc544\ub3c4 \uacb0\uad6d \ub108\uc758 \uacc1\uc778 \uac78\n\uae38\uace0 \uae34 \uc5ec\ud589\uc744 \ub05d\ub0b4 \uc774\uc820 \ub3cc\uc544\uac00\n\ub108\ub77c\ub294 \uc9d1\uc73c\ub85c \uc9c0\uae08 \ub2e4\uc2dc way back home\n\n\uc870\uc6a9\ud788 \uc7a0\ub4e0 \ubc29\uc744 \uc5f4\uc5b4 \uae30\uc5b5\uc744 \uaebc\ub0b4 \ub4e4\uc5b4\n\ubd80\uc11c\uc9c4 \uc2dc\uac04 \uc704\uc5d0\uc11c \uc120\uba85\ud788 \ub108\ub294 \ub5a0\uc62c\ub77c\n\uae38 \uc783\uc740 \ub9c8\uc74c\uc18d\uc5d0 \ub110 \uac00\ub454 \ucc44 \uc0b4\uc544\n\uadf8\ub9cc \uadf8\ub9cc\nYou might also like\n\uba48\ucd98 \uc2dc\uac04 \uc18d \uc7a0\ub4e0 \ub108\ub97c \ucc3e\uc544\uac00\n\uc544\ubb34\ub9ac \ub9c9\uc544\ub3c4 \uacb0\uad6d \ub108\uc758 \uacc1\uc778 \uac78\n\uae38\uace0 \uae34 \uc5ec\ud589\uc744 \ub05d\ub0b4 \uc774\uc820 \ub3cc\uc544\uac00\n\ub108\ub77c\ub294 \uc9d1\uc73c\ub85c \uc9c0\uae08 \ub2e4\uc2dc way back home\n\n\uc138\uc0c1\uc744 \ub4a4\uc9d1\uc5b4 \ucc3e\uc73c\ub824 \ud574\n\uc624\uc9c1 \ub108\ub85c \uc644\uacb0\ub41c \uc774\uc57c\uae30\ub97c\n\ubaa8\ub4e0 \uac78 \uc783\uc5b4\ub3c4 \ub09c \ub108 \ud558\ub098\uba74 \ub3fc\n\ube5b\uc774 \ub2e4 \uaebc\uc9c4 \uc5ec\uae30 \ub098\ub97c \uc548\uc544\uc918\n\n\ub208\uc744 \uac10\uc73c\uba74 \uc18c\ub9ac \uc5c6\uc774 \ubc00\ub824\uc640\n\uc774 \ub9c8\uc74c \uadf8 \uc704\ub85c \ub10c \ub610 \ud55c \uacb9 \uc313\uc5ec\uac00\n\ub0b4\uac90 \uadf8 \ub204\uad6c\ub3c4 \uc544\ub2cc \ub2c8\uac00 \ud544\uc694\ud574\n\ub3cc\uc544\uc640 \ub0b4 \uacc1\uc5d0 \uadf8\ub0a0\uae4c\uc9c0 I'm not done12Embed"
+}

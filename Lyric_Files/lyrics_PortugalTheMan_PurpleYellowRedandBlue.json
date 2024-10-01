@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/192549",
+ "artist_names": "Portugal. The Man",
+ "full_title": "Purple Yellow Red and Blue by\u00a0Portugal.\u00a0The Man",
+ "header_image_thumbnail_url": "https://images.genius.com/3d4e08a2f5d66c9040a072208c008cf5.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3d4e08a2f5d66c9040a072208c008cf5.1000x1000x1.jpg",
+ "id": 192549,
+ "instrumental": false,
+ "lyrics_owner_id": 149650,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1665345461,
+ "path": "/Portugal-the-man-purple-yellow-red-and-blue-lyrics",
+ "pyongs_count": 16,
+ "relationships_index_url": "https://genius.com/Portugal-the-man-purple-yellow-red-and-blue-sample",
+ "release_date_components": {
+  "year": 2013,
+  "month": 4,
+  "day": 23
+ },
+ "release_date_for_display": "April 23, 2013",
+ "release_date_with_abbreviated_month_for_display": "Apr. 23, 2013",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3d4e08a2f5d66c9040a072208c008cf5.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3d4e08a2f5d66c9040a072208c008cf5.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 64611
+ },
+ "title": "Purple Yellow Red and Blue",
+ "title_with_featured": "Purple Yellow Red and Blue",
+ "updated_by_human_at": 1583129292,
+ "url": "https://genius.com/Portugal-the-man-purple-yellow-red-and-blue-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/52078",
+  "header_image_url": "https://images.genius.com/9b2130ca1bc807b9b68a7974cb19cec7.1000x165x1.png",
+  "id": 52078,
+  "image_url": "https://images.genius.com/bd128d03e5d85d3b81565bee841726c5.1000x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Portugal. The Man",
+  "slug": "Portugal-the-man",
+  "url": "https://genius.com/artists/Portugal-the-man",
+  "iq": 1271
+ },
+ "artist": "Portugal. The Man",
+ "lyrics": "35 ContributorsPurple Yellow Red and Blue Lyrics\nAll I wanna do is\nLive in ecstasy, I know what's best for me\nI can't help it, it's this hopeless itch\nI just wanna feel (Wanna feel)\nPurple, yellow, red and blue\n\nWhen I grow up I wanna be\nA movie star or on TV\n'Cause workin' just don't work for me\nBut I can't focus, feeling hopeless\nSo I'll just sit back, try to look mean\n\nAll I wanna do is\nLive in ecstasy, I know what's best for me\nI can't help it, it's this hopeless itch\nI just wanna feel (Wanna feel)\nPurple, yellow, red and blue\n\nWhen I grow up I wanna be\nA rich-kid born celebrity\nIt's not greed but necessity\nNow, I don't focus on the hopeless\nWhen I look out it's only for me\nYou might also like\nAll I wanna do is\nLive in ecstasy, I know what's best for me\nI can't help it, it's this hopeless itch\nI just wanna feel (Wanna feel)\nPurple, yellow, red and blue\n\nI just (Evil) wanna be evil\nI just (Evil) wanna be evil\nWanna be evil, wanna be evil\nI just wanna be evil\nI just (Evil) wanna be evil\nI just (Evil) wanna be evil\nWanna be evil, wanna be evil\nPurple, yellow, red and blue\n\nAll that I needed\nIs something to believe in\n'Cause everything just falls in place like that\nAll that I needed\nIs something to believe in\n'Cause everything just falls in place like that\n16Embed"
+}

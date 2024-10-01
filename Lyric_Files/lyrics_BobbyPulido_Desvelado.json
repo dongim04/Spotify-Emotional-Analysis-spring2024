@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1519197",
+ "artist_names": "Bobby Pulido",
+ "full_title": "Desvelado by\u00a0Bobby\u00a0Pulido",
+ "header_image_thumbnail_url": "https://images.genius.com/be0361ecfaf3df2351f97f1bd9082a37.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/be0361ecfaf3df2351f97f1bd9082a37.500x500x1.jpg",
+ "id": 1519197,
+ "instrumental": false,
+ "lyrics_owner_id": 8998316,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1710904252,
+ "path": "/Bobby-pulido-desvelado-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Bobby-pulido-desvelado-sample",
+ "release_date_components": {
+  "year": 1995,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1995",
+ "release_date_with_abbreviated_month_for_display": "1995",
+ "song_art_image_thumbnail_url": "https://images.genius.com/be0361ecfaf3df2351f97f1bd9082a37.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/be0361ecfaf3df2351f97f1bd9082a37.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 53317
+ },
+ "title": "Desvelado",
+ "title_with_featured": "Desvelado",
+ "updated_by_human_at": 1710904252,
+ "url": "https://genius.com/Bobby-pulido-desvelado-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/360782",
+  "header_image_url": "https://images.genius.com/66d9e25d129cee74f2e2d7964eec280d.1000x372x1.jpg",
+  "id": 360782,
+  "image_url": "https://images.genius.com/1f6bcb59c0ee17a935b17c02c6821dbb.640x640x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bobby Pulido",
+  "slug": "Bobby-pulido",
+  "url": "https://genius.com/artists/Bobby-pulido"
+ },
+ "artist": "Bobby Pulido",
+ "lyrics": "10 ContributorsDesvelado Lyrics\n\nSer\u00e1 fe que yo encontr\u00e9 una voz de ternura\nQue me llena de placer cuando la oigo hablar\nCon ella me enamor\u00e9 aunque nunca la conoc\u00ed\nSue\u00f1o en su querer y en sus brazos quiero dormir\nEscucho cada d\u00eda la radio\nSeguro que la vuelvo a o\u00edr\nPor el cielo busco mi estrella\nA la luna quiero subir\n\nVoy desvelado\nPor estas calles esperando encontrar\nA esa voz de \u00e1ngel que quiero amar\n\u00bfD\u00f3nde andar\u00e1?\nVoy desvelado\nY mi deseo no me deja descansar\nPorque despierto y no me pongo a llorar\nYo seguir\u00e9 desvelado y sin amor\n\nSer\u00e1 fe que yo encontr\u00e9 una voz de ternura\nQue me llena de placer cuando la oigo hablar\nCon ella me enamor\u00e9 aunque nunca la conoc\u00ed\nSue\u00f1o en su querer y en sus brazos quiero dormir\nEscucho cada d\u00eda la radio\nSeguro que la vuelvo a o\u00edr\nPor el cielo busco mi estrella\nA la luna quiero subir\nSee Bobby Pulido LiveGet tickets as low as $37You might also like\nVoy desvelado\nPor estas calles esperando encontrar\nA esa voz de \u00e1ngel que quiero amar\n\u00bfD\u00f3nde andar\u00e1?\nVoy desvelado\nY mi deseo no me deja descansar\nPorque despierto y no me pongo a llorar\nYo seguir\u00e9 desvelado y sin amor2Embed"
+}

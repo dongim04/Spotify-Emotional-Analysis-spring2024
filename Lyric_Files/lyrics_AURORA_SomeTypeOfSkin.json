@@ -1,0 +1,53 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/10103382",
+ "artist_names": "AURORA",
+ "full_title": "Some Type of Skin by\u00a0AURORA",
+ "header_image_thumbnail_url": "https://images.genius.com/ecd1800f30464555060e5733709c6b37.300x300x1.png",
+ "header_image_url": "https://images.genius.com/ecd1800f30464555060e5733709c6b37.1000x1000x1.png",
+ "id": 10103382,
+ "instrumental": false,
+ "lyrics_owner_id": 7387836,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1711188273,
+ "path": "/Aurora-some-type-of-skin-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Aurora-some-type-of-skin-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 3,
+  "day": 20
+ },
+ "release_date_for_display": "March 20, 2024",
+ "release_date_with_abbreviated_month_for_display": "Mar. 20, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ecd1800f30464555060e5733709c6b37.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/ecd1800f30464555060e5733709c6b37.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "concurrents": 3,
+  "hot": false,
+  "pageviews": 23126
+ },
+ "title": "Some Type of Skin",
+ "title_with_featured": "Some Type of Skin",
+ "updated_by_human_at": 1711188273,
+ "url": "https://genius.com/Aurora-some-type-of-skin-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/36413",
+  "header_image_url": "https://images.genius.com/5b70fc2ff1bc980d4b30e9a7519d2144.1000x667x1.jpg",
+  "id": 36413,
+  "image_url": "https://images.genius.com/166e397793feac74bf2fbb26fa2e5e32.1000x1000x1.png",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "AURORA",
+  "slug": "Aurora",
+  "url": "https://genius.com/artists/Aurora",
+  "iq": 172
+ },
+ "artist": "AURORA",
+ "lyrics": "17 ContributorsSome Type of Skin Lyrics\nHit me hard where I am soft\nShould my heart reveal itself to be\nMore than a muscle\nOr a fist covered in blood\nHowever much it feels to bleed\nIt's only temporary\n\nWe're good people and we both deserve peace\n(Peace)\n\nMy God! It's a lot\n(I build some type of skin\nI've got to build some type of skin)\nMy God! It's a lot\n(I build some type of skin)\n(I've got to build some type of skin)\n\nI guess I should build some type of skin\nAnd let breath b\u0435 air\nAnd love the things I know might disappear\nAnd th\u0435 last light of the sun (Sun)\nI let it slow me down\nI'll crawl where everybody runs\nSee AURORA LiveGet tickets as low as $160You might also like\nWe're good people\nAnd we deserve peace\nIt's difficult, it seems\n\nMy God! It's a lot\n(I build some type of skin)\n(I've got to build some type of skin)\nMy God! It's a lot\n(I build some type of skin)\nMy God!\n(I've got to build some type of skin)\nMy God! It's a lot\n(I build some type of skin)\n(I've got to build some type of skin)\nMy God! It's a lot\n(I build some type of skin)\nMy God! My God!\n(I've got to build some type of skin)\n\nIt's a lot\nIt's a lot\nMy God! It's a lot\nIt's a lot, a lot to me\nTo me2Embed"
+}

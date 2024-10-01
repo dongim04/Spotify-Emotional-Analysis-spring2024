@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/10125898",
+ "artist_names": "The Home Team",
+ "full_title": "Hell by\u00a0The\u00a0Home Team",
+ "header_image_thumbnail_url": "https://images.genius.com/b1282e720df7f42e4dbc667071cea3a5.300x300x1.png",
+ "header_image_url": "https://images.genius.com/b1282e720df7f42e4dbc667071cea3a5.1000x1000x1.png",
+ "id": 10125898,
+ "instrumental": false,
+ "lyrics_owner_id": 20937064,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1711092103,
+ "path": "/The-home-team-hell-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-home-team-hell-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 3,
+  "day": 22
+ },
+ "release_date_for_display": "March 22, 2024",
+ "release_date_with_abbreviated_month_for_display": "Mar. 22, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b1282e720df7f42e4dbc667071cea3a5.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/b1282e720df7f42e4dbc667071cea3a5.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Hell",
+ "title_with_featured": "Hell",
+ "updated_by_human_at": 1711110904,
+ "url": "https://genius.com/The-home-team-hell-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1421937",
+  "header_image_url": "https://images.genius.com/2d6de8a31b1d5d5e3896572eba80ab30.500x500x1.jpg",
+  "id": 1421937,
+  "image_url": "https://images.genius.com/2d6de8a31b1d5d5e3896572eba80ab30.500x500x1.jpg",
+  "index_character": "h",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Home Team",
+  "slug": "The-home-team",
+  "url": "https://genius.com/artists/The-home-team"
+ },
+ "artist": "The Home Team",
+ "lyrics": "5 ContributorsHell Lyrics\nHell\n\nI physically cannot\nGive you any more than that\n'Cause I still value my health\nSo focused on the track\nThat I never made it back\nBut I'll still see you in hell (hell)\n\nHow (How)\nAre you still running around? ('Round)\nI still won't ever seek out\nAnything you've given me now\nSo what now baby?\n\nBeen lying through the phone\nThat I'll still be coming home\nBut I'll never kiss and tell\nSo superstitious that\nYou can't swallow up the fact\nThat I'll still see you in hell (hell)\nYou might also like\nHow (How)\nAre you still running around? ('Round)\nI still won't ever seek out\nAnything you've given me now\nSo what now baby?\nStop (Stop)\nI never opened up shop\nEverything I've heard from you sucks\nAnd I still don't know if you really love\nMaking me crazy (Hell)\nHow (How)\nAre you still running around? ('Round)\nI still won't ever seek out\nAnything you've given me now\nSo what now baby?\nStop (Stop)\nI never opened up shop\nEverything I've heard from you sucks\nAnd I still don't know if you really love\nMaking me crazy (Hell)Embed"
+}

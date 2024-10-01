@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 18,
+ "api_path": "/songs/132111",
+ "artist_names": "Lea Salonga & Brad Kane",
+ "full_title": "A Whole New World by\u00a0Lea\u00a0Salonga & Brad Kane",
+ "header_image_thumbnail_url": "https://images.genius.com/3c0c15aa06b5b98b4bacd8730d754c42.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3c0c15aa06b5b98b4bacd8730d754c42.600x600x1.jpg",
+ "id": 132111,
+ "instrumental": false,
+ "lyrics_owner_id": 5,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1705175092,
+ "path": "/Lea-salonga-and-brad-kane-a-whole-new-world-lyrics",
+ "pyongs_count": 24,
+ "relationships_index_url": "https://genius.com/Lea-salonga-and-brad-kane-a-whole-new-world-sample",
+ "release_date_components": {
+  "year": 1992,
+  "month": 10,
+  "day": 31
+ },
+ "release_date_for_display": "October 31, 1992",
+ "release_date_with_abbreviated_month_for_display": "Oct. 31, 1992",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6dd8b1ffea5a1078427de30110682c3d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6dd8b1ffea5a1078427de30110682c3d.800x800x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "concurrents": 12,
+  "hot": false,
+  "pageviews": 1867378
+ },
+ "title": "A Whole New World",
+ "title_with_featured": "A Whole New World",
+ "updated_by_human_at": 1710721077,
+ "url": "https://genius.com/Lea-salonga-and-brad-kane-a-whole-new-world-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2431596",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1711554191",
+  "id": 2431596,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1711554191",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lea Salonga & Brad Kane",
+  "slug": "Lea-salonga-and-brad-kane",
+  "url": "https://genius.com/artists/Lea-salonga-and-brad-kane"
+ },
+ "artist": "Lea Salonga & Brad Kane",
+ "lyrics": "69 ContributorsA Whole New World Lyrics\nI can show you the world\nShining, shimmering, splendid\nTell me, Princess\nNow, when did you last let your heart decide?\nI can open your eyes\nTake you wonder by wonder\nOver, sideways and under\nOn a magic carpet ride\nA whole new world\nA new fantastic point of view\nNo one to tell us no\nOr where to go\nOr say we're only dreaming\n\nA whole new world\nA dazzling place I never knew\nBut when I'm way up here\nIt's crystal clear\nThat now, I'm in a whole new world with you\n\nNow I'm in a whole new world with you\nYou might also like\nUnbelievable sights\nIndescribable feeling\nSoaring, tumbling, freewheeling\nThrough an endless diamond sky\n\nA whole new world (Don't you dare close your eyes)\nA hundred thousand things to see (Hold your breath, it gets better)\nI'm like a shooting star\nI've come so far\nI can't go back to where I used to be\n\nA whole new world (Every turn a surprise)\nWith new horizons to pursue (Every moment red-letter)\n\nI'll chase them anywhere\nThere's time to spare\nLet me share this whole new world with you\n\nA whole new world\n\nA whole new world\nThat's where we'll be\n\nThat's where we'll be\n\nA thrilling chase\n\nA wondrous place\n\nFor you and me24Embed"
+}

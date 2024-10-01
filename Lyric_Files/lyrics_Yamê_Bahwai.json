@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/9593756",
+ "artist_names": "Yam\u00ea (FRA)",
+ "full_title": "Bahwai by\u00a0Yam\u00ea\u00a0(FRA)",
+ "header_image_thumbnail_url": "https://images.genius.com/3043ab047d27aeef936de8e773b1d3a4.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3043ab047d27aeef936de8e773b1d3a4.1000x1000x1.jpg",
+ "id": 9593756,
+ "instrumental": false,
+ "lyrics_owner_id": 5428057,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1702589603,
+ "path": "/Yame-fra-bahwai-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Yame-fra-bahwai-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 10,
+  "day": 13
+ },
+ "release_date_for_display": "October 13, 2023",
+ "release_date_with_abbreviated_month_for_display": "Oct. 13, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3043ab047d27aeef936de8e773b1d3a4.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3043ab047d27aeef936de8e773b1d3a4.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 7932
+ },
+ "title": "Bahwai",
+ "title_with_featured": "Bahwai",
+ "updated_by_human_at": 1705869277,
+ "url": "https://genius.com/Yame-fra-bahwai-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/637330",
+  "header_image_url": "https://images.genius.com/498313e555aeaed3c0788e35981d8580.1000x1000x1.jpg",
+  "id": 637330,
+  "image_url": "https://images.genius.com/498313e555aeaed3c0788e35981d8580.1000x1000x1.jpg",
+  "index_character": "y",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Yam\u00ea (FRA)",
+  "slug": "Yame-fra",
+  "url": "https://genius.com/artists/Yame-fra",
+  "iq": 748
+ },
+ "artist": "Yam\u00ea (FRA)",
+ "lyrics": "6 ContributorsBahwai Lyrics\n\nPapalapapa, palapapa, bah ouais\nPapalapapa, palapapa, bah ouais\n\nBah ouais, ma gueule, c\u2019est maintenant que tu captes, toi (Tu captes)\nJ\u2019ai le miel du N\u00e9pal ('pal), tu m'entends, tu d\u00e9colles\nPour changer de vie, j'ai d\u00fb hausser le ton (Ouh)\nTrop de flow Mola, bah ouais, bah ouais\nJ'rep\u00e8re plus, j'connais tous les chemins (Tous les chemins)\nToi, t'fais que des trends, des sons sans lendemain\nQuand j\u2019op\u00e8re, \u00e7a t'fait un peu d'changement (Ah)\nHein Mola, bah ouais, bah ouais, bah ouais\nT'entends la vibe, tu reconnais, Mola, DBS, MY, Yam\u00ea\nD\u00e9barque dans le game comm\u0435 fantassin s\u00e9n\u00e9galais\nJ't'ai dit, j'ai l'n\u00e9palais, avant le skill, signer fallait\nJ'ai les pi\u0435ds sur terre, la vision d'aigle\nIls peuvent pas m'\u00e9galer (Peuvent pas m'\u00e9galer)\n\nElowi\nElowi\n\nBah ouais\nOuh (Bah ouais)\nOuh (Ouais, bah ouais)\nPapalapapa, palapapa (Fort, fort, fort, fort)\nPapalapapa, palapapa, bah ouais\nPapalapapa, palapapa, bah ouais\nYou might also like\nBah ouais, ma gueule\nBah ouais\nBah ouais, ma gueule\nAh, bah ouais\nBah ouais\nBah ouais\nBah ouais\nBah ouais\nBah ouais\nBah ouaisEmbed"
+}

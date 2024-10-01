@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/5467507",
+ "artist_names": "Laufey",
+ "full_title": "Street by Street by\u00a0Laufey",
+ "header_image_thumbnail_url": "https://images.genius.com/bf2168856fead3dcc8b8c1e15ab5312a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bf2168856fead3dcc8b8c1e15ab5312a.1000x1000x1.jpg",
+ "id": 5467507,
+ "instrumental": false,
+ "lyrics_owner_id": 4138573,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1688072461,
+ "path": "/Laufey-street-by-street-lyrics",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Laufey-street-by-street-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 4,
+  "day": 6
+ },
+ "release_date_for_display": "April 6, 2020",
+ "release_date_with_abbreviated_month_for_display": "Apr. 6, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/bf2168856fead3dcc8b8c1e15ab5312a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/bf2168856fead3dcc8b8c1e15ab5312a.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 14785
+ },
+ "title": "Street by Street",
+ "title_with_featured": "Street by Street",
+ "updated_by_human_at": 1709540224,
+ "url": "https://genius.com/Laufey-street-by-street-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2195472",
+  "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+  "id": 2195472,
+  "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Laufey",
+  "slug": "Laufey",
+  "url": "https://genius.com/artists/Laufey",
+  "iq": 1287
+ },
+ "artist": "Laufey",
+ "lyrics": "24 ContributorsStreet by Street Lyrics\nThis view used to bring a smile to my face\nLately, it's done nothing but remind\u2005me\u2005of the way\nThe\u2005way that you used to give\u2005me butterflies\nTook me twenty-one days to walk our former paradise\nParadise\n\nStep by step, brick by brick I'm reclaiming what's mine\nThis city is way too small to give away to just one guy\nStreet by street, breath by breath from the Back Bay to the sky\nI'm taking back my city, I'm taking back my life\n\nThe caf\u00e9 where you asked me for my name\nThe bookstore we spent five hours, hiding from the rain\nIt's like a game of Monopoly except I steal back all my property\nAnd leave you on the ground\nAnd I know that I'll see you one day on the street with a girl on your arm\nBut I won't let that keep me from this town\n\nFrom this town\nFrom this town\n\nStep by step, brick by brick I'm reclaiming what's mine\nThis city is way too small to give away to just one guy\nStreet by street, breath by breath from the Back Bay to the sky\nI'm taking back my city, I'm taking back my life\nSee Laufey LiveGet tickets as low as $36You might also like\nI'm taking back my city3Embed"
+}

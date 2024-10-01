@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/8656765",
+ "artist_names": "Grupo Frontera",
+ "full_title": "No Se Va (En Vivo) by\u00a0Grupo\u00a0Frontera",
+ "header_image_thumbnail_url": "https://images.genius.com/a850de5f84e29376a38af2297cfcf7c6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a850de5f84e29376a38af2297cfcf7c6.400x400x1.jpg",
+ "id": 8656765,
+ "instrumental": false,
+ "lyrics_owner_id": 7520831,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1687389809,
+ "path": "/Grupo-frontera-no-se-va-en-vivo-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Grupo-frontera-no-se-va-en-vivo-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 4,
+  "day": 28
+ },
+ "release_date_for_display": "April 28, 2022",
+ "release_date_with_abbreviated_month_for_display": "Apr. 28, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a850de5f84e29376a38af2297cfcf7c6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a850de5f84e29376a38af2297cfcf7c6.400x400x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 5289
+ },
+ "title": "No Se Va (En Vivo)",
+ "title_with_featured": "No Se Va (En Vivo)",
+ "updated_by_human_at": 1709991232,
+ "url": "https://genius.com/Grupo-frontera-no-se-va-en-vivo-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3384041",
+  "header_image_url": "https://images.genius.com/f426d99b980661f92471c24744dcd006.1000x1000x1.jpg",
+  "id": 3384041,
+  "image_url": "https://images.genius.com/f426d99b980661f92471c24744dcd006.1000x1000x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Grupo Frontera",
+  "slug": "Grupo-frontera",
+  "url": "https://genius.com/artists/Grupo-frontera"
+ },
+ "artist": "Grupo Frontera",
+ "lyrics": "6 ContributorsNo Se Va (En Vivo) Lyrics\n\nTan f\u00e1cil que es enamorarme\nY tan dif\u00edcil olvidarte\nPorque la vida me juraste\nY hoy te busco y t\u00fa no est\u00e1s\nAunque me duela ver tu foto\nEntreno a mi coraz\u00f3n roto\nPor si ma\u00f1ana te vuelva a encontrar\n\nYa no s\u00e9 disimular\nLlamo y no te puedo hablar\nTu recuerdo no se va\nNo se va, no se va\nAlgo en ti quiere volver\nY algo en m\u00ed te va a encontrar\nTu recuerdo no se va\nNo se va, no se va\n\nQu\u00e9date otra vez, qu\u00e9date toda la noche\nQu\u00e9date otra v\u0435z, qu\u00e9date m\u00e1s de las doce\nQu\u00e9dat\u0435 otra vez que mi coraz\u00f3n no olvida\nAmor, as\u00ed no se olvida\nY no se va, no se va, no se va\nQu\u00e9date otra vez, qu\u00e9date toda la vida\nQu\u00e9date otra vez, t\u00fa eres mi bala perdida\nQu\u00e9date otra vez que mi coraz\u00f3n no olvida\nAmor, as\u00ed no se olvida\nY no se va, no se va, no se va\nYou might also like\nGrupo Frontera\n\nPerder mis ojos cuando bailes\nSentir mil besos en el aire\nFue suficiente para convencerme\nDe que, si te vas\nTe buscar\u00e9, aunque suene loco\nDe Bogot\u00e1 hasta Buenos Aires\n\u00bfC\u00f3mo te explico que no s\u00e9 olvidar?\n\nYa no s\u00e9 disimular\nTe amo y no te puedo hablar\nTu recuerdo no se va\nNo se va, no se va\nAlgo en ti quiere volver\nY algo en m\u00ed te va a encontrar\nTu recuerdo no se va\nNo se va, no se va\n\nQu\u00e9date otra vez, qu\u00e9date toda la noche\nQu\u00e9date otra vez, qu\u00e9date m\u00e1s de las doce\nQu\u00e9date otra vez que mi coraz\u00f3n no olvida\nAmor, as\u00ed no se olvida\nY no se va, no se va, no se va\nQu\u00e9date otra vez, qu\u00e9date toda la vida\nQu\u00e9date otra vez, t\u00fa eres mi bala perdida\nQu\u00e9date otra vez que mi coraz\u00f3n no olvida\nAmor, as\u00ed no se olvidaEmbed"
+}

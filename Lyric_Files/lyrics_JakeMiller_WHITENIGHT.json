@@ -1,0 +1,53 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/9986575",
+ "artist_names": "Jake Miller",
+ "full_title": "WHITE NIGHT by\u00a0Jake\u00a0Miller",
+ "header_image_thumbnail_url": "https://images.genius.com/49478a2415670f75c5463063f5bd8101.300x300x1.png",
+ "header_image_url": "https://images.genius.com/49478a2415670f75c5463063f5bd8101.1000x1000x1.png",
+ "id": 9986575,
+ "instrumental": false,
+ "lyrics_owner_id": 10663505,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1710514391,
+ "path": "/Jake-miller-white-night-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Jake-miller-white-night-sample",
+ "release_date_components": {
+  "year": 2024,
+  "month": 1,
+  "day": 27
+ },
+ "release_date_for_display": "January 27, 2024",
+ "release_date_with_abbreviated_month_for_display": "Jan. 27, 2024",
+ "song_art_image_thumbnail_url": "https://images.genius.com/49478a2415670f75c5463063f5bd8101.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/49478a2415670f75c5463063f5bd8101.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 50687
+ },
+ "title": "WHITE NIGHT",
+ "title_with_featured": "WHITE NIGHT",
+ "updated_by_human_at": 1710514391,
+ "url": "https://genius.com/Jake-miller-white-night-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/23413",
+  "header_image_url": "https://images.genius.com/95280a06923314681f15abe3a8387ff9.1000x333x1.jpg",
+  "id": 23413,
+  "image_url": "https://images.genius.com/c54e92e7b06d4866e0f43514d9c27a1d.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Jake Miller",
+  "slug": "Jake-miller",
+  "url": "https://genius.com/artists/Jake-miller",
+  "iq": 319
+ },
+ "artist": "Jake Miller",
+ "lyrics": "3 ContributorsWHITE NIGHT Lyrics\nI want you to show me\nYour fantasy (Your fantasy)\nNo past and no future\nThat's what I need (That's what I need)\nThe groove takes it over\nWe'll wait and see\nEven I might blank out\nYou\u205fand\u205fme\n\nI\u205fthought that dream\u205fcould light our\u205fway\n(You take me higher, take me away, woah)\nOh, be my savior and take me away\n(Away, away)\n(Take me away)\n\nTick and tock, once more\nYou're hosting (You're hosting)\nA magic show I cannot escape (I cannot escape)\nThere's nothing else left for me to do\nGoing to the other side (Other side)\n\nI don't wanna be alone tonight (Oh, woah)\nOh, lead m\u0435 with your altered sign\nTher\u0435's no one else left for me to lose\nHeading to the other side (Other side)\nYou might also like\nOh, yeah\nOh, woah\n(You take me higher, take me away)\nWoah, just be my savior and take me away\n(Away, away)\nSing it with me everyone!\n\nI don't wanna be alone tonight\nOh, bring me to the other side (Come on)\nThere's no one else left for me to lose\nGoing to the other side (Other side)\n\nI don't wanna be alone tonight (Oh, woah)\nI'll bring you to my best disguise (Let's go)\n'Cause I don't need, don't need to know the truth\nLet me rave forever in your life\n\nWoah, oh-woah\n(Come on)\nOh, woah\n(Let's go)\nOh, woahEmbed"
+}

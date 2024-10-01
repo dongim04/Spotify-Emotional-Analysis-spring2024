@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/121557",
+ "artist_names": "Audioslave",
+ "full_title": "Like a Stone by\u00a0Audioslave",
+ "header_image_thumbnail_url": "https://images.genius.com/1ff90e197dc3453bee05e61af54f79f4.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1ff90e197dc3453bee05e61af54f79f4.1000x1000x1.jpg",
+ "id": 121557,
+ "instrumental": false,
+ "lyrics_owner_id": 779,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1696043581,
+ "path": "/Audioslave-like-a-stone-lyrics",
+ "pyongs_count": 75,
+ "relationships_index_url": "https://genius.com/Audioslave-like-a-stone-sample",
+ "release_date_components": {
+  "year": 2003,
+  "month": 1,
+  "day": 28
+ },
+ "release_date_for_display": "January 28, 2003",
+ "release_date_with_abbreviated_month_for_display": "Jan. 28, 2003",
+ "song_art_image_thumbnail_url": "https://images.genius.com/94ea034f9b24ac0adbfb6f445f9f6425.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/94ea034f9b24ac0adbfb6f445f9f6425.953x953x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 1128007
+ },
+ "title": "Like a Stone",
+ "title_with_featured": "Like a Stone",
+ "updated_by_human_at": 1696043581,
+ "url": "https://genius.com/Audioslave-like-a-stone-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/39547",
+  "header_image_url": "https://images.genius.com/6edfeec50e1ccb1c2eada3077684bb51.980x204x1.png",
+  "id": 39547,
+  "image_url": "https://images.genius.com/4f9bd4dcfff85573af4b253065ffd6be.808x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Audioslave",
+  "slug": "Audioslave",
+  "url": "https://genius.com/artists/Audioslave"
+ },
+ "artist": "Audioslave",
+ "lyrics": "68 ContributorsLike a Stone Lyrics\nOn a cobweb afternoon in a room full of emptiness\nBy a freeway, I confess I was lost in the pages\nOf a book full of death, reading how we'll die alone\nAnd if we're good, we'll lay to rest anywhere we want to go\n\nIn your house, I long to be\nRoom by room, patiently\nI'll wait for you there like a stone\nI'll wait for you there alone\n\nAnd on my deathbed, I will pray to the gods and the angels\nLike a pagan to anyone who will take me to heaven\nTo a place I recall, I was there so long ago\nThe sky was bruised, the wine was bled, and there you led me on\n\nIn your house, I long to be\nRoom by room, patiently\nI'll wait for you there like a stone\nI'll wait for you there alone, alone\n\nYou might also like\nAnd on I read until the day was gone\nAnd I sat in regret of all the things I've done\nFor all that I've blessed and all that I've wronged\nIn dreams until my death, I will wander on\n\nIn your house, I long to be\nRoom by room, patiently\nI'll wait for you there like a stone\nI'll wait for you there alone, alone75Embed"
+}

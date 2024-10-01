@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/147609",
+ "artist_names": "\u200btwenty one pilots",
+ "full_title": "Oh Ms. Believer by\u00a0\u200btwenty\u00a0one pilots",
+ "header_image_thumbnail_url": "https://images.genius.com/ecf17d5ffe9457a2cec56820538fce0d.300x300x1.png",
+ "header_image_url": "https://images.genius.com/ecf17d5ffe9457a2cec56820538fce0d.600x600x1.png",
+ "id": 147609,
+ "instrumental": false,
+ "lyrics_owner_id": 217648,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1692230616,
+ "path": "/Twenty-one-pilots-oh-ms-believer-lyrics",
+ "pyongs_count": 88,
+ "relationships_index_url": "https://genius.com/Twenty-one-pilots-oh-ms-believer-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 12,
+  "day": 29
+ },
+ "release_date_for_display": "December 29, 2009",
+ "release_date_with_abbreviated_month_for_display": "Dec. 29, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ecf17d5ffe9457a2cec56820538fce0d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/ecf17d5ffe9457a2cec56820538fce0d.600x600x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 277012
+ },
+ "title": "Oh Ms. Believer",
+ "title_with_featured": "Oh Ms. Believer",
+ "updated_by_human_at": 1692230616,
+ "url": "https://genius.com/Twenty-one-pilots-oh-ms-believer-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/23796",
+  "header_image_url": "https://images.genius.com/367315eb416cf96c88c8f28265f070fb.820x360x1.jpg",
+  "id": 23796,
+  "image_url": "https://images.genius.com/33465f8f7b5e5c3186aefeafd3d07db6.1000x1000x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "\u200btwenty one pilots",
+  "slug": "Twenty-one-pilots",
+  "url": "https://genius.com/artists/Twenty-one-pilots",
+  "iq": 134
+ },
+ "artist": "\u200btwenty one pilots",
+ "lyrics": "104 ContributorsTranslationsFran\u00e7aisEspa\u00f1olOh Ms. Believer Lyrics\nOh, Ms. Believer, my pretty sleeper\nYour twisted mind is like snow on the road\nYour shaking shoulders prove that it's colder\nInside your head than the winter of dead\n\nI will tell you I love you\nBut the muffs on your ears will cater your fears\nMy nose and feet are running as we start\nTo travel through snow, together, we go\nTogether, we go\n\nWe get colder as we grow older\nWe will walk so much slower\n\nOh, Ms. Believer, my pretty weeper\nYour twisted thoughts are like snow on the rooftops\nPlease, take my hand, we're in foreign land\nAs we travel through snow, together we go\nTogether, we go\n\nWe get colder as we grow older\nWe will walk so much slowerSee \u200btwenty one pilots LiveGet tickets as low as $99You might also like88Embed"
+}

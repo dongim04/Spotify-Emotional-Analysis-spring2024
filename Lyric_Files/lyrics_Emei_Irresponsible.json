@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/9111279",
+ "artist_names": "Emei",
+ "full_title": "Irresponsible by\u00a0Emei",
+ "header_image_thumbnail_url": "https://images.genius.com/1fffa6768b3aa52a792a690e32533ee9.300x300x1.png",
+ "header_image_url": "https://images.genius.com/1fffa6768b3aa52a792a690e32533ee9.1000x1000x1.png",
+ "id": 9111279,
+ "instrumental": false,
+ "lyrics_owner_id": 17955726,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1711514598,
+ "path": "/Emei-irresponsible-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Emei-irresponsible-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 5,
+  "day": 26
+ },
+ "release_date_for_display": "May 26, 2023",
+ "release_date_with_abbreviated_month_for_display": "May. 26, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1fffa6768b3aa52a792a690e32533ee9.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/1fffa6768b3aa52a792a690e32533ee9.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 5713
+ },
+ "title": "Irresponsible",
+ "title_with_featured": "Irresponsible",
+ "updated_by_human_at": 1711514598,
+ "url": "https://genius.com/Emei-irresponsible-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2917362",
+  "header_image_url": "https://images.genius.com/f44da0954269274c1b764925ca7a6f06.1000x1000x1.jpg",
+  "id": 2917362,
+  "image_url": "https://images.genius.com/f44da0954269274c1b764925ca7a6f06.1000x1000x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Emei",
+  "slug": "Emei",
+  "url": "https://genius.com/artists/Emei",
+  "iq": 100
+ },
+ "artist": "Emei",
+ "lyrics": "6 ContributorsIrresponsible Lyrics\nDun-nun-nun, dun-nun-nun-nun, dun-nun\n\nLeft my head back in the diner\nThink my keys are right beside it\nLet me know if you can find them\n'Cause they're designer\nHalfway through a different sentence\nMixed up, twisted in my mouth (Like Miles)\nFlavors rollin', so unsettling\nAnd you're not even listening\n\nMmm\nDon't tell me to go slow\nMmm\n'Cause you know that I won't\n\nSlap me on the wrist\nTsk-tsk, I'm trying\nI don't know why\nI never grew up, and it's mortifying\nWhy am I so irresponsible?\nYou might also like\nLa-la-la-la-la, la-la-la-la-la-la\nI don't know why\nLa-la-la-la-la, la-la-la-la-la-la\nWhy am I so irresponsible?\n\nGot my chaos automatic\nOn\u0435, two, three, it's systematic\nAll my wires are cross\u0435d and jagged\nAnd the fact is\nI'm so tired of dropping all the pieces, I keep speedin'\nI know I'm the reason\nBleeding, feelin' so depleted\nAnd I swear I'm tryna beat it\n\nSlap me on the wrist\nTsk-tsk, I'm trying\nI don't know why\nI never grew up, and it's mortifying\nWhy am I so irresponsible?\n\nLa-la-la-la-la, la-la-la-la-la-la\nI don't know why\nLa-la-la-la-la, la-la-la-la-la-la\nWhy am I so irresponsible?1Embed"
+}

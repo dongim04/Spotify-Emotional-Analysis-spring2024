@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/3542459",
+ "artist_names": "\u200bgirl in red",
+ "full_title": "\u200bsummer depression by\u00a0\u200bgirl\u00a0in red",
+ "header_image_thumbnail_url": "https://images.genius.com/fe7f92eef9064933fb5bfb5d1f3cce76.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/fe7f92eef9064933fb5bfb5d1f3cce76.1000x1000x1.jpg",
+ "id": 3542459,
+ "instrumental": false,
+ "lyrics_owner_id": 5967250,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1706887547,
+ "path": "/Girl-in-red-summer-depression-lyrics",
+ "pyongs_count": 15,
+ "relationships_index_url": "https://genius.com/Girl-in-red-summer-depression-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 2,
+  "day": 16
+ },
+ "release_date_for_display": "February 16, 2018",
+ "release_date_with_abbreviated_month_for_display": "Feb. 16, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/012f717959499d54f69a2c16f2af421d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/012f717959499d54f69a2c16f2af421d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 150272
+ },
+ "title": "\u200bsummer depression",
+ "title_with_featured": "\u200bsummer depression",
+ "updated_by_human_at": 1706887547,
+ "url": "https://genius.com/Girl-in-red-summer-depression-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1307113",
+  "header_image_url": "https://images.genius.com/d20c3c2cc32724cf5c8c0360a67f5064.841x311x1.jpg",
+  "id": 1307113,
+  "image_url": "https://images.genius.com/71df2073af68fc0210094d53b426291a.640x640x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "\u200bgirl in red",
+  "slug": "Girl-in-red",
+  "url": "https://genius.com/artists/Girl-in-red",
+  "iq": 100
+ },
+ "artist": "\u200bgirl in red",
+ "lyrics": "58 ContributorsTranslationsPolskiFran\u00e7ais\u200bsummer depression Lyrics\nDe-de-de-depression\nTeenage suicidal\nWhy girls?\nEmotional\nSocial anxiety\n\nPretty face with pretty bad dreams\nNo one knows I cry in my sleep\nWaking up feeling like shit\nIt's a normal thing to feel like this\n\nI don't care\nI'm feeling down\nI wanna stay home\nNever go outside\nSummer depression comes every year\nI just want to disappear (Depression)\n\nSummer depression\nThere's so much time to question my life\nSummer depression\nIt's my\nSummer depression\nYou might also like\nMy worst habit\nIs my own sadness\nSo I stay up all night\nWondering why I'm so tired all the time\n\nAll my friends are doing things\nIt's good for them\nBut I'm nothing\nSummer depression comes every year\nI just want to disappear (Depression)\n\nSummer depression (Why?)\nThere's so much time to question my life\nSummer depression\nIt's my\nSummer depression\n\nTeenage suicidal\nWhy girls?\nEmotional\nSocial anxiety\nDepression\nSummer depression\nThere's so much time to question my life\nSummer depression\nIt's my\nSummer depression\n(Depression)15Embed"
+}

@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/60905",
+ "artist_names": "Otis Redding",
+ "full_title": "(Sittin' On) The Dock of the Bay by\u00a0Otis\u00a0Redding",
+ "header_image_thumbnail_url": "https://images.rapgenius.com/52f22c5b616dd1e67efeb02e7663aad8.200x200x1.jpg",
+ "header_image_url": "https://images.rapgenius.com/52f22c5b616dd1e67efeb02e7663aad8.200x200x1.jpg",
+ "id": 60905,
+ "instrumental": false,
+ "lyrics_owner_id": 29141,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1678659244,
+ "path": "/Otis-redding-sittin-on-the-dock-of-the-bay-lyrics",
+ "pyongs_count": 25,
+ "relationships_index_url": "https://genius.com/Otis-redding-sittin-on-the-dock-of-the-bay-sample",
+ "release_date_components": {
+  "year": 1968,
+  "month": 1,
+  "day": 8
+ },
+ "release_date_for_display": "January 8, 1968",
+ "release_date_with_abbreviated_month_for_display": "Jan. 8, 1968",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ef23c8ff38a50d33b77e8791f0804e2f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ef23c8ff38a50d33b77e8791f0804e2f.594x594x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 345435
+ },
+ "title": "(Sittin\u2019 On) The Dock of the Bay",
+ "title_with_featured": "(Sittin' On) The Dock of the Bay",
+ "updated_by_human_at": 1704794234,
+ "url": "https://genius.com/Otis-redding-sittin-on-the-dock-of-the-bay-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/13177",
+  "header_image_url": "https://images.genius.com/27c9963658728727bd3e4beb7ac29401.800x800x1.jpg",
+  "id": 13177,
+  "image_url": "https://images.genius.com/27c9963658728727bd3e4beb7ac29401.800x800x1.jpg",
+  "index_character": "o",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Otis Redding",
+  "slug": "Otis-redding",
+  "url": "https://genius.com/artists/Otis-redding"
+ },
+ "artist": "Otis Redding",
+ "lyrics": "64 Contributors(Sittin\u2019 On) The Dock of the Bay Lyrics\nSittin' in the mornin' sun\nI'll be sittin' when the evenin' come\nWatching the ships roll in\nAnd then I watch 'em roll away again, yeah\n\nI'm sittin' on the dock of the bay\nWatching the tide roll away\nOoh, I'm just sittin' on the dock of the bay\nWastin' time\n\nI left my home in Georgia\nHeaded for the 'Frisco bay\n'Cause I've had nothing to live for\nAnd look like nothin's gonna come my way\n\nSo I'm just gonna sit on the dock of the bay\nWatching the tide roll away\nOoh, I'm sittin' on the dock of the bay\nWastin' time\n\nLook like nothing's gonna change\nEverything still remains the same\nI can't do what ten people tell me to do\nSo I guess I'll remain the same, yes\nYou might also like\nSittin' here resting my bones\nAnd this loneliness won't leave me alone\nIt's two thousand miles I roamed\nJust to make this dock my home\n\nNow, I'm just gonna sit at the dock of the bay\nWatching the tide roll away\nOoh-wee, I'm sittin' on the dock of the bay\nWastin' time\n\n*Whistling*25Embed"
+}

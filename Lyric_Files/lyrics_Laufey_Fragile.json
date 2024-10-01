@@ -1,0 +1,53 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/8061176",
+ "artist_names": "Laufey",
+ "full_title": "Fragile by\u00a0Laufey",
+ "header_image_thumbnail_url": "https://images.genius.com/6e2d1f08c5efb41a9b870c248a95113d.300x300x1.png",
+ "header_image_url": "https://images.genius.com/6e2d1f08c5efb41a9b870c248a95113d.1000x1000x1.png",
+ "id": 8061176,
+ "instrumental": false,
+ "lyrics_owner_id": 3662839,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1705525780,
+ "path": "/Laufey-fragile-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Laufey-fragile-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 6,
+  "day": 1
+ },
+ "release_date_for_display": "June 1, 2022",
+ "release_date_with_abbreviated_month_for_display": "Jun. 1, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6e2d1f08c5efb41a9b870c248a95113d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/6e2d1f08c5efb41a9b870c248a95113d.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 142219
+ },
+ "title": "Fragile",
+ "title_with_featured": "Fragile",
+ "updated_by_human_at": 1709540160,
+ "url": "https://genius.com/Laufey-fragile-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2195472",
+  "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+  "id": 2195472,
+  "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Laufey",
+  "slug": "Laufey",
+  "url": "https://genius.com/artists/Laufey",
+  "iq": 1287
+ },
+ "artist": "Laufey",
+ "lyrics": "14 ContributorsFragile Lyrics\nWill you let me come closer to you\nI know that you're older, but what can I do\nI leave in the morning I'll forget that I am surely falling\n\nGrew up in a case of fragile glass\nBut hammer away it's time to crash\nAnd as it shatters let me shatter into you\n\nThe soft candle glow\nThe music so slow\nYour skin on my skin\nThe room is spinning\nNerve in my bone\nI'm shaking oh no\nI'm talking though I shouldn't be\nI've lost all sensibility\nI've never been so fragile\n\nIt's been a year and forty days\nSince you picked me up and swept me away\nI wanted to run with you into the midnight sun with you\nSee Laufey LiveGet tickets as low as $36You might also like\nNow I sit around and rust in rain\nTurn into dust as I just wait\nFor som\u0435one to hold me like you did that night I still r\u0435member\n\nThe soft candle glow\nThe music so slow\nYour skin on my skin\nThe room kept spinning\nRound I'm alone\nNew town on my own\nI'm missing you I shouldn't be\nI've lost all sensibility\nI've never been so fragile2Embed"
+}

@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/9201639",
+ "artist_names": "Laufey",
+ "full_title": "Promise by\u00a0Laufey",
+ "header_image_thumbnail_url": "https://images.genius.com/ea206554f63f4fa91ee02d1783c5fe0c.300x300x1.png",
+ "header_image_url": "https://images.genius.com/ea206554f63f4fa91ee02d1783c5fe0c.999x999x1.png",
+ "id": 9201639,
+ "instrumental": false,
+ "lyrics_owner_id": 12455462,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1709540118,
+ "path": "/Laufey-promise-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Laufey-promise-sample",
+ "release_date_components": {
+  "year": 2023,
+  "month": 6,
+  "day": 14
+ },
+ "release_date_for_display": "June 14, 2023",
+ "release_date_with_abbreviated_month_for_display": "Jun. 14, 2023",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ea206554f63f4fa91ee02d1783c5fe0c.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/ea206554f63f4fa91ee02d1783c5fe0c.999x999x1.png",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 128512
+ },
+ "title": "Promise",
+ "title_with_featured": "Promise",
+ "updated_by_human_at": 1709540036,
+ "url": "https://genius.com/Laufey-promise-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2195472",
+  "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+  "id": 2195472,
+  "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Laufey",
+  "slug": "Laufey",
+  "url": "https://genius.com/artists/Laufey",
+  "iq": 1287
+ },
+ "artist": "Laufey",
+ "lyrics": "35 ContributorsTranslationsEspa\u00f1olPromise Lyrics\nI made a promise\nTo distance myself\nTook a flight, through aurora skies\nHonestly I didn't think about\nHow we didn't say goodbye\nJust, \"See you very soon\"\n\nIt hurts to be something\nIt's worse to be nothing\u205fwith\u205fyou\nMm,\u205fmm-mm, mm\n\nSo I\u205fdidn't call you\nFor\u205fsixteen long days\nAnd I should get, a cigarette\nFor so much restraint\nNo matter how long I resist temptation\nI will always lose\n\nIt hurts to be something\nIt's worse to be nothing with you\n\nI've done the math\nThere's no solution\nWe'll never last\nWhy can't I let go of this?\nSee Laufey LiveGet tickets as low as $36You might also like\nSo I broke my promise\nI called you last night\nI shouldn't have, I wouldn't have\nIf it weren't for the sight of a boy\nWho look\u0435d just like you\nStanding out on Melrose Av\u0435nue\n\nIt hurts to be something\nIt's worse to be nothing with you\n\nIt hurts to be something\nIt's worse to be nothing with you2Embed"
+}

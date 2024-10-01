@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/5277346",
+ "artist_names": "Gracie Abrams",
+ "full_title": "21 by\u00a0Gracie\u00a0Abrams",
+ "header_image_thumbnail_url": "https://images.genius.com/7907ab9cc2c2f2fb154eb1c195cd144d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/7907ab9cc2c2f2fb154eb1c195cd144d.1000x1000x1.jpg",
+ "id": 5277346,
+ "instrumental": false,
+ "lyrics_owner_id": 3881576,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1704471638,
+ "path": "/Gracie-abrams-21-lyrics",
+ "pyongs_count": 13,
+ "relationships_index_url": "https://genius.com/Gracie-abrams-21-sample",
+ "release_date_components": {
+  "year": 2020,
+  "month": 2,
+  "day": 20
+ },
+ "release_date_for_display": "February 20, 2020",
+ "release_date_with_abbreviated_month_for_display": "Feb. 20, 2020",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1490b315edead2f7bc63008c4bdecc06.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/1490b315edead2f7bc63008c4bdecc06.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 129011
+ },
+ "title": "21",
+ "title_with_featured": "21",
+ "updated_by_human_at": 1704471638,
+ "url": "https://genius.com/Gracie-abrams-21-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/631746",
+  "header_image_url": "https://images.genius.com/4668fc1a6550a375d2e31178047f2aca.1000x1000x1.png",
+  "id": 631746,
+  "image_url": "https://images.genius.com/47d61ef4d65e1b9d46ddfaf239fae8f0.577x577x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Gracie Abrams",
+  "slug": "Gracie-abrams",
+  "url": "https://genius.com/artists/Gracie-abrams"
+ },
+ "artist": "Gracie Abrams",
+ "lyrics": "38 ContributorsTranslationsT\u00fcrk\u00e7eEspa\u00f1olFran\u00e7ais21 Lyrics\nI missed your 21st birthday, I've been up at home\nAlmost tried to call you, don't\u2005know\u2005if I should\nHate\u2005to picture you half-drunk happy\nHate to\u2005think you went out without me\nI'm sorry if you blame me, if I were you, I would\nThought you'd see it comin', but you never could\nI still haven't heard from your family\nBut you said your mom always loved me\n\nSometimes I go blurry-eyed\nSmall talk and you tell me that you're on fire\nLights on and it's black and white, I couldn't stay forever\n\nI see the look in your eye and I'm bitin' my tongue\nYou'll be the love of my life when I was young\nWhen the night is over\nDon't call me up, I'm already under\nI get a little bit alone sometimes and I miss you again\nI'll be the love of your life inside your head\nWhen the night is over\nDon't call me up, I'm already under\n\nAudrey said she saw you out past twelve o'clock\nJust because you're hurtin' doesn't mean I'm not\nIf it doesn't go away by the time I turn thirty\nI made a mistake and I'll tell you I'm sorry\n\"Sorry\"\nYou might also like\nSometimes I go blurry-eyed\nSmall talk and you tell me that you're on fire\nLights on and it's black and white, I couldn't stay forever\n\nI see the look in your eye and I'm bitin' my tongue\nYou'll be the love of my life when I was young\nWhen the night is over\nDon't call me up, I'm already under\nI get a little bit alone sometimes and I miss you again\nI'll be the love of your life inside your head\nWhen the night is over\nDon't call me up, I'm already under13Embed"
+}

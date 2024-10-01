@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/108451",
+ "artist_names": "Incubus",
+ "full_title": "Drive by\u00a0Incubus",
+ "header_image_thumbnail_url": "https://vignette.wikia.nocookie.net/the-music-observer/images/4/4a/Incubusmakeyourself.jpg/revision/latest?cb=20181004012942",
+ "header_image_url": "https://vignette.wikia.nocookie.net/the-music-observer/images/4/4a/Incubusmakeyourself.jpg/revision/latest?cb=20181004012942",
+ "id": 108451,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708616999,
+ "path": "/Incubus-drive-lyrics",
+ "pyongs_count": 33,
+ "relationships_index_url": "https://genius.com/Incubus-drive-sample",
+ "release_date_components": {
+  "year": 1999,
+  "month": 10,
+  "day": 26
+ },
+ "release_date_for_display": "October 26, 1999",
+ "release_date_with_abbreviated_month_for_display": "Oct. 26, 1999",
+ "song_art_image_thumbnail_url": "https://images.genius.com/934c39708dfeebd20aebe4b7d21b23eb.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/934c39708dfeebd20aebe4b7d21b23eb.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 276514
+ },
+ "title": "Drive",
+ "title_with_featured": "Drive",
+ "updated_by_human_at": 1708616999,
+ "url": "https://genius.com/Incubus-drive-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17208",
+  "header_image_url": "https://images.genius.com/3c4d2547a64bcee2c6256ef83b9ea0ae.593x593x1.png",
+  "id": 17208,
+  "image_url": "https://images.genius.com/898c066192eb6adb52379039bcfe7fb8.915x915x1.png",
+  "index_character": "i",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Incubus",
+  "slug": "Incubus",
+  "url": "https://genius.com/artists/Incubus"
+ },
+ "artist": "Incubus",
+ "lyrics": "54 ContributorsTranslationsDeutschDrive Lyrics\nSometimes I feel the fear of\nUncertainty stinging clear\nAnd I, I can't help but ask myself\nHow much I let the fear take the wheel and steer\nIt's driven me before, and it seems to have a vague\nHaunting mass appeal\nBut lately I'm beginning to find that I\nShould be the one behind the wheel\n\nWhatever tomorrow brings, I'll be there\nWith open arms and open eyes, yeah\nWhatever tomorrow brings, I'll be there\nI'll be there, yeah, ohh\n\nSo if I decide to waiver my\nChance to be one of the hive\nWill I choose water over wine\nAnd hold my own and drive?\nOhh-oh-ohh\n\nIt's driven me before, and it seems to be the way\nThat everyone else gets around\nBut lately I'm beginning to find that\nWhen I drive myself my light is found\nSee Incubus LiveGet tickets as low as $52You might also like\nAnd whatever tomorrow brings, I'll be there\nWith open arms and open eyes, yeah\nWhatever tomorrow brings, I'll be there\nI'll be there, yeah, ohh\n\n\nWould you choose the water over wine\nHold the wheel and drive?\n\nWhatever tomorrow brings, I'll be there\nWith open arms and open eyes, yeah\nWhatever tomorrow brings, I'll be there\nI'll be there, yeah, ohh\n\nDo-do-do, do-do-do, do-do-do-do-do\nWhoa-oh-oh, do-do-do-do-do\nDo-do-do, do-do-do, do-do-do-do-do\nWho-a-oh-oh-oh-oh33Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/136757",
+ "artist_names": "Frank Sinatra",
+ "full_title": "Strangers in the Night by\u00a0Frank\u00a0Sinatra",
+ "header_image_thumbnail_url": "https://images.genius.com/38014d5baa23f8fa3b2a39ac1067daa8.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/38014d5baa23f8fa3b2a39ac1067daa8.500x500x1.jpg",
+ "id": 136757,
+ "instrumental": false,
+ "lyrics_owner_id": 7500,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1660768303,
+ "path": "/Frank-sinatra-strangers-in-the-night-lyrics",
+ "pyongs_count": 22,
+ "relationships_index_url": "https://genius.com/Frank-sinatra-strangers-in-the-night-sample",
+ "release_date_components": {
+  "year": 1966,
+  "month": 5,
+  "day": 30
+ },
+ "release_date_for_display": "May 30, 1966",
+ "release_date_with_abbreviated_month_for_display": "May. 30, 1966",
+ "song_art_image_thumbnail_url": "https://images.genius.com/38014d5baa23f8fa3b2a39ac1067daa8.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/38014d5baa23f8fa3b2a39ac1067daa8.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 141202
+ },
+ "title": "Strangers in the Night",
+ "title_with_featured": "Strangers in the Night",
+ "updated_by_human_at": 1709450895,
+ "url": "https://genius.com/Frank-sinatra-strangers-in-the-night-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/824",
+  "header_image_url": "https://images.genius.com/4e2b428d575f3fd115f41668b22ae3e8.1000x283x1.jpg",
+  "id": 824,
+  "image_url": "https://images.genius.com/5f746dbf6c41747811e11452bfabb552.490x490x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Frank Sinatra",
+  "slug": "Frank-sinatra",
+  "url": "https://genius.com/artists/Frank-sinatra"
+ },
+ "artist": "Frank Sinatra",
+ "lyrics": "24 ContributorsStrangers in the Night Lyrics\nStrangers in the night exchanging glances\nWondering in the night, what were the chances?\nWe'd be sharing love before the night was through\n\nSomething in your eyes was so inviting\nSomething in your smile was so exciting\nSomething in my heart told me I must have you\n\nStrangers in the night\nTwo lonely people, we were strangers in the night\nUp to the moment when we said our first hello, little did we know\nLove was just a glance away, a warm embracing dance away and\n\nEver since that night we've been together\nLovers at first sight, in love forever\nIt turned out so right for strangers in the night\n\nLove was just a glance away, a warm embracing dance away\n\nEver since that night we've been together\nLovers at first sight, in love forever\nIt turned out so right for strangers in the night\nYou might also like\nDooby-doooby-doo\nDoob-dooob-doob-dee-daa\nDaaa-daaa-daaa-daaa-daaa22Embed"
+}

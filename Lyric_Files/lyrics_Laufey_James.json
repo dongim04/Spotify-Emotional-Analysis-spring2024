@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/6766042",
+ "artist_names": "Laufey",
+ "full_title": "James by\u00a0Laufey",
+ "header_image_thumbnail_url": "https://images.genius.com/bf9a9ea5ee1c64e321fcb5f3fc10ded2.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bf9a9ea5ee1c64e321fcb5f3fc10ded2.640x640x1.jpg",
+ "id": 6766042,
+ "instrumental": false,
+ "lyrics_owner_id": 7514808,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1703989502,
+ "path": "/Laufey-james-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Laufey-james-sample",
+ "release_date_components": {
+  "year": 2021,
+  "month": 4,
+  "day": 30
+ },
+ "release_date_for_display": "April 30, 2021",
+ "release_date_with_abbreviated_month_for_display": "Apr. 30, 2021",
+ "song_art_image_thumbnail_url": "https://images.genius.com/bf9a9ea5ee1c64e321fcb5f3fc10ded2.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/bf9a9ea5ee1c64e321fcb5f3fc10ded2.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 10203
+ },
+ "title": "James",
+ "title_with_featured": "James",
+ "updated_by_human_at": 1709540226,
+ "url": "https://genius.com/Laufey-james-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2195472",
+  "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+  "id": 2195472,
+  "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Laufey",
+  "slug": "Laufey",
+  "url": "https://genius.com/artists/Laufey",
+  "iq": 1287
+ },
+ "artist": "Laufey",
+ "lyrics": "9 ContributorsJames Lyrics\nI spent months gazing at him\nSitting 'cross the hall\nHis dark hair, his glasses\nPerfect overall\nHe looked so serious\nHe was mysterious\nOne Tuesday he caught me sneaking in a stare\nHe shot me a smile\nI nearly tumbled out my chair\nHe said, \"Who are you? My name is James\"\nAnd that's when I fell into the flames\n\nTurns out he's a fool\nThat James\nOh, James\nOh, how I wasted my days\nOh, dreaming, dreaming of James\n\nHe said, \"Do you like museums?\"\n\"They're open late tonight\"\nHow about we go together\nJust you and I\nAnd maybe we can have a drink or two\nI'd like to learn about you\nBut James just thought\nIt was alright\nTo go ahead and talk\nAbout himself all night\nThen he really felt he had to say\nThat he'd be a millionaire one day\nSee Laufey LiveGet tickets as low as $36You might also like\nTurns out he's a fool\nThat James\nOh, James\nOh, how I wasted my days\nOh, dreaming, dreaming of James\n\nMy eyes rolled to the back of my head\nIt seemed like the night would never end\nAt one point I just stopped listening\nHis voice just became too sickeningEmbed"
+}

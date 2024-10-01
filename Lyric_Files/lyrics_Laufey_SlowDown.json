@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/8447772",
+ "artist_names": "Laufey",
+ "full_title": "Slow Down by\u00a0Laufey",
+ "header_image_thumbnail_url": "https://images.genius.com/1705222f3fd6498ad29f50162feb3d21.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1705222f3fd6498ad29f50162feb3d21.1000x1000x1.jpg",
+ "id": 8447772,
+ "instrumental": false,
+ "lyrics_owner_id": 17270590,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1708329554,
+ "path": "/Laufey-slow-down-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Laufey-slow-down-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 10,
+  "day": 14
+ },
+ "release_date_for_display": "October 14, 2022",
+ "release_date_with_abbreviated_month_for_display": "Oct. 14, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1705222f3fd6498ad29f50162feb3d21.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1705222f3fd6498ad29f50162feb3d21.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false
+ },
+ "title": "Slow Down",
+ "title_with_featured": "Slow Down",
+ "updated_by_human_at": 1708329554,
+ "url": "https://genius.com/Laufey-slow-down-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2195472",
+  "header_image_url": "https://images.genius.com/c9e54697e1f9ac021acd93abc8b4c05b.1000x210x1.png",
+  "id": 2195472,
+  "image_url": "https://images.genius.com/a5dec955c8af5ecdf05497a1e102538e.1000x1000x1.png",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Laufey",
+  "slug": "Laufey",
+  "url": "https://genius.com/artists/Laufey",
+  "iq": 1287
+ },
+ "artist": "Laufey",
+ "lyrics": "9 ContributorsSlow Down Lyrics\nSlow down\nGive me just a moment\nI'm so grown now in my own apartment\nCooking my own dinner spaghetti for one\nThough I'm gettin' older my life has just begun\n\nI wish it would slow down even for a second\nI'm so old now left my adolescence\nGoing out to parties and getting way too drunk\nThink I found somebody but don't think that it's love\n\nI wish it would slow down\nSlow down\n\nSomeday I won't be in my twenties\nIn a new state maybe even married\nI'll have my own children\nThey're tired of being young\nThey'll ask me about their futures\nI'll t\u0435ll my little ones\n\nBaby, slow down\nSlow down\nSlow downSee Laufey LiveGet tickets as low as $36You might also likeEmbed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 15,
+ "api_path": "/songs/86887",
+ "artist_names": "MGMT",
+ "full_title": "Time to Pretend by\u00a0MGMT",
+ "header_image_thumbnail_url": "https://images.genius.com/1ab7dfa41afaccbe0649fe0e4a9c829d.300x300x1.png",
+ "header_image_url": "https://images.genius.com/1ab7dfa41afaccbe0649fe0e4a9c829d.1000x1000x1.png",
+ "id": 86887,
+ "instrumental": false,
+ "lyrics_owner_id": 122656,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1709773071,
+ "path": "/Mgmt-time-to-pretend-lyrics",
+ "pyongs_count": 53,
+ "relationships_index_url": "https://genius.com/Mgmt-time-to-pretend-sample",
+ "release_date_components": {
+  "year": 2005,
+  "month": 8,
+  "day": 30
+ },
+ "release_date_for_display": "August 30, 2005",
+ "release_date_with_abbreviated_month_for_display": "Aug. 30, 2005",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d45b4ac1407747ab1b1ec453c7c8729d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/d45b4ac1407747ab1b1ec453c7c8729d.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 292284
+ },
+ "title": "Time to Pretend",
+ "title_with_featured": "Time to Pretend",
+ "updated_by_human_at": 1709773071,
+ "url": "https://genius.com/Mgmt-time-to-pretend-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/764",
+  "header_image_url": "https://images.genius.com/a89540b7eb3e6fcc65b8ab1a56d40cb1.1000x200x1.jpg",
+  "id": 764,
+  "image_url": "https://images.genius.com/9b5bb5e550d9f1094f8d2061861063aa.1000x1000x1.webp",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "MGMT",
+  "slug": "Mgmt",
+  "url": "https://genius.com/artists/Mgmt"
+ },
+ "artist": "MGMT",
+ "lyrics": "83 ContributorsTime to Pretend Lyrics\nI'm feelin' rough, I'm feelin' raw\nI'm in the prime of my life\nLet's make some music, make some money\nFind some models for wives\nI'll move to Paris, shoot some heroin\nAnd fuck with the stars\nYou man the island and the cocaine\nAnd the elegant cars\n\nThis is our decision, to live fast and die young\nWe've got the vision, now let's have some fun\nYeah, it's overwhelming, but what else can we do?\nGet jobs in offices and wake up for the morning commute?\n\nForget about our mothers and our friends\nWe're fated to pretend\nTo pretend\nWe're fated to pretend\nTo pretend\n\nI'll miss the playgrounds\nAnd the animals and diggin' up worms\nI'll miss the comfort of my mother\nAnd the weight of the world\nI'll miss my sister, miss my father\nMiss my dog and my home\nYeah, I'll miss the boredom and the freedom\nAnd the time spent alone\nYou might also like\nBut there is really nothing, nothing we can do\nLove must be forgotten, life can always start up anew\nThe models will have children, we'll get a divorce\nWe'll find some more models, everything must run its course\n\nWe'll choke on our vomit and that will be the end\nWe were fated to pretend\nTo pretend\nWe're fated to pretend\nTo pretend\n\nI said yeah, yeah, yeah\nYeah, yeah, yeah\nYeah, yeah, yeah\nYeah, yeah, yeah53Embed"
+}

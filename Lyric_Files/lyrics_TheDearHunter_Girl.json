@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1051566",
+ "artist_names": "The Dear Hunter",
+ "full_title": "Girl by\u00a0The\u00a0Dear Hunter",
+ "header_image_thumbnail_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.300x301x1.jpg",
+ "header_image_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.600x601x1.jpg",
+ "id": 1051566,
+ "instrumental": false,
+ "lyrics_owner_id": 4348618,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1696556091,
+ "path": "/The-dear-hunter-girl-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-dear-hunter-girl-sample",
+ "release_date_components": {
+  "year": 2013,
+  "month": 4,
+  "day": 2
+ },
+ "release_date_for_display": "April 2, 2013",
+ "release_date_with_abbreviated_month_for_display": "Apr. 2, 2013",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.300x301x1.jpg",
+ "song_art_image_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.600x601x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Girl",
+ "title_with_featured": "Girl",
+ "updated_by_human_at": 1696556091,
+ "url": "https://genius.com/The-dear-hunter-girl-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/109536",
+  "header_image_url": "https://images.genius.com/9ade412e21cabe3606d9cf7066c998c3.475x278x1.jpg",
+  "id": 109536,
+  "image_url": "https://images.genius.com/9ade412e21cabe3606d9cf7066c998c3.475x278x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "The Dear Hunter",
+  "slug": "The-dear-hunter",
+  "url": "https://genius.com/artists/The-dear-hunter",
+  "iq": 100
+ },
+ "artist": "The Dear Hunter",
+ "lyrics": "6 ContributorsGirl LyricsYou've got your scene pinned underneath your thumb\nAnd that\u2019s the way you need it, yeah\nYou've got the dirt that hurts on everyone\nAnd all the people see it, yeah\nEvery single heart would beat for you alone\nIf you would let it\nStarving eyes led by subtle lies\nNo one knows the way you are when you\u2019re alone\n\u2018Cause you won\u2019t let \u2018em\nCut \u2018em off before they get too close to you\nEvery single heart would beat for you alone\nIf you would let it\nStarving eyes led by subtle lies\nNo one knows the way you are when you\u2019re alone\n\u2018Cause you won\u2019t let \u2018em\nCut \u2018em off before they get too close to you!\nDon\u2019t let \u2018em in, don\u2019t let \u2018em in!\nYou've gotta keep yourself composed!\nSo, don\u2019t let \u2018em in, don\u2019t let \u2018em in!\nYou've gotta cut them off before they get too close to youYou might also likeEmbed"
+}

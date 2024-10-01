@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1363297",
+ "artist_names": "The Dear Hunter",
+ "full_title": "The Kiss of Life by\u00a0The\u00a0Dear Hunter",
+ "header_image_thumbnail_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.300x301x1.jpg",
+ "header_image_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.600x601x1.jpg",
+ "id": 1363297,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429782099,
+ "path": "/The-dear-hunter-the-kiss-of-life-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/The-dear-hunter-the-kiss-of-life-sample",
+ "release_date_components": {
+  "year": 2013,
+  "month": 4,
+  "day": 2
+ },
+ "release_date_for_display": "April 2, 2013",
+ "release_date_with_abbreviated_month_for_display": "Apr. 2, 2013",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.300x301x1.jpg",
+ "song_art_image_url": "https://images.genius.com/4f85b4232c575e69fa1a6d5df0b03bb4.600x601x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 5193
+ },
+ "title": "The Kiss of Life",
+ "title_with_featured": "The Kiss of Life",
+ "updated_by_human_at": 1671113695,
+ "url": "https://genius.com/The-dear-hunter-the-kiss-of-life-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/109536",
+  "header_image_url": "https://images.genius.com/9ade412e21cabe3606d9cf7066c998c3.475x278x1.jpg",
+  "id": 109536,
+  "image_url": "https://images.genius.com/9ade412e21cabe3606d9cf7066c998c3.475x278x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "The Dear Hunter",
+  "slug": "The-dear-hunter",
+  "url": "https://genius.com/artists/The-dear-hunter",
+  "iq": 100
+ },
+ "artist": "The Dear Hunter",
+ "lyrics": "5 ContributorsThe Kiss of Life LyricsHope was closing with my eyes\nDown the shallow grave I was lying\nThen I heard someone say, \"He'll be stuck here forever\"\nBut I prayed it wasn't forever\n'Cause you were leaning over me\nClutching memories of when I was alive\nAnd then you breathed life into me one last time\nBut I prayed it wasn't the last time\nBecause it would be so wonderful to see your starry eyes again\nGive me more than the things that I've lived for\nI'm only echoes of the man that I'm supposed to be\nBecause I want more of the things that I'd die for\nI want to feel it in my soul\nIn my soul\nNow that you've unburied me\nDust me off and carry me home\nAnd I beg you sing life to me again\nI promise this won't happen again\nBecause it would be so wonderful to see your starry eyes again\nGive me more than the things that I lived for\nI'm only echoes of the man that I'm supposed to be\nBecause I want more of the things that I'd die for\nI want to feel it in my soul\nIn my soul\nYou might also likeIt would be so wonderful to see your starry eyes again\nGive me more than the things that I lived for\nI'm only echoes of the man that I'm supposed to be\nBecause I want more of the things that I'd die for\nI want to feel it in my soul\nIn my soul2Embed"
+}

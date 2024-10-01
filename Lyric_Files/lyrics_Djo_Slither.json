@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/8243862",
+ "artist_names": "Djo",
+ "full_title": "Slither by\u00a0Djo",
+ "header_image_thumbnail_url": "https://images.genius.com/a713a35d802965e554663a8e262b6789.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a713a35d802965e554663a8e262b6789.1000x1000x1.jpg",
+ "id": 8243862,
+ "instrumental": false,
+ "lyrics_owner_id": 7172905,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1696873270,
+ "path": "/Djo-slither-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Djo-slither-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 9,
+  "day": 16
+ },
+ "release_date_for_display": "September 16, 2022",
+ "release_date_with_abbreviated_month_for_display": "Sep. 16, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a713a35d802965e554663a8e262b6789.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a713a35d802965e554663a8e262b6789.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 6264
+ },
+ "title": "Slither",
+ "title_with_featured": "Slither",
+ "updated_by_human_at": 1711469829,
+ "url": "https://genius.com/Djo-slither-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/180747",
+  "header_image_url": "https://images.genius.com/1a6babc0cf9172064460862e936f2646.1000x562x1.jpg",
+  "id": 180747,
+  "image_url": "https://images.genius.com/ff4e448857258e0707cb0a8e1d55ec0b.1000x1000x1.png",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Djo",
+  "slug": "Djo",
+  "url": "https://genius.com/artists/Djo"
+ },
+ "artist": "Djo",
+ "lyrics": "6 ContributorsTranslationsItalianoSlither Lyrics\nIt's growin' larger, I'm pushin' harder\nI'm actin' sooner, I'm buildin' to it\nIt's movin' faster, it's comin' closer\nIt's gettin' nearer, I'm feelin' older\nIt's growin' larger, I'm pushin' harder\nI'm actin' sooner, I'm buildin' to it\nIt's movin' faster, it's comin' closer\nIt's gettin' nearer, I'm feelin' older\nIt's growin' larger, I'm pushin' harder\nI'm actin' sooner, I'm buildin' to it\nI'm workin' on it\n\nI think I got it\nIt makes a nice impression, then it slithers away\nBut I'm workin' to it, I can't wait for it\nWe all wanna be someone at the end of the day\n\nIt's movin' faster, it's comin' closer\nIt's gettin' nearer, I'm feelin' older\nIt's growin' larger, I'm pushin' harder\nI'm actin' sooner, I'm buildin' to it\nI'm workin' on it\nYou might also like\nI think I got it\nIt mak\u0435s a nice impression, then it slith\u0435rs away\nBut I'm workin' to it, I can't wait for it\nWe all wanna be someone at the end of the day\nWe all wanna be someone at the end of the day1Embed"
+}

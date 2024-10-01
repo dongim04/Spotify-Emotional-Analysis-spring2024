@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/8080894",
+ "artist_names": "Sam MacPherson",
+ "full_title": "Crash Course by\u00a0Sam\u00a0MacPherson",
+ "header_image_thumbnail_url": "https://images.genius.com/2d0f3c4fd4bd590bfa3e53e02eb5833e.300x300x1.png",
+ "header_image_url": "https://images.genius.com/2d0f3c4fd4bd590bfa3e53e02eb5833e.774x775x1.png",
+ "id": 8080894,
+ "instrumental": false,
+ "lyrics_owner_id": 15670507,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1654803274,
+ "path": "/Sam-macpherson-crash-course-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Sam-macpherson-crash-course-sample",
+ "release_date_components": {
+  "year": 2022,
+  "month": 6,
+  "day": 8
+ },
+ "release_date_for_display": "June 8, 2022",
+ "release_date_with_abbreviated_month_for_display": "Jun. 8, 2022",
+ "song_art_image_thumbnail_url": "https://images.genius.com/2d0f3c4fd4bd590bfa3e53e02eb5833e.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/2d0f3c4fd4bd590bfa3e53e02eb5833e.774x775x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Crash Course",
+ "title_with_featured": "Crash Course",
+ "updated_by_human_at": 1658147192,
+ "url": "https://genius.com/Sam-macpherson-crash-course-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2613380",
+  "header_image_url": "https://images.genius.com/f05b4b5258fc1d602c0ce93a12b148e3.1000x428x1.jpg",
+  "id": 2613380,
+  "image_url": "https://images.genius.com/1e115118f3e6c7361d65f83eba126774.400x400x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sam MacPherson",
+  "slug": "Sam-macpherson",
+  "url": "https://genius.com/artists/Sam-macpherson"
+ },
+ "artist": "Sam MacPherson",
+ "lyrics": "4 ContributorsCrash Course Lyrics\nI learned my lesson the hard way\nIf it's too good to be true, then it probably is\nHistorically, you're a mistake\nBut those light-washed jeans seem to fall right off your hips\n\nIt's time that our last time was the last time\n\nIf I wanted a fast-track to falling in love\nAnd then a crash course in fucking it up\nThen I'd come back for, I'd come back for you\nIf I wanted a romance, high on adrenaline\nAnd then a, a heartbreak like you invented\nThen I know who to ask for, take a crash course from you\nWho knows, there might a version\n\nWho knows, there might be a v\u0435rsion\nOf you, that actually keeps your promises\nHistorically, you're the worst wh\u0435n\nI start believing the lies fallin' off your lips\n\nIt's time that our last time was the last time\nYou might also like\nIf I wanted a fast-track to falling in love\nAnd then a crash course in fucking it up\nThen I'd come back for, I'd come back for you\nIf I wanted a romance, high on adrenaline\nAnd then a, a heartbreak like you invented\nThen I know who to ask for, take a crash course from you\n\nTake a crash course from you, ooh\nI know who to ask for\nTake a crash course from you, oohEmbed"
+}
